@@ -57,7 +57,7 @@ class Dial(Gtk.Frame):
 
         # draw value
         cr.set_line_width(5)
-        rad = self.meter_begin + (self.meter_end - self.meter_begin)*self.value/self.max
+        rad = self.meter_begin + self.meter_range*self.value/self.max
         cr.move_to(cx+maxr*0.2*math.cos(rad),cy+maxr*0.2*math.sin(rad))
         cr.line_to(cx+maxr*0.5*math.cos(rad), cy+maxr*0.5*math.sin(rad))
         cr.stroke()
@@ -66,7 +66,7 @@ class Dial(Gtk.Frame):
         cx,cy = self._get_center()
         vx,vy = (posx-cx,posy-cy)
 
-        radadj =  math.atan2(vy,vx ) #-(90/360)*2*math.pi
+        radadj =  math.atan2(vy,vx ) 
 
         if radadj < 0 :
             radadj += 2*math.pi
