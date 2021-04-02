@@ -1,3 +1,3 @@
 
-from midisw.widget.dial import *
-from midisw.widget.piano import *
+from midisw.gtk3.dial import *
+from midisw.gtk3.piano import *
