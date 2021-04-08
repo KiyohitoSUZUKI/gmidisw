@@ -1,9 +1,19 @@
-#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+#
+#
+"""Dial widget module
+
+   Dial/knob widget module
+
+   Todo:
+"""
+
 
 import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gdk
-import cairo
+
 import math
 
 ##################################################################################
@@ -24,15 +34,15 @@ class Dial(Gtk.Range):
         self.meter_end =   2*math.pi*((360+90-self.mouth_size/2)/360)
         self.meter_range = (self.meter_end-self.meter_begin)
 
-        self.connect("draw", self.on_draw)
-        self.connect("button_press_event", self.on_pressed)
-        self.connect("button_release_event", self.on_released)
-        self.connect("motion_notify_event",self.on_motion_notified)
+        self.connect("draw", self._on_draw)
+        self.connect("button_press_event", self._on_pressed)
+        self.connect("button_release_event", self._on_released)
+        self.connect("motion_notify_event",self._on_motion_notified)
 
     def _get_center(self):
         return (self.get_allocated_width()/2,self.get_allocated_height()/2)
 
-    def on_draw(self, widget, cr):
+    def _on_draw(self, widget, cr):
         cx,cy = self._get_center()
 
         maxr = cx if cy > cx else cy
@@ -88,15 +98,15 @@ class Dial(Gtk.Range):
 
         self.queue_draw()
     
-    def on_pressed(self, widget, ev):
+    def _on_pressed(self, widget, ev):
         self.button_pressed = True
         self._set_and_queue_draw(widget, ev)
 
-    def on_released(self, widget, ev):
+    def _on_released(self, widget, ev):
         self.button_pressed = False
         self._set_and_queue_draw(widget, ev)
 
-    def on_motion_notified(self, widget, ev):
+    def _on_motion_notified(self, widget, ev):
         if self.button_pressed is True:
             self._set_and_queue_draw(widget,ev)
 
@@ -105,6 +115,11 @@ class Dial(Gtk.Range):
 class DialWithSpin(Gtk.VBox):
     def __init__(self,**kwargs):
         super().__init__()
+
+        if "label" in kwargs.keys():
+            self.label = Gtk.Label(label=kwargs["label"])
+            self.pack_start(self.label,False,False,0)
+            del(kwargs["label"])
 
         self.dial = Dial(**kwargs)
         self.pack_start(self.dial, True, True, 0)
@@ -137,37 +152,4 @@ class DialWithSpin(Gtk.VBox):
 ##################################################################################
 
 if __name__=="__main__":
-    def show_value(widget):
-        print("w1:value=%03d"%widget.get_value())
-
-    def show_value2(widget):
-        print("w2:value=%03d"%widget.get_value())
-        
-    def show_value3(widget):
-        print("w3:value=%03d"%widget.get_value())
-
-    top = Gtk.Window()
-    hb = Gtk.HBox()
-
-    d = Dial(initial_value=127)
-    d.connect("value_changed",show_value)
-
-    d2 = DialWithSpin(initial_value=127)
-    d2.connect("value_changed",show_value2)
-
-    adj = Gtk.Adjustment(lower=0,upper=127,step_increment=1)
-    d3 = Dial()
-    d3.set_adjustment(adj)
-    adj.connect("value_changed",show_value3)
-
-    hb.add(d)
-    hb.add(d2)
-    hb.add(d3)
-
-    top.add(hb)
-    top.set_size_request(384,128)
-    top.connect("destroy",Gtk.main_quit)
-
-    top.show_all()
-    Gtk.main()
-    
+    pass
