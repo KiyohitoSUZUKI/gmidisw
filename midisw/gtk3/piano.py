@@ -7,8 +7,6 @@
    Generic Piano widget module
 
    Todo:
-     * add add to draw pressed-note mark when button_pressed event
-     * add range selectable Piano widget class
 """
 
 import gi
