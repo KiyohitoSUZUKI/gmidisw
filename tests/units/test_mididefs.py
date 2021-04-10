@@ -109,6 +109,7 @@ class MIDIEventDefTest(unittest.TestCase):
 class MIDICCDefTest(unittest.TestCase):
     def setUp(self):
         self.ccdef=test_target.MIDICCDef({0x00: None, 0x07: "VOLUME"})
+        self.ccdef2=test_target.MIDICCDef().to_default()
 
     def tearDown(self):
         pass
@@ -127,6 +128,10 @@ class MIDICCDefTest(unittest.TestCase):
         self.assertFalse(self.ccdef.is_defined(0x01))
         self.assertFalse(self.ccdef.is_named(""))
 
+    def test_default(self):
+        print("ccdef2:",self.ccdef2)
+        for k in test_target.MIDICCDef.ALIAS_IF_NOTNAMED.keys():
+            self.assertEqual(self.ccdef2[k],test_target.MIDICCDef.ALIAS_IF_NOTNAMED[k])
 
     
 #########################################################################################

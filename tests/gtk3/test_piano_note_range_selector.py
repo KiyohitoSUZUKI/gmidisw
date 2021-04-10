@@ -7,15 +7,16 @@ import midisw.gtk3
 
 if __name__=="__main__":
     def print_note(widget, ev):
-        print("#get_note_number_from_xy = %d"%widget.get_note_number_from_xy(ev.x,ev.y))
+        print("#get_note_number = %d"%widget.get_note())
+        print("#get_note_range = %d,%d"%widget.get_note_range())
 
     top = Gtk.Window()
     top2 = Gtk.Window()
 
-    p1 = midisw.gtk3.PianoNoteSelector(octave = 4, octave_offset = 3)
+    p1 = midisw.gtk3.PianoNoteRangeSelector(octave = 4, octave_offset = 3)
     p1.connect("button_press_event",print_note)
 
-    p2 = midisw.gtk3.PianoNoteSelector(octave = 2, octave_offset = 0,orientation=Gtk.Orientation.VERTICAL)
+    p2 = midisw.gtk3.PianoNoteRangeSelector(octave = 2, octave_offset = 0,orientation=Gtk.Orientation.VERTICAL)
     p2.connect("button_press_event",print_note)
 
 

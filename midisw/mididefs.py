@@ -29,7 +29,7 @@ _NOTES_WHITE =  [0,2,4,5,7,9,11]
 
 def is_black_or_white(note, ditect_d):
      if isinstance(note, int):
-          return note % 12 in ditect_d
+          return note % 12  in ditect_d
      elif isinstance(note, str):
           return note2num(note) % 12 in ditect_d
      else:
@@ -117,18 +117,25 @@ def num2note(num,is_yamaha=False):
 class MIDIDef(dict):
      ALIAS_IF_NOTNAMED = {}
 
-     def __init__(self, defdict={}):
-          super().__init__(self)
+     def __init__(self, *args, **kwargs):
+          super().__init__(*args,**kwargs)
+          a = dict(*args)
           self.clear()
-          for k in defdict.keys():
-               self.define(k,defdict[k])
+          for k in a.keys():
+               self.define(k,a[k])
+
+     def to_default(self):
+          for k in self.ALIAS_IF_NOTNAMED.keys():
+               self[k] = self.ALIAS_IF_NOTNAMED[k]
+          return self
 
 
      def define(self,key, value=None):
-          if (value is None or value == "") and key in self.ALIAS_IF_NOTNAMED:
+          if (value is None or value == "") and key in self.ALIAS_IF_NOTNAMED.keys():
                self[key] = self.ALIAS_IF_NOTNAMED[key]
           else:
                self[key] = value
+          return self
 
      def is_defined(self, key):
           return key in self.keys()

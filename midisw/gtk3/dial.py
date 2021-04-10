@@ -95,7 +95,6 @@ class Dial(Gtk.Range):
 
     def _set_and_queue_draw(self, widget, ev):
         self.set_value( self._get_value_from_xy(ev.x, ev.y) )
-
         self.queue_draw()
     
     def _on_pressed(self, widget, ev):
