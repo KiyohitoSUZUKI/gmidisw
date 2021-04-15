@@ -23,8 +23,8 @@ _NOTES_LOWER = {}
 for k in _NOTES.keys():
      _NOTES_LOWER[k.lower()] = _NOTES[k]
 
-_NOTES_BLACK =  [1,3,6,8,10]
-_NOTES_WHITE =  [0,2,4,5,7,9,11]
+_NOTES_BLACK = (1,3,6,8,10)
+_NOTES_WHITE = (0,2,4,5,7,9,11)
 
 
 def is_black_or_white(note, ditect_d):
@@ -40,7 +40,8 @@ def is_white(note):
      return is_black_or_white(note, _NOTES_WHITE)
 
 def is_black(note):
-     return is_black_or_white(note, _NOTES_BLACK)
+     #return is_black_or_white(note, _NOTES_BLACK)
+     return not is_white(note)
 
 
 def note2num(note, is_yamaha = False):

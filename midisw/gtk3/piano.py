@@ -39,6 +39,15 @@ class Piano(Gtk.EventBox):
 
         self.connect("draw",self._on_draw)
 
+        #
+        # this is verry tricky stuff,
+        #
+        c = self.connect
+        ca = self.connect_after
+
+        self.connect = ca
+        self.connect_after = c
+
 
     def _get_wh(self):
         w = self.get_allocated_width()
@@ -157,6 +166,7 @@ class PianoNoteSelector(Piano):
         self.connect("motion_notify_event", self._on_motion_notified)
 
         self.marker_note_raw = None
+        self.marker_note_raw_past = None
 
     def _mark(self,cr,note):
             w, h,  w_white_key, h_white_key = self._get_wh()
@@ -208,18 +218,30 @@ class PianoNoteSelector(Piano):
         if self.marker_note_raw is None:
             pass
         else:
+            self.marker_note_raw_past = self.marker_note_raw
             self.marker_note_raw = self.get_note_number_from_xy_raw(ev.x,ev.y)
             self.queue_draw()
 
     def _on_released(self,widget,ev):
+        self.marker_note_raw_past = self.get_note_number_from_xy_raw(ev.x,ev.y)
         self.marker_note_raw = None
         self.queue_draw()
 
     def get_note_number(self):
-        return self.marker_note_raw + self.octave_offset*12
+        if not self.marker_note_raw is None:
+            return self.marker_note_raw + self.octave_offset*12
+        else:
+            return self.marker_note_raw_past + self.octave_offset*12
+
+    def get_note_number_past(self):
+            return self.marker_note_raw_past + self.octave_offset*12
 
     def get_note(self):
         return self.get_note_number()
+
+    def get_note_past(self):
+        return self.get_note_number_past()
+
 
 #######################################################
 class PianoNoteRangeSelector(PianoNoteSelector):
