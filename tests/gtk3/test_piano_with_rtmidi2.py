@@ -22,50 +22,40 @@ import midisw.gtk3.piano
 print("##------------------------------------ open port")
 
 virt_out_port = midi_out.open_port()
+last_pressed = None
 
 print("##------------------------------------ def GUI and loop")
 
-last_pressed = None
-last_released = None
-
 def do_note_on(widget,ev):
-    global virt_out_port, last_pressed, last_released
+    global virt_out_port, last_pressed
 
     note = widget.get_note()
 
     print("##noteon!:%d"%note)
     virt_out_port.send_noteon(0,note,127)
     last_pressed = note
-    last_released = None
 
 
 def do_motion_notified(widget,ev):
-    global virt_out_port, last_pressed, last_released
+    global virt_out_port, last_pressed
 
     note = widget.get_note()
-    note_past = widget.get_note_past()
 
-    if not last_pressed is None:
-        if last_pressed != note:
-            print("##noteoff:%d"%last_pressed)
-            virt_out_port.send_noteoff(0,last_pressed)
-            last_pressed = note
+    if last_pressed != note:
+        print("##noteoff:%d"%last_pressed)
+        virt_out_port.send_noteoff(0,last_pressed)
+        print("##noteon!:%d"%note)
+        virt_out_port.send_noteon(0,note,127)
 
-    if not last_released is None:
-        if last_released != note_past:
-            print("##noteon!:%d"%note)
-            virt_out_port.send_noteon(0,note,127)
-            last_released = note
+        last_pressed = note
+    else:
+        pass
 
 def do_note_off(widget,ev):
-    global virt_out_port, last_pressed, last_released
+    global virt_out_port, last_pressed
 
-    note = widget.get_note_past()
-
-    print("##noteoff:%d"%note)
-    virt_out_port.send_noteoff(0,note)
-    last_released = None
-    last_pressed = None
+    print("##noteoff:%d"%last_pressed)
+    virt_out_port.send_noteoff(0,last_pressed)
 
 
 piano = midisw.gtk3.PianoNoteSelector()
