@@ -13,9 +13,8 @@ import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gdk
 
-import math
 import cairo
-
+import math
 
 ######################################################################
 
@@ -28,6 +27,11 @@ class SynthToggle(Gtk.EventBox):
         
         self.connect("button_press_event",self._on_button_pressed)
         self.connect("draw",self._on_draw)
+        c = self.connect
+        ca = self.connect_after
+
+        self.connect = ca
+        self.connect_after = c
 
 
     def _on_draw(self, widget, cr):
@@ -80,13 +84,11 @@ class SynthToggle(Gtk.EventBox):
 
     def _on_button_pressed(self, widget,ev):
         self.toggle = not self.toggle
-
         self.queue_draw()
 
     def set_value(self, val):
-        if isinstance(a, bool) and val != self.toggle:
-            self.toggle = val
-            self.queue_draw()
+        self.toggle = val
+        self.queue_draw()
 
         return self
 
@@ -108,7 +110,7 @@ class SynthToggleWithLabel(Gtk.Frame):
         self.btn.set_value(val)
         return self
 
-    def get_value(self,val):
+    def get_value(self):
         return self.btn.get_value()
 
 ######################################################################
@@ -156,15 +158,20 @@ class SynthToggleBox(Gtk.Frame):
         return self
 
     def _on_button_pressed(self,widget,ev,i):
-        if i == self.toggled_button:
-            self.buttons[self.toggled_button].btn._on_button_pressed(widget,ev)
+        self.set_value(i)
+
+        return self
+
+    def set_value(self, num):
+        if num == self.toggled_button:
+            self.buttons[self.toggled_button].set_value(True)
             return self
 
         if not self.toggled_button is None:
-            self.buttons[self.toggled_button].btn._on_button_pressed(widget,ev)
+            self.buttons[self.toggled_button].set_value(False)
 
-        self.toggled_button = i
-        self.buttons[i].set_value(True)
+        self.toggled_button = num
+        self.buttons[num].set_value(True)
 
         return self
 
@@ -174,21 +181,4 @@ class SynthToggleBox(Gtk.Frame):
 ##########################################
 
 if __name__== "__main__":
-    print("#")
-    win = Gtk.Window()
-
-    #btn = midisw.gtk3.SynthToggle()
-    #btn = SynthToggle()
-    #btn = SynthToggleWithLabel(label="The Toggle\nHellohello")
-    # btn = SynthToggleWithLabel(label="The Toggle Hello/hello # # # # # ## # ## ## # ##")
-
-    a = [i for i in range(0,64)]
-    btnset = SynthToggleBox(label="TheFrame", labels=a)
-
-    win.add(btnset)
-
-    win.set_size_request(320,512)
-    win.connect("destroy",Gtk.main_quit)
-
-    win.show_all()
-    Gtk.main()
+    pass

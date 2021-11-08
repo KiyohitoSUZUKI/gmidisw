@@ -65,35 +65,49 @@ class Piano(Gtk.EventBox):
     def draw_piano(self, widget, cr):
         w, h, w_white_key, h_white_key = self._get_wh()
 
-        cr.set_line_width(5.0)
+        # draw white background
+        cr.set_source_rgba(1,1,1,0.7)
+        cr.rectangle(0,0,w,h)
+        cr.fill()
+
         cr.set_source_rgba(0,0,0,1)
         white_cnt = 0
         for i in range(0, self.keys):
             ofs = 0
-            fill = False
-
             if midisw.mididefs.is_white(i):
                 ofs = w_white_key * white_cnt
                 white_cnt += 1
                 ww = w_white_key
                 hh = h_white_key
+                fill = False
             else:
                 ofs = white_cnt * w_white_key - w_white_key * self.black_key_mig /2
                 ww = w_white_key * self.black_key_mig
                 hh = h_white_key * self.black_key_mig
                 fill = True
 
-            if self.orientation == Gtk.Orientation.HORIZONTAL:
+            # Once Fill black key
+            if fill == True:                       ## when Black key
+                cr.set_source_rgba(0,0,0,1)
+                cr.rectangle(ofs, 0,ww,hh)
+                cr.fill()
+            else:                                  ## when white key
+                cr.set_source_rgba(1,1,1, 0.7)
                 cr.rectangle(ofs,0,ww,hh)
+                cr.set_source_rgba(0,0,0, 1.0)
+                cr.set_line_width(2.0)
+                cr.rectangle(ofs,0,ww,hh)
+
+            # then draw rectangle
+            if self.orientation == Gtk.Orientation.HORIZONTAL:
+                pass
             else:
                 if midisw.mididefs.is_white(i):
                     cr.rectangle(0,w-ofs-w_white_key,hh,ww)
                 else:
                     cr.rectangle(0,w-ofs-w_white_key * self.black_key_mig, hh, ww)
 
-            if fill == True:
-                cr.fill()
-
+                
             cr.stroke()
 
     def draw_marker(self,widget,cr):

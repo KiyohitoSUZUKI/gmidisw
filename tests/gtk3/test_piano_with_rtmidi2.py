@@ -13,9 +13,7 @@ print("##----------------------- import custom modules")
 import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gdk
-import sys
-print(sys.path)
-sys.path.append("/home/kiyohito/lib/python")
+
 import midisw.mididefs
 import midisw.gtk3.piano
 

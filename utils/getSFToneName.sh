@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 #
 #usage:
@@ -8,7 +8,7 @@
 #
 
 
-echo 'inst 1' | fluidsynth $1 | grep '^[0-9]' | grep -v '^$' |\
+echo 'inst 1' | fluidsynth -a 'alsa'  $1 | grep '^[0-9]' | grep -v '^$' |\
     while true; do
 	read line
 

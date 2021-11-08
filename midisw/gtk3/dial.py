@@ -15,6 +15,7 @@ gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gdk
 
 import math
+import cairo
 
 ##################################################################################
 
@@ -22,7 +23,7 @@ import math
 class Dial(Gtk.Range):
 
 
-    def __init__(self,min=0,max=255,initial_value=0, meter_scale=12):
+    def __init__(self,min=0,max=127,initial_value=0, meter_scale=12):
         super().__init__()
 
         self.set_adjustment( Gtk.Adjustment(value=initial_value,lower=min,upper=max,step_increment=1) )
