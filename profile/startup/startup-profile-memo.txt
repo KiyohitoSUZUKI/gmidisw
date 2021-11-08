@@ -1,0 +1,22 @@
+- filename prefix is startup order, each means:
+  - 0? : ALSA/OSS base startup ... manipulate ALSA volume/mixer etc.
+  - 1? : jackd base startup    ... start jackd, qjackctl etc. maybe must start a2jmidid -e
+  - 2? : start misc software synthts ... start fluidsynth,qsynth,zynaddsubfx etc.
+  - 3? : start LADSPA/LV2/VST effector, or monitor apps. ... start carla, guitalix, or meterbridge etc.
+  - 4? : connect each port ... aconnectmidi, 
+  - Z?? : profile for test
+
+- startup profile types:
+  - startup : wait some ALSA/JACK port, start process,
+              observe process and required ports.
+              when process or required ports down then restart process
+              when ProcessWrapper.stop() called then stop process and wait ALSA/JACK port close
+  - startup/synth/fluidsynth : starting fluidsynth specific profile.
+                               behavior is same as profile type 'startup'.
+  - startup/synth/zynaddsubex : starting zynaddsubex specific profile.
+                                behavior is same as profile type 'startup'.
+  - startup/oneshot : wait some ALSA/JACK port,
+                      start process(onece),
+                      observe requred ports,
+                      when required pords down, then re-run onceshot
+                      when ProcessWrapper.stop() called then stop observe

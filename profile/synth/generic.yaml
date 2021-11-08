@@ -1,0 +1,32 @@
+{
+    "type" : "synth",
+    "name" : "generic",
+    "accept" : {
+	"notes" : [0,127],
+	"ch"    : [0,15],
+	"event" : "DEFAULT",
+	"cc"    : "DEFAULt",
+	"rpn"   : "DEFAULT",
+	"nrpn"  : {},
+    },
+    "send" : {
+	"notes" : [0,127],
+	"ch"    : [0,15],
+	"event" : "DEFAULT",
+	"cc"    : "DEFAULt",
+	"rpn"   : "DEFAULT",
+	"nrpn"  : {},
+    },
+    "tones" : {
+	"banks"      : {},
+	"programs"   : "ALL",
+	"categories" : {}
+    },
+    "drums" : {
+	"channels" : [],
+	"banks"    : {},
+	"programs" : "ALL",
+	"categories" : {},
+	"maps" : {}
+    }
+}

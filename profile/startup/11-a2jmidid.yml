@@ -1,0 +1,12 @@
+type : startup
+name : a2jmidid
+require : 
+  - type : alsa/midi
+    name : Midi Through Port-0
+command : a2jmidid -e
+provides :
+  - type : jack/midi
+    name : 'a2j:.*Midi Through Port-0'
+  - type : jack/midi
+    name : 'a2j:.*Midi Through Port-0'
+

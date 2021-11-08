@@ -1,0 +1,8 @@
+type : startup/synth/fluidsynth
+name : test for StevesLesPaul-R5 loading
+require :
+  - type : jack/audio
+    name : system:playback_1
+  - type : jack/audio
+    name : system:playback_2
+soundfont : ~/lib/audio/soundfont/Guitar/StevesLesPaul-R5.SF2

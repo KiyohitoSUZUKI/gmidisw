@@ -1,0 +1,54 @@
+type : startup/oneshot
+name : connect each softsynth port
+require :
+  # wait rawsetup softsynth
+  - type : jack/midi
+    name : FluidRawStartup:midi_00
+  - type : jack/audio
+    name : FluidRawStartup:left
+  - type : jack/audio
+    name : FluidRawStartup:right
+  #  wait fluidsynth default
+  - type : jack/midi
+    name : FluidR3_GM:midi_00
+  - type : jack/audio
+    name : FluidR3_GM:left
+  - type : jack/audio
+    name : FluidR3_GM:right
+  # wait LesPaul
+  - type : jack/midi
+    name : StevesLesPaul-R5:midi_00
+  - type : jack/audio
+    name : StevesLesPaul-R5:left
+  - type : jack/audio
+    name : StevesLesPaul-R5:right
+  # wait zynaddsubfx default
+  - type : jack/midi
+    name : zynaddsubfx:midi_input
+  - type : jack/midi
+    name : zynaddsubfx:osc
+  - type : jack/audio
+    name : zynaddsubfx:out_1
+  - type : jack/audio
+    name : zynaddsubfx:out_2
+  # wait zynaddsubfx tutnamed
+  - type : jack/midi
+    name : zynaddsubfx_tutname:midi_input
+  - type : jack/midi
+    name : zynaddsubfx_tutname:osc
+  - type : jack/audio
+    name : zynaddsubfx_tutname:out_1
+  - type : jack/audio
+    name : zynaddsubfx_tutname:out_2
+command:
+  - jack_connect RawStartup_FluidR3_GM:left system:playback_1
+  - jack_connect RawStartup_FluidR3_GM:right system:playback_2
+  - jack_connect FluidR3_GM:left system:playback_1
+  - jack_connect FluidR3_GM:right system:playback_2
+  - jack_connect SteveLesPaul-R5:left system:playback_1
+  - jack_connect SteveLesPaul-R5:right system:playback_2
+  - jack_connect zynaddsubfx:out_1 system:playback_1
+  - jack_connect zynaddsubfx:out_2 system:playback_2
+  - jack_connect zynaddsubfx_tutname:out_1 system:playback_1
+  - jack_connect zynaddsubfx_tutname:out_2 system:playback_2
+

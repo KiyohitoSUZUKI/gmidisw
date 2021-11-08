@@ -1,0 +1,15 @@
+name : test for startup raw-softsynth
+require : 
+  - type : jack/audio
+    name : system:playback_1
+  - type : jack/audio
+    name : system:playback_2
+#command : fluidsynth --audio-driver=jack --midi-driver=jack -o audio.jack.id=FluidRawStartup -o midi.jack.id=FluidRawStartup --chorus=no --reverb=no ~/lib/audio/soundfont/GSGM/Jnsgm.sf2
+command : fluidsynth --audio-driver=jack --midi-driver=jack -o audio.jack.id=FluidRawStartup -o midi.jack.id=FluidRawStartup --chorus=no --reverb=no ~/lib/audio/soundfont/GSGM/FluidR3_GM.sf2
+provides : 
+  - type : jack/midi
+    name : FluidRawStartup:midi_00
+  - type : jack/audio
+    name : FluidRawStartup:left
+  - type : jack/audio
+    name : FluidRawStartup:right
