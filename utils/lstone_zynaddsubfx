@@ -1,0 +1,36 @@
+#!/usr/bin/python3
+
+import os
+import subprocess
+import xml.etree.ElementTree as ET
+
+TGTFNAME = os.path.expanduser("~/.zynaddsubfx-bank-cache.xml")
+BANKBASE = "/usr/share/zynaddsubfx/banks/"
+
+####################################################################
+
+cmd = f"cat {TGTFNAME} | grep -v '^$'"
+xmlstr = subprocess.check_output(cmd,shell=True, universal_newlines=True)
+
+root = ET.fromstring(xmlstr)
+bclist = root[2]
+
+##========================
+print("'bankmsb','banklsb','prog','gname','tname'")
+
+bankno=-1
+last_bankname=""
+
+for c in bclist:
+    bankname = c.attrib["bank"].replace(BANKBASE,"").replace("/","")
+    progno = int(c.attrib["id"])
+    name = c.attrib["name"]
+
+    if bankname != last_bankname:
+        bankno += 1
+
+    last_bankname = bankname
+
+    bankmsb = bankno / 128
+    banklsb = bankno % 128
+    print("%u,%u,%u,'%s','%s'"%(bankmsb, banklsb, progno, bankname, name))

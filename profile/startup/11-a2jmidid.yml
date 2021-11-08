@@ -3,7 +3,7 @@ name : a2jmidid
 require : 
   - type : alsa/midi
     name : Midi Through Port-0
-command : a2jmidid -e
+command : a2jmidid --export-hw
 provides :
   - type : jack/midi
     name : 'a2j:.*Midi Through Port-0'

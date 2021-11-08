@@ -1,0 +1,19 @@
+#!/usr/bin/python3
+
+#
+#usage:
+# $0 <sondfontfile.sf>
+#output:
+# output csv to stdout: bankmsb,banklsb,prog,category,name
+#
+
+import midisw.tonenamedb
+import sys
+
+tdb = midisw.tonenamedb.SoundFont()
+
+tdb.load(sys.argv[1])
+
+print("'bankmsb','banklsb','prog','gname','tname'")
+for t in tdb.ls():
+    print("%u,%u,%u,'%s','%s'"%(t[0],t[1],t[2],t[3],t[4]))

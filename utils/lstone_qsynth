@@ -1,0 +1,66 @@
+#!/usr/bin/python3
+
+import os
+import subprocess
+import xml.etree.ElementTree as ET
+import configparser
+
+TGTFNAME = os.path.expanduser("~/.config/rncbc.org/Qsynth.conf")
+
+####################################################################
+
+conf = configparser.ConfigParser()
+conf.read(TGTFNAME, encoding='utf-8')
+
+##=====================
+
+tonedic_sf={}
+tonedic_names={}
+for k in conf["Engine"]:
+    key = k
+    value = conf["Engine"][k]
+    ename,category,param = key.split("\\")
+
+    if not ename in tonedic_sf:
+        tonedic_sf[ename] = {}
+
+    if category == "soundfonts":                    ##all keys are lowercase
+        for tgtp in ["bankoffset","soundfont"]:
+            if param.startswith(tgtp):
+                num = param.replace(tgtp,"")
+                if not num in tonedic_sf[ename]:
+                    tonedic_sf[ename][num] = {}
+                tonedic_sf[ename][num][tgtp] = value
+    elif category == "settings":
+        if param == "displayname":
+            tonedic_names[ename] = value
+    else:
+        pass
+
+#print("##tonedic_names: "%tonedic_names)
+
+##=====================
+for qc in tonedic_sf:
+    print("'config=%s'"%tonedic_names[qc])
+    print("'bankmsb','banklsb','prog','gname','tname'")
+    
+    for sf in tonedic_sf[qc]:
+        ofs=int(tonedic_sf[qc][sf]["bankoffset"])
+        sfpath=tonedic_sf[qc][sf]["soundfont"]
+
+        cmd = f" echo 'inst 1' | fluidsynth -a 'alsa'  \"{sfpath}\" | grep '^[0-9]' | grep -v '^$' "
+
+        rslt = subprocess.check_output(cmd,shell=True, universal_newlines=True)
+
+        for line in rslt.split("\n"):
+            if line == "":
+                continue
+#            print("##@line="+line)
+            banks_progs = line[:7]
+            tonename = line[8:]
+            banks,progs = banks_progs.split("-")
+            banki = int(banks) + ofs
+            progi = int(progs)
+            groupname = tonedic_names[qc]+"/"+os.path.basename(sfpath)
+
+            print("%u,%u,%u,'%s','%s'"%(banki/128,banki%128,progi,groupname,tonename))

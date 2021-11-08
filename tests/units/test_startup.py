@@ -5,12 +5,12 @@ import midisw.startup as test_target
 
 import logging
 
-import midisw.envdef as ENVDEF
+from midisw.envdefs import *
 
-#logging.basicConfig(level=ENVDEF.LOGGING_LEVEL)
+#logging.basicConfig(level=LOGGING_LEVEL)
 logging.basicConfig(level=logging.DEBUG)
 
-class StartupTest(unittest.TestCase):
+class TestStartup(unittest.TestCase):
     def setUp(self):
         test_profile.cleanup_profile()
         test_profile.create_profile()

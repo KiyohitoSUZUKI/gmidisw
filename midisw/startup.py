@@ -6,49 +6,52 @@ import time
 import logging
 import shlex
 
-import midisw.envdef as ENVDEF
+from midisw.envdefs import *
+
 import midisw.profile
 
-logging.basicConfig(level=ENVDEF.LOGGING_LEVEL)
+logging.basicConfig(level=LOGGING_LEVEL)
 
-PORT_TYPES = ['jack/audio','jack/midi','alsa/audio','alsa/midi']
-PORT_OBSERVE_INTERVAL=1
+_PORT_OBSERVE_INTERVAL=1
+_PORT_LIST_CMD = {}
+_PORT_LIST_CMD["jack"] = "jack_lsp -t | sed 's/\\t//g' | awk 'NR%2 == 1{ lastline=$0 } NR%2==0 { printf(\"%s,%s\\n\",lastline,$0) }' "
+
+_PORT_LIST_CMD["jack/audio"] = _PORT_LIST_CMD["jack"] + " | grep 'audio$' | sed 's/,.*$//g'"
+_PORT_LIST_CMD["jack/midi"]  = _PORT_LIST_CMD["jack"] + " | grep 'midi$'  | sed 's/,.*$//g'"
+_PORT_LIST_CMD["alsa/audio"] = "(export LANG=C; aplay -l)| grep '^card' | sed 's/^.*: //g'"
+#_PORT_LIST_CMD["alsa/midi"]  = "cat /proc/asound/seq/clients | grep 'Port' | sed 's/^ *Port *[0-9] : //g' | sed 's/......)$//g' | sed 's/\"//g' "
+_PORT_LIST_CMD["alsa/midi"]  = "aplaymidi -l | sed '1d'"
 
 ##########################################################
 # checkfunc for  jackd-audio/alsa-audio,midi port
 ##########################################################
 
 def is_port_active(port_type, port_regex):
-    if port_type == 'jack/audio' or port_type == 'jack/midi':
-        cmd = 'jack_lsp | grep -i "' + port_regex + '" | wc -l'
-    elif port_type == 'alsa/audio':
-        cmd = f"(export LANG=C; aplay -l | grep -v '^ ' | grep -i  '{port_regex}' | wc -l)"
-    elif port_type == 'alsa/midi':
-#        cmd = f"cat /proc/asound/seq/clients | grep ^Client | grep : | sed 's/^Client *//g' |   grep -i '{port_regex}' | wc -l"
-        cmd = f"cat /proc/asound/seq/clients | grep 'Port' | sed 's/^ *Port *[0-9] : //g' |  grep -i '{port_regex}' | wc -l"
-    else:
-        logging.error(f"startup:is_port_active:bad port type:{port_type}/{port_regex}")
+    if not port_type in _PORT_LIST_CMD:
+        logging.error(f"#@startup:is_port_active:bad port type:{port_type}/{port_regex}")
         return False
 
-    #logging.debug(f"startup:is_port_active:port checking:{port_type}/{port_regex}")
+    cmd = "%s | grep -i '%s' | wc -l "%(_PORT_LIST_CMD[port_type], port_regex)
+
+#    logging.debug("#@ cmd=%s"%cmd)
 
     rslt = subprocess.check_output(cmd,shell=True, universal_newlines=True)
 
-    #logging.debug(f"startup:is_port_active:port check rslt={rslt}")
+#    logging.debug(f"#@ startup:is_port_active:port check rslt={rslt}")
 
     return int(rslt) > 0
 
 def wait_port_up(port_type, port_regex):
     while not is_port_active(port_type, port_regex):
-        logging.debug(f"startup:wait_port_up:waiting {port_type}/{port_regex}")
-        time.sleep(PORT_OBSERVE_INTERVAL)
-    logging.debug(f"startup:wait_port_up:found {port_type}/{port_regex}")
+        logging.debug(f"#@startup:wait_port_up:waiting {port_type}/{port_regex}")
+        time.sleep(_PORT_OBSERVE_INTERVAL)
+    logging.debug(f"#@startup:wait_port_up:found {port_type}/{port_regex}")
 
 def wait_port_down(port_type, port_regex):
     while is_port_active(port_type, port_regex):
-        logging.debug(f"startup:wait_port:down:waiting {port_type}/{port_regex}")
-        time.sleep(PORT_OBSERVE_INTERVAL)
-    logging.debug(f"startup:port_down:downed {port_type}/{port_regex}")
+        logging.debug(f"#@startup:wait_port:down:waiting {port_type}/{port_regex}")
+        time.sleep(_PORT_OBSERVE_INTERVAL)
+    logging.debug(f"#@startup:port_down:downed {port_type}/{port_regex}")
 
 ##########################################################
 # ProcessMonitoring Wrapper
@@ -75,17 +78,17 @@ class ProcessWrapper(object):
             if not is_process_active or not is_port_valid:
                 self.stop()
                 self.start()
-            time.sleep(PORT_OBSERVE_INTERVAL)
+            time.sleep(_PORT_OBSERVE_INTERVAL)
 
     def _wait_provides_down(self):
-        logging.debug(f"startup:ProcessWrapper:_wait_provides_down:waiting {self.prof['provides']}")
+        logging.debug(f"#@startup:ProcessWrapper:_wait_provides_down:waiting {self.prof['provides']}")
         for port in self.prof['provides']:
             wait_port_down(port['type'],port['name'])
 
         return self
 
     def _wait_provides_up(self):
-        logging.debug(f"startup:ProcessWrapper:_wait_provides_up:waiting {self.prof['provides']}")
+        logging.debug(f"#@startup:ProcessWrapper:_wait_provides_up:waiting {self.prof['provides']}")
         for port in self.prof['provides']:
             wait_port_up(port['type'],port['name'])
 
@@ -94,11 +97,11 @@ class ProcessWrapper(object):
 
     def stop(self):
         self.req_observe_stop = True
-        self.observer_th.join(timeout=PORT_OBSERVE_INTERVAL)
+        self.observer_th.join(timeout=_PORT_OBSERVE_INTERVAL)
         if not self.popen_h is None:
             self.popen_h.kill()
             self.popen_h.wait()
-            logging.debug('startup:ProcessWrapper:stop:killed, status= '+str(self.popen_h.poll()))
+            logging.debug('#@startup:ProcessWrapper:stop:killed, status= '+str(self.popen_h.poll()))
             self._wait_provides_down()
 
         self.popen_h = None
@@ -123,19 +126,19 @@ class ProcessWrapper(object):
        #  subprocess.call('export LANG=C; ' + cmd + ' &',shell=True)
        #
        cmdline = 'exec ' + self.prof['command']
-       logging.debug(f"startup:ProcessWrapper:starting {cmdline}")
+       logging.debug(f"#@startup:ProcessWrapper:starting {cmdline}")
        self.popen_h = subprocess.Popen(cmdline,shell=True)
 
        if self.is_oneshot:
            self.popen_h.wait()
-           time.sleep(PORT_OBSERVE_INTERVAL*2)
+           time.sleep(_PORT_OBSERVE_INTERVAL*2)
        else:
            #
            # whien process startup fail, restart and wait process again
            #
            while (not self.popen_h.poll() is None) and (self.is_oneshot is False): 
                logging.debug('.')
-               time.sleep(PORT_OBSERVE_INTERVAL)
+               time.sleep(_PORT_OBSERVE_INTERVAL)
                self.popen_h = subprocess.Popen(cmdline,shell=True)
             #
             # wait provided port

@@ -5,4 +5,4 @@ require :
     name : system:playback_1
   - type : jack/audio
     name : system:playback_2
-zynaddsubfx-name : tutname
+zynaddsubfx_name : tutname

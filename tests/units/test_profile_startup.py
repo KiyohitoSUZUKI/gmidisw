@@ -3,12 +3,12 @@ import midisw.profile as test_target
 
 import logging
 
-import midisw.envdef as ENVDEF
+from midisw.envdefs import *
 
-#logging.basicConfig(level=ENVDEF.LOGGING_LEVEL)
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=LOGGING_LEVEL)
+#logging.basicConfig(level=logging.DEBUG)
 
-class ProfileTest(unittest.TestCase):
+class TestProfileStartup(unittest.TestCase):
     def setUp(self):
         #
         # cleanup default config
@@ -20,17 +20,17 @@ class ProfileTest(unittest.TestCase):
         pass
 
     def test_loading(self):
-        profile_type = "startup"
-        profile_name = "Z1-jack-PCH"
+        profile_category = "startup"
+        profile_name = "Z10-jack-PCH"
 
-        prof = test_target.load_profile(profile_type, profile_name)
+        prof = test_target.load_profile(profile_category, profile_name)
         self.assertIsNotNone(prof['name'])
 
     def test_fluidsynth_default(self):
         profile_category = "startup"
-        profile_name = "Z2-fluidsynth-default"
+        profile_name = "Z21-fluidsynth-default"
 
-        logging.debug(f"#loading profile:{profile_type},{profile_name}")
+        logging.debug(f"#loading profile:{profile_category},{profile_name}")
 
         prof = test_target.load_profile(profile_category, profile_name)
 
@@ -39,11 +39,11 @@ class ProfileTest(unittest.TestCase):
         self.assertTrue(prof['require'][0]['name'] == 'system:playback_1')
         self.assertTrue(prof['require'][1]['type'] == 'jack/audio')
         self.assertTrue(prof['require'][1]['name'] == 'system:playback_2')
-        self.assertTrue(prof['portname-prefix'] in prof['command'])
+        self.assertTrue(prof['portname_prefix'] in prof['command'])
 
     def test_zynaddsubfx_default(self):
         profile_category = "startup"
-        profile_name = "Z2-zynaddsubfx-default"
+        profile_name = "Z23-zynaddsubfx-default"
 
         prof = test_target.load_profile(profile_category, profile_name)
 
@@ -52,12 +52,12 @@ class ProfileTest(unittest.TestCase):
         self.assertTrue(prof['require'][0]['name'] == 'system:playback_1')
         self.assertTrue(prof['require'][1]['type'] == 'jack/audio')
         self.assertTrue(prof['require'][1]['name'] == 'system:playback_2')
-        self.assertTrue(prof['portname-prefix'] in prof['command'])
+        self.assertTrue(prof['portname_prefix'] in prof['command'])
 
 
     def test_expanding_command(self):
         profile_category = "startup"
-        profile_name = "Z0-init-PCH"
+        profile_name = "Z00-init-PCH"
         
         prof = test_target.load_profile(profile_category, profile_name)
 

@@ -1,0 +1,3 @@
+type: synth/fluidsynth
+name: "fluidsynth FluidR3_GM"
+soundfont: ~/lib/audio/soundfont/GSGM/FluidR3_GM.sf2
