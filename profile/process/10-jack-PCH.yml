@@ -1,0 +1,18 @@
+type : process
+name : jackd PCH_Analog
+require :
+  - type : alsa/audio
+    name : ALC269VC Analog
+#"command" : "qjackctl -s -p PCH_Analog",
+command : jackd -dalsa -r44100 -p512 -n4 -D -Chw:PCH,0 -Phw:PCH,0
+provides :
+  - type : jack/audio
+    name : system:capture_1
+  - type : jack/audio
+    name : system:capture_2
+  - type : jack/audio
+    name : system:playback_1
+  - type : jack/audio
+    name : system:playback_2
+
+

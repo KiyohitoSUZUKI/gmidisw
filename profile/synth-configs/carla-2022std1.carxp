@@ -24,6 +24,7 @@
 
   <Data>
    <Active>Yes</Active>
+   <Volume>0.8132351</Volume>
    <ControlChannel>1</ControlChannel>
    <Options>0x0</Options>
 
@@ -423,6 +424,7 @@
 
   <Data>
    <Active>Yes</Active>
+   <Volume>1.077819</Volume>
    <ControlChannel>1</ControlChannel>
    <Options>0x0</Options>
 
@@ -430,7 +432,7 @@
     <Index>0</Index>
     <Name>Dry Level</Name>
     <Symbol>dry_level</Symbol>
-    <Value>52.7607345581055</Value>
+    <Value>25.3097534179688</Value>
    </Parameter>
 
    <Parameter>
@@ -624,214 +626,6 @@
   </Data>
  </Plugin>
 
- <!-- LSP Delay Compensator Mono -->
- <Plugin>
-  <Info>
-   <Type>LV2</Type>
-   <Name>LSP Delay Compensator Mono-1</Name>
-   <URI>http://lsp-plug.in/plugins/lv2/comp_delay_mono</URI>
-  </Info>
-
-  <Data>
-   <Active>Yes</Active>
-   <ControlChannel>1</ControlChannel>
-   <Options>0x1</Options>
-
-   <Parameter>
-    <Index>0</Index>
-    <Name>Enabled</Name>
-    <Symbol>enabled</Symbol>
-    <Value>1</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>1</Index>
-    <Name>Mode</Name>
-    <Symbol>mode</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>2</Index>
-    <Name>Ramping</Name>
-    <Symbol>ramp</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>3</Index>
-    <Name>Samples</Name>
-    <Symbol>samp</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>4</Index>
-    <Name>Meters</Name>
-    <Symbol>m</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>5</Index>
-    <Name>Centimeters</Name>
-    <Symbol>cm</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>6</Index>
-    <Name>Temperature</Name>
-    <Symbol>t</Symbol>
-    <Value>20</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>7</Index>
-    <Name>Time</Name>
-    <Symbol>time</Symbol>
-    <Value>4.59999942779541</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>8</Index>
-    <Name>Dry amount</Name>
-    <Symbol>dry</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>9</Index>
-    <Name>Wet amount</Name>
-    <Symbol>wet</Symbol>
-    <Value>1</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>10</Index>
-    <Name>Output gain</Name>
-    <Symbol>g_out</Symbol>
-    <Value>1</Value>
-   </Parameter>
-
-   <CustomData>
-    <Type>http://kxstudio.sf.net/ns/carla/property</Type>
-    <Key>CarlaSkinIsCompacted</Key>
-    <Value>false</Value>
-   </CustomData>
-
-   <CustomData>
-    <Type>http://lv2plug.in/ns/ext/atom#Object</Type>
-    <Key>http://lsp-plug.in/plugins/lv2/comp_delay_mono/KVT</Key>
-    <Value>AAAAAEAAAAA=</Value>
-   </CustomData>
-  </Data>
- </Plugin>
-
- <!-- LSP Delay Compensator Mono -->
- <Plugin>
-  <Info>
-   <Type>LV2</Type>
-   <Name>LSP Delay Compensator Mono-2</Name>
-   <URI>http://lsp-plug.in/plugins/lv2/comp_delay_mono</URI>
-  </Info>
-
-  <Data>
-   <Active>Yes</Active>
-   <ControlChannel>1</ControlChannel>
-   <Options>0x1</Options>
-
-   <Parameter>
-    <Index>0</Index>
-    <Name>Enabled</Name>
-    <Symbol>enabled</Symbol>
-    <Value>1</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>1</Index>
-    <Name>Mode</Name>
-    <Symbol>mode</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>2</Index>
-    <Name>Ramping</Name>
-    <Symbol>ramp</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>3</Index>
-    <Name>Samples</Name>
-    <Symbol>samp</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>4</Index>
-    <Name>Meters</Name>
-    <Symbol>m</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>5</Index>
-    <Name>Centimeters</Name>
-    <Symbol>cm</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>6</Index>
-    <Name>Temperature</Name>
-    <Symbol>t</Symbol>
-    <Value>20</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>7</Index>
-    <Name>Time</Name>
-    <Symbol>time</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>8</Index>
-    <Name>Dry amount</Name>
-    <Symbol>dry</Symbol>
-    <Value>0</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>9</Index>
-    <Name>Wet amount</Name>
-    <Symbol>wet</Symbol>
-    <Value>1</Value>
-   </Parameter>
-
-   <Parameter>
-    <Index>10</Index>
-    <Name>Output gain</Name>
-    <Symbol>g_out</Symbol>
-    <Value>1</Value>
-   </Parameter>
-
-   <CustomData>
-    <Type>http://kxstudio.sf.net/ns/carla/property</Type>
-    <Key>CarlaSkinIsCompacted</Key>
-    <Value>false</Value>
-   </CustomData>
-
-   <CustomData>
-    <Type>http://lv2plug.in/ns/ext/atom#Object</Type>
-    <Key>http://lsp-plug.in/plugins/lv2/comp_delay_mono/KVT</Key>
-    <Value>AAAAAEAAAAA=</Value>
-   </CustomData>
-  </Data>
- </Plugin>
-
  <!-- GxWahwah -->
  <Plugin>
   <Info>
@@ -969,7 +763,7 @@
 
   <Data>
    <Active>Yes</Active>
-   <Volume>0.9097304</Volume>
+   <Volume>0.20625</Volume>
    <ControlChannel>1</ControlChannel>
    <Options>0x0</Options>
 
@@ -977,7 +771,7 @@
     <Index>0</Index>
     <Name>MasterGain</Name>
     <Symbol>MasterGain</Symbol>
-    <Value>-6.5</Value>
+    <Value>-14.2450981140137</Value>
    </Parameter>
 
    <Parameter>
@@ -1082,7 +876,7 @@
 
   <Data>
    <Active>Yes</Active>
-   <Volume>0.670049</Volume>
+   <Volume>0.20625</Volume>
    <ControlChannel>1</ControlChannel>
    <Options>0x0</Options>
 
@@ -1090,7 +884,7 @@
     <Index>0</Index>
     <Name>MasterGain</Name>
     <Symbol>MasterGain</Symbol>
-    <Value>0.858823239803314</Value>
+    <Value>-10.3176469802856</Value>
    </Parameter>
 
    <Parameter>
@@ -1838,7 +1632,7 @@
     <Type>http://lv2plug.in/ns/ext/atom#Chunk</Type>
     <Key>http://padthv1.sourceforge.net/lv2#state</Key>
     <Value>
-PCFET0NUWVBFIHBhZHRodjE+CjxzdGF0ZT4KIDxzYW1wbGVzPgogIDxzYW1wbGUgaW5kZXg9IjAiIG5oPSIzMiI+CiAgIDxpdGVtcz4KICAgIDxpdGVtIGluZGV4PSIwIj4xPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjEiPjAuODMzNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyIj4wLjMzMzMzMzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIzIj4wLjQxNjc1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjQiPjAuMjwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI1Ij4wLjI3NzgzMzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI2Ij4wLjE0Mjg1NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI3Ij4wLjIwODM3NTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI4Ij4wLjExMTExMTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI5Ij4wLjE2Njc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTAiPjAuMDkwOTA5MTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxMSI+MC4xMzg5MTc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTIiPjAuMDc2OTIzMTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxMyI+MC4xMTkwNzE8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTQiPjAuMDY2NjY2NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxNSI+MC4xMDQxODg8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTYiPjAuMDU4ODIzNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxNyI+MC4wOTI2MTExPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE4Ij4wLjA1MjYzMTY8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTkiPjAuMDgzMzU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjAiPjAuMDQ3NjE5PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjIxIj4wLjA3NTc3Mjc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjIiPjAuMDQzNDc4MzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyMyI+MC4wNjk0NTgzPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI0Ij4wLjA0PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI1Ij4wLjA2NDExNTQ8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjYiPjAuMDM3MDM3PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI3Ij4wLjA1OTUzNTc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjgiPjAuMDM0NDgyODwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyOSI+MC4wNTU1NjY3PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjMwIj4wLjAzMjI1ODE8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMzEiPjAuMDUyMDkzODwvaXRlbT4KICAgPC9pdGVtcz4KICA8L3NhbXBsZT4KICA8c2FtcGxlIGluZGV4PSIxIiBuaD0iMzIiPgogICA8aXRlbXM+CiAgICA8aXRlbSBpbmRleD0iMCI+MTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxIj4wLjU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMiI+MC41NTU2Njc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMyI+MC4yNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI0Ij4wLjMzMzQ8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iNSI+MC4xNjY2Njc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iNiI+MC4yMzgxNDM8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iNyI+MC4xMjU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iOCI+MC4xODUyMjI8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iOSI+MC4xPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjEwIj4wLjE1MTU0NTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxMSI+MC4wODMzMzMzPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjEyIj4wLjEyODIzMTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxMyI+MC4wNzE0Mjg2PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE0Ij4wLjExMTEzMzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxNSI+MC4wNjI1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE2Ij4wLjA5ODA1ODg8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTciPjAuMDU1NTU1NjwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxOCI+MC4wODc3MzY4PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE5Ij4wLjA1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjIwIj4wLjA3OTM4MTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyMSI+MC4wNDU0NTQ1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjIyIj4wLjA3MjQ3ODM8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjMiPjAuMDQxNjY2NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyNCI+MC4wNjY2ODwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyNSI+MC4wMzg0NjE1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI2Ij4wLjA2MTc0MDc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjciPjAuMDM1NzE0MzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyOCI+MC4wNTc0ODI4PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI5Ij4wLjAzMzMzMzM8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMzAiPjAuMDUzNzc0MjwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIzMSI+MC4wMzEyNTwvaXRlbT4KICAgPC9pdGVtcz4KICA8L3NhbXBsZT4KIDwvc2FtcGxlcz4KPC9zdGF0ZT4K
+PCFET0NUWVBFIHBhZHRodjE+CjxzdGF0ZT4KIDxzYW1wbGVzPgogIDxzYW1wbGUgaW5kZXg9IjEiIG5oPSIzMiI+CiAgIDxpdGVtcz4KICAgIDxpdGVtIGluZGV4PSIwIj4xPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjEiPjAuNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyIj4wLjU1NTY2NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIzIj4wLjI1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjQiPjAuMzMzNDwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI1Ij4wLjE2NjY2NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI2Ij4wLjIzODE0MzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI3Ij4wLjEyNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI4Ij4wLjE4NTIyMjwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI5Ij4wLjE8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTAiPjAuMTUxNTQ1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjExIj4wLjA4MzMzMzM8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTIiPjAuMTI4MjMxPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjEzIj4wLjA3MTQyODY8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTQiPjAuMTExMTMzPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE1Ij4wLjA2MjU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTYiPjAuMDk4MDU4ODwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxNyI+MC4wNTU1NTU2PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE4Ij4wLjA4NzczNjg8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTkiPjAuMDU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjAiPjAuMDc5MzgxPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjIxIj4wLjA0NTQ1NDU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjIiPjAuMDcyNDc4MzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyMyI+MC4wNDE2NjY3PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI0Ij4wLjA2NjY4PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI1Ij4wLjAzODQ2MTU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjYiPjAuMDYxNzQwNzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyNyI+MC4wMzU3MTQzPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI4Ij4wLjA1NzQ4Mjg8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjkiPjAuMDMzMzMzMzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIzMCI+MC4wNTM3NzQyPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjMxIj4wLjAzMTI1PC9pdGVtPgogICA8L2l0ZW1zPgogIDwvc2FtcGxlPgogIDxzYW1wbGUgaW5kZXg9IjAiIG5oPSIzMiI+CiAgIDxpdGVtcz4KICAgIDxpdGVtIGluZGV4PSIwIj4xPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjEiPjAuODMzNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyIj4wLjMzMzMzMzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIzIj4wLjQxNjc1PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjQiPjAuMjwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI1Ij4wLjI3NzgzMzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI2Ij4wLjE0Mjg1NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI3Ij4wLjIwODM3NTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI4Ij4wLjExMTExMTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSI5Ij4wLjE2Njc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTAiPjAuMDkwOTA5MTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxMSI+MC4xMzg5MTc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTIiPjAuMDc2OTIzMTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxMyI+MC4xMTkwNzE8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTQiPjAuMDY2NjY2NzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxNSI+MC4xMDQxODg8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTYiPjAuMDU4ODIzNTwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIxNyI+MC4wOTI2MTExPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjE4Ij4wLjA1MjYzMTY8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMTkiPjAuMDgzMzU8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjAiPjAuMDQ3NjE5PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjIxIj4wLjA3NTc3Mjc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjIiPjAuMDQzNDc4MzwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyMyI+MC4wNjk0NTgzPC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI0Ij4wLjA0PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI1Ij4wLjA2NDExNTQ8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjYiPjAuMDM3MDM3PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjI3Ij4wLjA1OTUzNTc8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMjgiPjAuMDM0NDgyODwvaXRlbT4KICAgIDxpdGVtIGluZGV4PSIyOSI+MC4wNTU1NjY3PC9pdGVtPgogICAgPGl0ZW0gaW5kZXg9IjMwIj4wLjAzMjI1ODE8L2l0ZW0+CiAgICA8aXRlbSBpbmRleD0iMzEiPjAuMDUyMDkzODwvaXRlbT4KICAgPC9pdGVtcz4KICA8L3NhbXBsZT4KIDwvc2FtcGxlcz4KPC9zdGF0ZT4K
     </Value>
    </CustomData>
   </Data>
@@ -2686,10 +2480,6 @@ version-revision=&quot;5&quot; ZynAddSubFX-author=&quot;Nasca Octavian Paul&quot
    <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
   </Connection>
   <Connection>
-   <Source>a2j:KOMPLETE KONTROL M32 [32] (capture): KOMPLETE KONTROL M32 MIDI 1</Source>
-   <Target>QGtr:midi_00</Target>
-  </Connection>
-  <Connection>
    <Source>QOrgan:left</Source>
    <Target>GxTubeTremelo:In</Target>
   </Connection>
@@ -2706,14 +2496,6 @@ version-revision=&quot;5&quot; ZynAddSubFX-author=&quot;Nasca Octavian Paul&quot
    <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
   </Connection>
   <Connection>
-   <Source>EQ10Q Stereo:Output1</Source>
-   <Target>system:playback_1</Target>
-  </Connection>
-  <Connection>
-   <Source>EQ10Q Stereo:Output2</Source>
-   <Target>system:playback_2</Target>
-  </Connection>
-  <Connection>
    <Source>QPiano:left</Source>
    <Target>Dragonfly Hall Reverb:Audio Input 1</Target>
   </Connection>
@@ -2726,36 +2508,8 @@ version-revision=&quot;5&quot; ZynAddSubFX-author=&quot;Nasca Octavian Paul&quot
    <Target>Dragonfly Hall Reverb:Audio Input 1</Target>
   </Connection>
   <Connection>
-   <Source>Dragonfly Hall Reverb:Audio Output 1</Source>
-   <Target>EQ10Q Stereo:Input1</Target>
-  </Connection>
-  <Connection>
-   <Source>Dragonfly Hall Reverb:Audio Output 2</Source>
-   <Target>EQ10Q Stereo:Input2</Target>
-  </Connection>
-  <Connection>
-   <Source>GxTubeTremelo:Out</Source>
-   <Target>Dragonfly Hall Reverb:Audio Input 1</Target>
-  </Connection>
-  <Connection>
-   <Source>GxTubeTremelo:Out</Source>
-   <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
-  </Connection>
-  <Connection>
-   <Source>LSP Delay Compensator Mono-1:Output</Source>
-   <Target>Dragonfly Hall Reverb:Audio Input 1</Target>
-  </Connection>
-  <Connection>
    <Source>QCho:right</Source>
    <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
-  </Connection>
-  <Connection>
-   <Source>LSP Delay Compensator Mono-2:Output</Source>
-   <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
-  </Connection>
-  <Connection>
-   <Source>GxWahwah-1:Out</Source>
-   <Target>LSP Delay Compensator Mono-1:Input</Target>
   </Connection>
   <Connection>
    <Source>QLegacy:left</Source>
@@ -2774,8 +2528,36 @@ version-revision=&quot;5&quot; ZynAddSubFX-author=&quot;Nasca Octavian Paul&quot
    <Target>GxAmplifier-X-2:in</Target>
   </Connection>
   <Connection>
+   <Source>EQ10Q Stereo:Output1</Source>
+   <Target>system:playback_1</Target>
+  </Connection>
+  <Connection>
+   <Source>EQ10Q Stereo:Output2</Source>
+   <Target>system:playback_2</Target>
+  </Connection>
+  <Connection>
+   <Source>Dragonfly Hall Reverb:Audio Output 1</Source>
+   <Target>EQ10Q Stereo:Input1</Target>
+  </Connection>
+  <Connection>
+   <Source>Dragonfly Hall Reverb:Audio Output 2</Source>
+   <Target>EQ10Q Stereo:Input2</Target>
+  </Connection>
+  <Connection>
+   <Source>GxTubeTremelo:Out</Source>
+   <Target>Dragonfly Hall Reverb:Audio Input 1</Target>
+  </Connection>
+  <Connection>
+   <Source>GxTubeTremelo:Out</Source>
+   <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
+  </Connection>
+  <Connection>
+   <Source>GxWahwah-1:Out</Source>
+   <Target>Dragonfly Hall Reverb:Audio Input 1</Target>
+  </Connection>
+  <Connection>
    <Source>GxWahwah-2:Out</Source>
-   <Target>LSP Delay Compensator Mono-2:Input</Target>
+   <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
   </Connection>
   <Connection>
    <Source>GxAmplifier-X-1:Out</Source>
@@ -2800,6 +2582,10 @@ version-revision=&quot;5&quot; ZynAddSubFX-author=&quot;Nasca Octavian Paul&quot
   <Connection>
    <Source>ZynAddSubFX:Audio Output 2</Source>
    <Target>Dragonfly Hall Reverb:Audio Input 2</Target>
+  </Connection>
+  <Connection>
+   <Source>a2j:MIDISPORT 2x2 Anniv [24] (capture): MIDISPORT 2x2 Anniv A </Source>
+   <Target>QGtr:midi_00</Target>
   </Connection>
  </ExternalPatchbay>
 </CARLA-PROJECT>

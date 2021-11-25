@@ -7,7 +7,7 @@ export PYTHONDONTWRITEBYTECODE=1
 #
 # set PYTHONPATH for tests
 #
-export PYTHONPATH=`pwd`
+export PYTHONPATH=${PYTHONPATH}:`pwd`
 
 #
 # set rtmidi backend

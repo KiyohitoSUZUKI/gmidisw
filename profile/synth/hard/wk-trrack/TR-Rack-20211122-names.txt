@@ -1,0 +1,1049 @@
+Global Data	TR-Rack	Global Data	E	2021/11/23 0:14:46			
+Trinity Overture	TR-Rack	Combination	A000	2021/11/23 0:14:46	Orchestral		Timpani, Stereo Brass, ClassicalStrings, Tuba, Tuba, Solo Violin, Tuba, ClassicalStrings
+Old School Split	TR-Rack	Combination	A001	2021/11/23 0:14:46	Bass Splits		Pro-Stage E.P., Picked Bass, Jazz Bass (SW1)
+Vox Morphing	TR-Rack	Combination	A002	2021/11/23 0:14:46	Motion Synth		Vocal Motion, {Slow Strings}, Frozen Crystals, Shape Shifter, Moon Walking
+AirPianoEnsemble	TR-Rack	Combination	A003	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Doo the Vibe Pad, MIDI Ensemble
+NewSetOfStrings	TR-Rack	Combination	A004	2021/11/23 0:14:46	Guitar		Finger Pickin', Finger Pickin', Stereo Strings
+Maximum Impact	TR-Rack	Combination	A005	2021/11/23 0:14:46	Complex		Cyber-Impact/SW1, Lethal Drum Hit, The Mind, Band Hit!, The Mind, Future Synth, Lethal Drum Hit
+Killer Miller!	TR-Rack	Combination	A006	2021/11/23 0:14:46	Horn Section		Grando Bando, Mute Trumpet, The Sax Band, Modern Brass, Modern Brass
+Shakoto	TR-Rack	Combination	A007	2021/11/23 0:14:46	Ethnic/Trad.		Shakuhachi, Koto, Stereo Strings, Ribbon Strings, Brass Pad, Asian Gong, Marc Tree
+Chamber Strings	TR-Rack	Combination	A008	2021/11/23 0:14:46	Strings		Ribbon Strings, Symphonic Pad
+Bass & Piano/SW1	TR-Rack	Combination	A009	2021/11/23 0:14:46	Bass Splits		Acoustic Piano, Acoustic Bass, Jazz Bass (SW1)
+Breath Of Fire	TR-Rack	Combination	A010	2021/11/23 0:14:46	Breathy/Airy		Future Synth, Air Thing
+Big Perc Organ	TR-Rack	Combination	A011	2021/11/23 0:14:46	Organ		Super BX-3, Big Old JazzOrg
+Soprano Winds	TR-Rack	Combination	A012	2021/11/23 0:14:46	Pad & Lead		Soprano Sax, Doo the Vibe Pad, Grando Bando, Analog Strings, Brass Pad, Doo the Vibe Pad
+JamYourButtOff !	TR-Rack	Combination	A013	2021/11/23 0:14:46	Drums/Special FX		Cyber-Impact/SW1, Lethal Drum Hit, Velo Orchestra, Band Hit!, Staccato Hit!, Processed Kit, Analog/Club Kits, Psycho Kit
+Megasaurus Rex	TR-Rack	Combination	A014	2021/11/23 0:14:46	Synth		30303 Rez Bass, 30303 Mega Bass, Analog Power, 30303 Mega Bass
+Adventure Bells	TR-Rack	Combination	A015	2021/11/23 0:14:46	Bell & Mallet		Rezpad, Ensemble Bell, Brass Pad
+Sad Movie Scene	TR-Rack	Combination	A016	2021/11/23 0:14:46	Orchestral		Brass Pad, {Slow Strings}, Ribbon Strings, Recorder, Recorder, Ribbon Strings
+Phat Tip Split	TR-Rack	Combination	A017	2021/11/23 0:14:46	Bass Splits		Trombone Ens., Medium Trumpet, Medium Trumpet, Medium Trumpet, Medium Trumpet, Mute Trumpet, Vinyl Rap Bass, SnoopDoggy Bass
+Dragon's World	TR-Rack	Combination	A018	2021/11/23 0:14:46	Motion Synth		The UFO Appears, Shape Shifter, Dragon's Lair, Flutepad
+MIDI Piano	TR-Rack	Combination	A019	2021/11/23 0:14:46	Keyboard		[| 90's Piano |], *Tingly* E.Piano, *Belliano*
+Dyna Slap Bass	TR-Rack	Combination	A020	2021/11/23 0:14:46	Bass		Jacobass, Electric Bass, Pull Me Please
+Piano & Strings	TR-Rack	Combination	A021	2021/11/23 0:14:46	Keyboard		Acoustic Piano, The Symphony, Solo String(SW1), Solo String(SW1), Solo String(SW1)
+Brass Band	TR-Rack	Combination	A022	2021/11/23 0:14:46	Horn Section		Stereo Brass, The Sax Band, Hard Trumpet
+Stubenmusik	TR-Rack	Combination	A023	2021/11/23 0:14:46	Ethnic/Trad.		Akkordeon/SW 1&2, Finger Pickin', Musette / SW 1&2, Hackbrett
+Deep Strings	TR-Rack	Combination	A024	2021/11/23 0:14:46	Strings		Stereo Strings, Symphonic Pad
+Standup&Polytone	TR-Rack	Combination	A025	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Dad's JazzGuitar
+~Secret~Garden~	TR-Rack	Combination	A026	2021/11/23 0:14:46	Breathy/Airy		Breath of Life, Aurora Borealis, Harp Heaven
+Jazzy Organ 1	TR-Rack	Combination	A027	2021/11/23 0:14:46	Organ		Jazz-Organ 2, Gospel Organ
+milesAFTERmiles	TR-Rack	Combination	A028	2021/11/23 0:14:46	Pad & Lead		Moon Walking, Mute Trumpet, Xylospectrum
+Virtual Joystick	TR-Rack	Combination	A029	2021/11/23 0:14:46	Drums/Special FX		({ Scanners }), Sky Diver..., The UFO Appears, The UFO Appears, Vocal Motion, Martian Winds, StadiumSW1=Shore
+Synthinity	TR-Rack	Combination	A030	2021/11/23 0:14:46	Synth		Stereo Brass, Analog Power, Bass go pop., Bass go pop.
+Jamaican Stuff	TR-Rack	Combination	A031	2021/11/23 0:14:46	Bell & Mallet		Marimba, Xylophone, Natural Kalimba, Pop Bottle
+Scoring Horns	TR-Rack	Combination	A032	2021/11/23 0:14:46	Orchestral		Stereo Strings, French Horn Ens., Analog Pad, Flugelhorn
+Modern Ensemble	TR-Rack	Combination	A033	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Vibraphone, Take Voices
+Meet Thy Doom...	TR-Rack	Combination	A034	2021/11/23 0:14:46	Motion Synth		({ Scanners }), Orbiting Probes, Martian Winds, {Slow Strings}, ({ Scanners })
+TineOnYourHands	TR-Rack	Combination	A035	2021/11/23 0:14:46	Keyboard		Night Tine EP, Brass Pad
+DG:Y! DistGuitar	TR-Rack	Combination	A036	2021/11/23 0:14:46	Guitar		Solo Violin, Lead Guitar/JS-Y
+DG:WoWDistGuitar	TR-Rack	Combination	A037	2021/11/23 0:14:46	Guitar		Solo Violin, Lead Guitar/JS-Y
+DG:MuteFeelDistG	TR-Rack	Combination	A038	2021/11/23 0:14:46	Guitar		Metal Maniac, Lead Guitar/JS-Y
+DG:HalfClDistG	TR-Rack	Combination	A039	2021/11/23 0:14:46	Guitar		Chorus E.Guitar, =Snappy= Clavi
+Masterpiece	TR-Rack	Combination	A040	2021/11/23 0:14:46	Orchestral		Stereo Strings, Boys Choir, Light Choir
+Soul InSpaceport	TR-Rack	Combination	A041	2021/11/23 0:14:46	Bass Splits		Night Tine EP, ({ Scanners }), Marc Tree, Space Hatch
+DurangosDaughter	TR-Rack	Combination	A042	2021/11/23 0:14:46	Breathy/Airy		Xylospectrum, Pot Covers
+Tutti Pipe 1	TR-Rack	Combination	A043	2021/11/23 0:14:46	Organ		Pipe Tutti, Pipe Mixture, Pipe Reeds
+Ld:SuperLdSplit	TR-Rack	Combination	A044	2021/11/23 0:14:46	Pad & Lead		Boys Choir, Mixed Choir, Monster Lead
+Ld:MonsterMGLd	TR-Rack	Combination	A045	2021/11/23 0:14:46	Pad & Lead		Mg Lead (Ribbon), Monster Lead
+Ld:EspressoLd	TR-Rack	Combination	A046	2021/11/23 0:14:46	Pad & Lead		Mg Lead (Ribbon), Espresso Lead
+Bellish Maniacs	TR-Rack	Combination	A047	2021/11/23 0:14:46	Bell & Mallet		Random Dancer, Shape Shifter, Ensemble Bell, Phantom Tines
+OrchestralHero33	TR-Rack	Combination	A048	2021/11/23 0:14:46	Orchestral		Stereo Brass, Modern Strings, ClassicalStrings, French Horn Ens., Mute Trumpet, Oboe
+Euro Trance Time	TR-Rack	Combination	A049	2021/11/23 0:14:46	Bass Splits		30303 Square, 30303 Square, 30303 Mega Bass, 30303 Square, Euro 8va Bass
+{Lonely} [Alien]	TR-Rack	Combination	A050	2021/11/23 0:14:46	Motion Synth		Insectisuicides, Thunderstorm!!!!, Martian Winds, Tsunami Warning, Brass Pad, 20,000 Fathoms, Tsunami Warning
+Clav Attack	TR-Rack	Combination	A051	2021/11/23 0:14:46	Keyboard		Clav Control, Mono Slap Bass
+   -> R U D E <-	TR-Rack	Combination	A052	2021/11/23 0:14:46	Bass		Dark SynBass, FM Bass, RibbonYoHeadOff!, Electric Bass, Dark SynBass, FM Bass, RibbonYoHeadOff!, Electric Bass
+In The Pyramid	TR-Rack	Combination	A053	2021/11/23 0:14:46	Complex		Moon Walking, Moon Walking, Sky Diver..., Cyber-Impact/SW1, Band Hit!, Orbiting Probes, World Strings, Oboe
+Real Harp Gliss	TR-Rack	Combination	A054	2021/11/23 0:14:46	Orchestral		Harp
+Taste Of Ireland	TR-Rack	Combination	A055	2021/11/23 0:14:46	Ethnic/Trad.		Mandolin, Bouzouki, Bouzouki, Tin Flute, Recorder
+String Ensemble	TR-Rack	Combination	A056	2021/11/23 0:14:46	Strings		Solo Violin, Solo Viola, Solo Cello, Contrabass&Cello, Ribbon Strings
+NuJazz Split	TR-Rack	Combination	A057	2021/11/23 0:14:46	Bass Splits		Bass Clarinet, Dark SynBass, Acoustic Bass, Acoustic Piano, Pro-Stage E.P.
+Orbital Voices	TR-Rack	Combination	A058	2021/11/23 0:14:46	Breathy/Airy		The UFO Appears, Orbiting Probes, City of Angels
+The Gospel Truth	TR-Rack	Combination	A059	2021/11/23 0:14:46	Organ		Velocity Organ, Jazz-Organ 2
+Beauty&THE BEAST	TR-Rack	Combination	A060	2021/11/23 0:14:46	Pad & Lead		SnoopDoggy Bass, TECHNOphobic, Adieu Rainforest, Aurora Borealis
+Jungle Predator	TR-Rack	Combination	A061	2021/11/23 0:14:46	Drums/Special FX		Birds & Bugs, Martian Winds, Thunderstorm!!!!, Orbiting Probes
+Dark Analog Pad	TR-Rack	Combination	A062	2021/11/23 0:14:46	Synth		Brass Pad, Symphonic Pad
+Meet The Bushmen	TR-Rack	Combination	A063	2021/11/23 0:14:46	Bell & Mallet		Bottle, Bottle, Mondo'Rimba, Xylophone, Xylophone, Mondo'Rimba, African Log Drum, Marimba
+Woodwind Ens. 1	TR-Rack	Combination	A064	2021/11/23 0:14:46	Orchestral		Bassoon, Oboe, Clarinet, SweetSilverFlute
+Miles Ahead	TR-Rack	Combination	A065	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Fretless Bass, Mute Trumpet, Syn Pipes
+Aqua Marine	TR-Rack	Combination	A066	2021/11/23 0:14:46	Motion Synth		Boys Choir, Harp Heaven, City of Angels, Flutepad, Thunderstorm!!!!
+Player's Layers	TR-Rack	Combination	A067	2021/11/23 0:14:46	Keyboard		Acoustic Piano, *Tingly* E.Piano
+Parker(both p/u)	TR-Rack	Combination	A068	2021/11/23 0:14:46	Guitar		Studio Strato, Parker Piezo, Mute Guitar
+Street Fighter	TR-Rack	Combination	A069	2021/11/23 0:14:46	Complex		Vinyl Rap Bass, Picked Bass, !{Mega-Mix}! Kit, Psycho Kit, Lethal Drum Hit, Cyber-Impact/SW1, Power Chord Plus, Stereo Brass
+Brassband w/Mute	TR-Rack	Combination	A070	2021/11/23 0:14:46	Horn Section		Stereo Brass, The Sax Band, Hard Trumpet, Mute Trumpet, Hard Trombone
+Winds of India	TR-Rack	Combination	A071	2021/11/23 0:14:46	Ethnic/Trad.		StadiumSW1=Shore, Flutepad, Sitar, Orch/Ethnic Kits, StadiumSW1=Shore, Flutepad, Sitar
+Scoring Woods	TR-Rack	Combination	A072	2021/11/23 0:14:46	Orchestral		Stereo Strings, SweetSilverFlute, Analog Pad, Piccolo, Oboe, Oboe
+The Fleas R here	TR-Rack	Combination	A073	2021/11/23 0:14:46	Bass Splits		Planet Of Funk, 30303 Rez Bass, Flutepad, Synpiano
+Egyptian Princes	TR-Rack	Combination	A074	2021/11/23 0:14:46	Breathy/Airy		Brass Pad, Marc Tree, Air Thing, Marc Tree
+Mixture Pipe 2	TR-Rack	Combination	A075	2021/11/23 0:14:46	Organ		Pipe Positive, Pipe Positive, Recorder, Pipe Reeds
+Spectagon & Pad	TR-Rack	Combination	A076	2021/11/23 0:14:46	Pad & Lead		Hands of Time, Xylospectrum, The Symphony
+Inverse Nebula	TR-Rack	Combination	A077	2021/11/23 0:14:46	Complex		Orbiting Probes, Aftermath, Aftermath, Aftermath, Aftermath, Aftermath, Aftermath, Velo Orchestra
+Romance Player	TR-Rack	Combination	A078	2021/11/23 0:14:46	Synth		Pot Covers, Harp, Night Tine EP, Bass go pop.
+Bell Landy	TR-Rack	Combination	A079	2021/11/23 0:14:46	Bell & Mallet		Finger Gamelon, Finger Gamelon, Brass Pad, Asian Gong, Brass Pad, Brass Pad
+Moody Orchestra	TR-Rack	Combination	A080	2021/11/23 0:14:46	Orchestral		Symphonic Pad, SweetSilverFlute, Analog Strings, French Horn Ens.
+Jazz Hits	TR-Rack	Combination	A081	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Grando Bando, Stereo Brass, Super BX-3, Modern Brass, Modern Brass
+Cosmic Approach	TR-Rack	Combination	A082	2021/11/23 0:14:46	Motion Synth		Hover Craft, Mr. Nightmare, The Symphony
+Algorithm Grand	TR-Rack	Combination	A083	2021/11/23 0:14:46	Keyboard		Super Grand, Brite FM Roads
+GuitarraEspanola	TR-Rack	Combination	A084	2021/11/23 0:14:46	Guitar		Nylon Guitar, Nylon Guitar, Nylon Guitar, Steel String Gtr, Nylon Guitar
+Trance Sylvania	TR-Rack	Combination	A085	2021/11/23 0:14:46	Complex		Space Hatch, Spectrum Lead, The Mind, Ultra Res. Sweep, Finger Gamelon
+Brass Orchestra	TR-Rack	Combination	A086	2021/11/23 0:14:46	Horn Section		Soft Trombone, Trombone Ens., French Horn Ens., Stereo Brass
+Master Fisa	TR-Rack	Combination	A087	2021/11/23 0:14:46	Ethnic/Trad.		Musette / SW 1&2, Tango / SW 1&2, Akkordeon/SW 1&2, Tango / SW 1&2, Tango / SW 1&2, Akkordeon/SW 1&2
+Doubled Strings	TR-Rack	Combination	A088	2021/11/23 0:14:46	Strings		Symphonic Pad, The Symphony
+Tetra Split	TR-Rack	Combination	A089	2021/11/23 0:14:46	Bass Splits		Espresso Lead, Espresso Lead, Espresso Lead, Espresso Lead, Euro 8va Bass, 30303 Mega Bass, Espresso Lead, Dark SynBass
+{Holding Angels}	TR-Rack	Combination	A090	2021/11/23 0:14:46	Breathy/Airy		Music Box / SW1, Brass Pad, Breath of Life
+Medium BX3	TR-Rack	Combination	A091	2021/11/23 0:14:46	Organ		Jazz-Organ 1, Dark Old BX-3
+Choirpad&Stevie	TR-Rack	Combination	A092	2021/11/23 0:14:46	Pad & Lead		Boys Choir, Brass Pad, Brass Pad, Harmonica
+The Sun Surfer	TR-Rack	Combination	A093	2021/11/23 0:14:46	Complex		Dragon's Lair, Random Dancer, Sky Diver..., Vocal Motion, Space Hatch, Orbiting Probes, Espresso Lead, Random Dancer
+String Sunrise	TR-Rack	Combination	A094	2021/11/23 0:14:46	Synth		Vocal Motion, {Slow Strings}, {Slow Strings}
+Halo of Bells	TR-Rack	Combination	A095	2021/11/23 0:14:46	Bell & Mallet		Vibraphone, Glockenspiel, Brass Pad, {Slow Strings}
+Scoring Barocco1	TR-Rack	Combination	A096	2021/11/23 0:14:46	Orchestral		Stereo Strings, Soft Trumpet, Analog Pad, Soft Trumpet, Ribbon Strings, Analog Pad, Soft Trumpet
+DynaBass & Brass	TR-Rack	Combination	A097	2021/11/23 0:14:46	Bass Splits		Jacobass, Electric Bass, Pull Me Please, Picked Bass, Stereo Brass, The Sax Band
+Watch Me Grow...	TR-Rack	Combination	A098	2021/11/23 0:14:46	Motion Synth		That Heaven Vibe, Shape Shifter, Spectrum Lead
+Damper/BodyPiano	TR-Rack	Combination	A099	2021/11/23 0:14:46	Keyboard		Acoustic Piano
+Hydra Snap	TR-Rack	Combination	A100	2021/11/23 0:14:46	Bass		=Snappy= Clavi, Night Tine EP, Jacobass, =Snappy= Clavi, =Snappy= Clavi, =Snappy= Clavi
+ScareOnDynamics	TR-Rack	Combination	A101	2021/11/23 0:14:46	Complex		Moon Walking, Shape Shifter, Cyber-Impact/SW1, Hit The Beast, Hit The Beast
+Bloodrush Lead	TR-Rack	Combination	A102	2021/11/23 0:14:46	Synth		Monster Lead, RibbonYoHeadOff!, RibbonYoHeadOff!
+Matsuri Festival	TR-Rack	Combination	A103	2021/11/23 0:14:46	Ethnic/Trad.		Shamisen, Shamisen, Piccolo, Glockenspiel, Orch/Ethnic Kits, Orch/Ethnic Kits, Orch/Ethnic Kits, Toms & Cymbals
+Strings & Basses	TR-Rack	Combination	A104	2021/11/23 0:14:46	Strings		Stereo Strings, Ribbon Strings, Analog Pad, Analog Pad
+POP U Wit' This	TR-Rack	Combination	A105	2021/11/23 0:14:46	Bass Splits		Staccato Hit!, Modern Strings, Velo Orchestra, Stereo Brass, Monster Bass, Dark SynBass, 30303 Rez Bass
+X-Choir Fader	TR-Rack	Combination	A106	2021/11/23 0:14:46	Breathy/Airy		Boys Choir, Mixed Choir, Mixed Choir
+Positive Tuent.	TR-Rack	Combination	A107	2021/11/23 0:14:46	Organ		Pipe Positive, Pipe Positive, Pipe Positive, Pipe Positive, Pipe Tuentiana, Pipe Tuentiana, Pipe Tuentiana, Pipe Tuentiana
+Pad/Gtr(SW1/wah)	TR-Rack	Combination	A108	2021/11/23 0:14:46	Pad & Lead		Symphonic Pad, TalkBox Gtr/JS-Y, Doo the Vibe Pad, Metal Maniac
+Bell Shifting	TR-Rack	Combination	A109	2021/11/23 0:14:46	Complex		Vocal Motion, {Slow Strings}, {Slow Strings}, Shape Shifter, Hard-Air Hit, Breathy Bells, *Bell * Arena*, Timpani
+BIG BONED (fat)	TR-Rack	Combination	A110	2021/11/23 0:14:46	Synth		Analog Power, Synth Orchestra, Synth Orchestra
+Merry Poppin'	TR-Rack	Combination	A111	2021/11/23 0:14:46	Bell & Mallet		Pop Bottle, Pop Bottle, Sun Bells, Bottle
+Florence 1300's	TR-Rack	Combination	A112	2021/11/23 0:14:46	Orchestral		Nylon Guitar, Bassoon, Recorder, Nylon Guitar
+Bass & Harp Age	TR-Rack	Combination	A113	2021/11/23 0:14:46	Bass Splits		Harp, Flutepad, Fretless Bass, Jacobass, Boys Choir
+Time To Sing	TR-Rack	Combination	A114	2021/11/23 0:14:46	Breathy/Airy		Take Voices, Hands of Time, Doo the Vibe Pad
+Piano & Organ	TR-Rack	Combination	A115	2021/11/23 0:14:46	Keyboard		Compressed Piano, Velocity Organ, Super Whirly
+Spanish Nights	TR-Rack	Combination	A116	2021/11/23 0:14:46	Guitar		20,000 Fathoms, Shape Shifter, Finger Pickin'
+Delayed Reaction	TR-Rack	Combination	A117	2021/11/23 0:14:46	Motion Synth		Vocal Motion, The Symphony, Finger Gamelon, Finger Gamelon, Finger Gamelon, Finger Gamelon, Marc Tree, Timpani
+Whack Dragon	TR-Rack	Combination	A118	2021/11/23 0:14:46	Synth		=Snappy= Clavi, TECHNOphobic, Electric Lead
+NewAged Bass	TR-Rack	Combination	A119	2021/11/23 0:14:46	Bass		Ensemble Bell, Fretless Bass, 20,000 Fathoms, Hover Craft
+Piano & Vel.Orch	TR-Rack	Combination	A120	2021/11/23 0:14:46	Orchestral		Acoustic Piano, Stereo Strings, Solo String(SW1), Timpani, Velo Orchestra, Velo Orchestra
+SuperHero #5	TR-Rack	Combination	A121	2021/11/23 0:14:46	Synth		RibbonYoHeadOff!, Monster Bass, RibbonYoHeadOff!, Square Wave Lead, Square Wave Lead
+Beach Vocals	TR-Rack	Combination	A122	2021/11/23 0:14:46	Breathy/Airy		Doo the Vibe Pad, Boys Choir, Light Choir
+BigStraightOrgan	TR-Rack	Combination	A123	2021/11/23 0:14:46	Organ		Velocity Organ, Full Organ
+Astral Prelude	TR-Rack	Combination	A124	2021/11/23 0:14:46	Pad & Lead		Aurora Borealis, City of Angels, Vocal Motion, That Heaven Vibe
+Winds of Victory	TR-Rack	Combination	A125	2021/11/23 0:14:46	Motion Synth		Orbiting Probes, Space Hatch, City of Angels, That Heaven Vibe
+BriteModernHarp	TR-Rack	Combination	A126	2021/11/23 0:14:46	Synth		Harp, Night Tine EP, Mondo'Rimba
+Massive Bell Pad	TR-Rack	Combination	A127	2021/11/23 0:14:46	Bell & Mallet		Analog Strings, FM Bells, Analog Pad
+DynamicOrchestra	TR-Rack	Combination	B000	2021/11/23 0:14:46	Orchestral		Piccolo, SweetSilverFlute, Oboe, Bass Clarinet, French Horn Ens., ClassicalStrings, Stereo Brass, Modern Brass
+{Hip 90's Split}	TR-Rack	Combination	B001	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Fretless Bass, Acoustic Bass, [| 90's Piano |], Brite FM Roads, Compressed Piano
+The Rush...	TR-Rack	Combination	B002	2021/11/23 0:14:46	Motion Synth		Sky Diver..., That Heaven Vibe, Jangle heart, Orbiting Probes
+E. Grand & Voice	TR-Rack	Combination	B003	2021/11/23 0:14:46	Keyboard		Electric Grand, Doo the Vibe Pad, Breathy Layers
+StereoGuitarPad	TR-Rack	Combination	B004	2021/11/23 0:14:46	Guitar		12 String Guitar, Steel String Gtr, Hands of Time
+Meganomic	TR-Rack	Combination	B005	2021/11/23 0:14:46	Complex		Cyber-Impact/SW1, Lethal Drum Hit, Hard-Air Hit, Hybrid keys, Hybrid keys, Analog Power, Analog Pad
+Saxophonia	TR-Rack	Combination	B006	2021/11/23 0:14:46	Horn Section		Baritone Sax, Growling Tenor, Alto Sax, Soprano Sax, The Sax Band
+Koto Velox	TR-Rack	Combination	B007	2021/11/23 0:14:46	Ethnic/Trad.		Koto, Stereo Strings, Ribbon Strings, Shakuhachi, Harp, Shakuhachi, Brass Pad, Asian Gong
+Violin Section	TR-Rack	Combination	B008	2021/11/23 0:14:46	Strings		Ribbon Strings, Marcato Strings
+Happenin'Church!	TR-Rack	Combination	B009	2021/11/23 0:14:46	Bass Splits		[| 90's Piano |], Jazz-Organ 2, FM Bass, Finger Bass
+*Tim's*Bedtime*	TR-Rack	Combination	B010	2021/11/23 0:14:46	Keyboard		Breath of Life, Dreamy E.Piano
+Big Rock Organ	TR-Rack	Combination	B011	2021/11/23 0:14:46	Organ		Killer Organ, Jazz-Organ 1
+Whistlers Dream	TR-Rack	Combination	B012	2021/11/23 0:14:46	Pad & Lead		That Heaven Vibe, Aurora Borealis, Syn Pipes, Air Thing
+Time4daBreakdown	TR-Rack	Combination	B013	2021/11/23 0:14:46	Complex		Percussion Kit, Dreamy E.Piano, Lethal Drum Hit, Pull Me Please, Band Hit!
+MonsterGodSynth	TR-Rack	Combination	B014	2021/11/23 0:14:46	Synth		Analog Power, Ultra Res. Sweep, Hit The Beast
+Trinity Bells	TR-Rack	Combination	B015	2021/11/23 0:14:46	Bell & Mallet		Ensemble Bell, VS Bell Boy
+Orchestra & Oboe	TR-Rack	Combination	B016	2021/11/23 0:14:46	Orchestral		Symphonic Pad, French Horn Ens., Oboe, Flugelhorn
+Moonlight Split	TR-Rack	Combination	B017	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Bass Clarinet, SweetSilverFlute, Grando Bando, Clarinet
+Mystery Islands	TR-Rack	Combination	B018	2021/11/23 0:14:46	Motion Synth		Super Pad, Random Dancer, Xylospectrum, The UFO Appears, Martian Winds, Ultra Res. Sweep
+MIDI Grand Stack	TR-Rack	Combination	B019	2021/11/23 0:14:46	Keyboard		Acoustic Piano, *Tingly* E.Piano, *Tingly* E.Piano
+Dyna Pick Bass	TR-Rack	Combination	B020	2021/11/23 0:14:46	Bass		Jacobass, Finger Bass, Electric Bass
+Cathedral Voices	TR-Rack	Combination	B021	2021/11/23 0:14:46	Organ		Pipe Tutti, Pipe Positive, Boys Choir, Light Choir
+SizzleSynthBrass	TR-Rack	Combination	B022	2021/11/23 0:14:46	Horn Section		Stereo Brass, Analog Power
+MIDI Akkordeon	TR-Rack	Combination	B023	2021/11/23 0:14:46	Ethnic/Trad.		Jazz Bass (SW1), Musette / SW 1&2, Musette / SW 1&2, Soft Trumpet
+Legato Strings	TR-Rack	Combination	B024	2021/11/23 0:14:46	Strings		The Symphony, Symphonic Pad
+Policemen	TR-Rack	Combination	B025	2021/11/23 0:14:46	Bass Splits		Fretless Bass, Studio Strato, Picked Bass
+Sparkling Voices	TR-Rack	Combination	B026	2021/11/23 0:14:46	Breathy/Airy		City of Angels, VS Bell Boy, VS Bell Boy, VS Bell Boy, VS Bell Boy, VS Bell Boy, City of Angels
+Jazzy Organ 2	TR-Rack	Combination	B027	2021/11/23 0:14:46	Organ		Jazz-Organ 2, Gospel Organ
+Nashville Duet	TR-Rack	Combination	B028	2021/11/23 0:14:46	Pad & Lead		Pedal Steel, Finger Pickin', Doo the Vibe Pad
+[Unhappy=Planet]	TR-Rack	Combination	B029	2021/11/23 0:14:46	Drums/Special FX		Orbiting Probes, Out of the myst., Mr. Nightmare, Frozen Crystals
+X-Fader Synth	TR-Rack	Combination	B030	2021/11/23 0:14:46	Synth		Bottle, Bass go pop., Analog Power, Ultra Res. Sweep, Analog Power
+The Mallet Men	TR-Rack	Combination	B031	2021/11/23 0:14:46	Bell & Mallet		Natural Kalimba, Marimba, Xylophone, African Log Drum
+BOLD Orchestra	TR-Rack	Combination	B032	2021/11/23 0:14:46	Orchestral		Stereo Strings, Stereo Brass
+Bass Piano Vibe	TR-Rack	Combination	B033	2021/11/23 0:14:46	Bass Splits		Vibraphone, Jazz Bass (SW1), Acoustic Bass, Acoustic Piano
+=Dream Theatre=	TR-Rack	Combination	B034	2021/11/23 0:14:46	Motion Synth		Breath of Life, {Slow Strings}, Marc Tree
+SuperNightTines	TR-Rack	Combination	B035	2021/11/23 0:14:46	Keyboard		Night Tine EP, Brite FM Roads, Brite FM Roads
+Distraught	TR-Rack	Combination	B036	2021/11/23 0:14:46	Guitar		Power Chord Plus, Lead Guitar/JS-Y, Finger Bass, Metal Maniac, Power Chord Plus
+Luna Breath	TR-Rack	Combination	B037	2021/11/23 0:14:46	Breathy/Airy		Mr. Nightmare, Shape Shifter, Vocal Motion
+Dizzy Big Band	TR-Rack	Combination	B038	2021/11/23 0:14:46	Horn Section		Soft Trumpet, Medium Trumpet, Hard Trumpet, Modern Brass, The Sax Band, Medium Trumpet
+Evening in Bali	TR-Rack	Combination	B039	2021/11/23 0:14:46	Ethnic/Trad.		Finger Gamelon, Finger Gamelon, Birds & Bugs, Birds & Bugs, Solo Violin, Ensemble & Solo, Ensemble & Solo, Asian Gong
+Green House Pad	TR-Rack	Combination	B040	2021/11/23 0:14:46	Strings		Symphonic Pad, {Slow Strings}
+TheName'sJazzmin	TR-Rack	Combination	B041	2021/11/23 0:14:46	Bass Splits		Pizzicato Ens., Tsunami Warning, Take Voices
+Bottlized Air	TR-Rack	Combination	B042	2021/11/23 0:14:46	Breathy/Airy		Bottle, BreathyLayerPad
+Tutti Pipe 2	TR-Rack	Combination	B043	2021/11/23 0:14:46	Organ		Pipe Mixture, Pipe Mixture, Soft Trombone, Pipe Tuentiana
+SynthPad & Solo	TR-Rack	Combination	B044	2021/11/23 0:14:46	Pad & Lead		Square Wave Lead, Syn Pipes, That Heaven Vibe, Hybrid keys, Monster Lead
+Rockestra  (SW1)	TR-Rack	Combination	B045	2021/11/23 0:14:46	Complex		Electric Bass, Stadium Guitar, BassDrums&Snares, BassDrums&Snares, Jazz Bass (SW1), Killer Organ
+Song for Darth	TR-Rack	Combination	B046	2021/11/23 0:14:46	Synth		Power Piano, Bottle, Light Choir
+Pianobell	TR-Rack	Combination	B047	2021/11/23 0:14:46	Keyboard		Finger Cymbal, Glockenspiel, Acoustic Piano, Pop Bottle, Finger Cymbal
+Harp & Strings	TR-Rack	Combination	B048	2021/11/23 0:14:46	Orchestral		Harp, {Slow Strings}, {Slow Strings}
+Groove Section	TR-Rack	Combination	B049	2021/11/23 0:14:46	Bass Splits		Super Grand, Chorus E.Guitar, Jacobass, Jazz Bass (SW1), Breathy Layers
+Disquieting Solo	TR-Rack	Combination	B050	2021/11/23 0:14:46	Motion Synth		Birds & Bugs, Ultra Res. Sweep, Harp Heaven, Spectrum Lead, Brass Pad
+Piezo Clav	TR-Rack	Combination	B051	2021/11/23 0:14:46	Keyboard		=Snappy= Clavi, Shamisen, Fretless Bass, Parker Piezo, =Snappy= Clavi
+MondoSplatBass!	TR-Rack	Combination	B052	2021/11/23 0:14:46	Bass		Dark SynBass, Euro 8va Bass, Monster Bass, SnoopDoggy Bass
+Dream Sequence	TR-Rack	Combination	B053	2021/11/23 0:14:46	Complex		Moon Walking, Moon Walking, Sky Diver..., Orbiting Probes, Thunderstorm!!!!, ({ Scanners }), Doo the Vibe Pad, Soprano Sax
+Orchestral Brass	TR-Rack	Combination	B054	2021/11/23 0:14:46	Horn Section		French Horn Ens., Trombone Ens., Hard Trombone, Soft Trombone, Soft Trumpet, Medium Trumpet, Hard Trumpet
+Bonny Loch	TR-Rack	Combination	B055	2021/11/23 0:14:46	Ethnic/Trad.		Tango / SW 1&2, Musette / SW 1&2, Musette / SW 1&2, Recorder, Tin Flute, Thunderstorm!!!!
+Arco Strings	TR-Rack	Combination	B056	2021/11/23 0:14:46	Strings		Marcato Strings, Solo String(SW1)
+MondoSynthSplit	TR-Rack	Combination	B057	2021/11/23 0:14:46	Synth		Ultra Res. Sweep, Analog Pad, 30303 Square, 30303 Mega Bass, Synth Orchestra, Classic Squares
+Heavenly Voices	TR-Rack	Combination	B058	2021/11/23 0:14:46	Breathy/Airy		Boys Choir, City of Angels, Doo the Vibe Pad
+Standard BX3	TR-Rack	Combination	B059	2021/11/23 0:14:46	Organ		Jazz-Organ 1, Big Old JazzOrg
+They split up...	TR-Rack	Combination	B060	2021/11/23 0:14:46	Pad & Lead		Finger Pickin', Vibraphone, Solo Violin
+African Rain	TR-Rack	Combination	B061	2021/11/23 0:14:46	Complex		Thunderstorm!!!!, Percussion Kit, Percussion Kit, Percussion Kit, Natural Kalimba, African Log Drum, Thunderstorm!!!!, Thunderstorm!!!!
+Big Bottomed Bed	TR-Rack	Combination	B062	2021/11/23 0:14:46	Synth		Analog Power, Synth Orchestra, Synth Orchestra
+Jungle Mouth	TR-Rack	Combination	B063	2021/11/23 0:14:46	Bell & Mallet		Pop Bottle, Mondo'Rimba, Birds & Bugs, Birds & Bugs, Birds & Bugs, Birds & Bugs, Birds & Bugs
+Woodwind Ens. 2	TR-Rack	Combination	B064	2021/11/23 0:14:46	Orchestral		Soprano Sax, Bass Clarinet, SweetSilverFlute, Oboe, Bassoon, Piccolo
+Flugel Trio SW1	TR-Rack	Combination	B065	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Acoustic Bass, Flugelhorn, Flugelhorn
+Virtual Vortex	TR-Rack	Combination	B066	2021/11/23 0:14:46	Motion Synth		Aurora Borealis, Shape Shifter, Mr. Nightmare, Analog Strings
+Liquid Piano	TR-Rack	Combination	B067	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Brass Pad, Mr. Nightmare
+Nice Acoustics	TR-Rack	Combination	B068	2021/11/23 0:14:46	Guitar		Finger Pickin', Finger Pickin', Nylon Guitar, Nylon Harmonics
+Ghost Town	TR-Rack	Combination	B069	2021/11/23 0:14:46	Complex		Cyber-Impact/SW1, Lethal Drum Hit, Moon Walking, Random Dancer, Metal Maniac, Lead Guitar/JS-Y, Jazz Bass (SW1), Compressed Piano
+Loud Mutes	TR-Rack	Combination	B070	2021/11/23 0:14:46	Horn Section		Mute Trombone, Mute Trumpet, Hard Trumpet, Soft Trombone, Tuba
+Indian Nights	TR-Rack	Combination	B071	2021/11/23 0:14:46	Ethnic/Trad.		Indian Duet, Timpani, Asian Gong, Indian Duet, Ribbon Strings, Orch/Ethnic Kits, Indian Duet, Indian Duet
+Orchestral World	TR-Rack	Combination	B072	2021/11/23 0:14:46	Orchestral		Pizzicato Ens., World Strings, Glockenspiel, French Horn Ens., Harp, Analog Strings, Flugelhorn
+Culture^Shock	TR-Rack	Combination	B073	2021/11/23 0:14:46	Bass Splits		Tsunami Warning, Vocal Motion, Finger Bass, Phat Synth Bass, Jacobass
+Rising Tides	TR-Rack	Combination	B074	2021/11/23 0:14:46	Breathy/Airy		Breath of Life, Super Pad
+Mixture Pipe 1	TR-Rack	Combination	B075	2021/11/23 0:14:46	Organ		Pipe Positive, SweetSilverFlute, Recorder, Pipe Tuentiana
+Xanosphere	TR-Rack	Combination	B076	2021/11/23 0:14:46	Pad & Lead		Frozen Crystals, Shape Shifter, Solar Motion, Pan Flute
+Cyber>Sequence	TR-Rack	Combination	B077	2021/11/23 0:14:46	Motion Synth		{Slow Strings}, Hover Craft, Ensemble Bell, Space Hatch
+Ballader	TR-Rack	Combination	B078	2021/11/23 0:14:46	Synth		Harp, Acoustic Piano, Hands of Time, Jacobass
+Magical Organ	TR-Rack	Combination	B079	2021/11/23 0:14:46	Motion Synth		Rotary Organ, *Bell * Arena*
+Final Movement	TR-Rack	Combination	B080	2021/11/23 0:14:46	Orchestral		World Strings, French Horn Ens., Acoustic Piano, Timpani, Tubular Bell, Orch/Ethnic Kits
+Power Funk	TR-Rack	Combination	B081	2021/11/23 0:14:46	Bass Splits		Funkin' Guitar, Mono Slap Bass, Planet Of Funk
+Ghostly Spectrum	TR-Rack	Combination	B082	2021/11/23 0:14:46	Motion Synth		Orbiting Probes, Shape Shifter, Solar Ghosts
+Ballad E.Piano	TR-Rack	Combination	B083	2021/11/23 0:14:46	Keyboard		Pro-Stage E.P., Brite FM Roads
+Mr. Martin	TR-Rack	Combination	B084	2021/11/23 0:14:46	Guitar		Finger Pickin', Steel String Gtr
+Tradewinds	TR-Rack	Combination	B085	2021/11/23 0:14:46	Complex		Cyber-Impact/SW1, Lethal Drum Hit, Hands of Time, Staccato Hit!, Sky Diver..., Orbiting Probes, Hover Craft, Bottle
+Trpt & Trombones	TR-Rack	Combination	B086	2021/11/23 0:14:46	Horn Section		Hard Trombone, Hard Trumpet, Hard Trumpet
+Accordion	TR-Rack	Combination	B087	2021/11/23 0:14:46	Ethnic/Trad.		Musette / SW 1&2, Musette / SW 1&2, Tango / SW 1&2, Akkordeon/SW 1&2
+3 Octave Strings	TR-Rack	Combination	B088	2021/11/23 0:14:46	Strings		Stereo Strings, Stereo Strings, ClassicalStrings
+Sus4 Split	TR-Rack	Combination	B089	2021/11/23 0:14:46	Synth		Modern Brass, Analog Power, RibbonYoHeadOff!, RibbonYoHeadOff!, Analog Power, 30303 Mega Bass
+Choir of the Sun	TR-Rack	Combination	B090	2021/11/23 0:14:46	Breathy/Airy		Sun Bells, Bottle, Mixed Choir
+Jazzy Organ 3	TR-Rack	Combination	B091	2021/11/23 0:14:46	Organ		Gospel Organ, Big Old JazzOrg
+Dream Of Lambada	TR-Rack	Combination	B092	2021/11/23 0:14:46	Pad & Lead		Tango / SW 1&2, Tango / SW 1&2, Akkordeon/SW 1&2, Akkordeon/SW 1&2, The Symphony
+Martian Sunset	TR-Rack	Combination	B093	2021/11/23 0:14:46	Complex		Moon Walking, Moon Walking, Sky Diver..., 20,000 Fathoms, Space Hatch, Frozen Crystals, *Bell * Arena*, Air Thing
+Swirling Pad	TR-Rack	Combination	B094	2021/11/23 0:14:46	Synth		Shape Shifter, Analog Pad
+Spectrum Bells	TR-Rack	Combination	B095	2021/11/23 0:14:46	Bell & Mallet		Tubular Vibes, Doo the Vibe Pad, 13 Bells Of Bali
+Scoring Barocco2	TR-Rack	Combination	B096	2021/11/23 0:14:46	Orchestral		Stereo Strings, Soft Trumpet, Harpsichord, Soft Trumpet, Ribbon Strings, Analog Pad, Soft Trumpet
+Salsa Split	TR-Rack	Combination	B097	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Jacobass, Stereo Brass, Grando Bando, Hard Trombone, Tuba
+Solar Mystery	TR-Rack	Combination	B098	2021/11/23 0:14:46	Motion Synth		Air Thing, Super Pad, Solar Motion
+Stereo Roads	TR-Rack	Combination	B099	2021/11/23 0:14:46	Keyboard		Night Tine EP, Custom Roads
+Analog-Log Bass	TR-Rack	Combination	B100	2021/11/23 0:14:46	Bass		Monster Bass, Euro 8va Bass, Picked Bass, Monster Bass, Euro 8va Bass, Monster Bass, Euro 8va Bass
+Sombreros	TR-Rack	Combination	B101	2021/11/23 0:14:46	Complex		Marimba, Trombone Ens., Nylon Guitar, Percussion Kit, Percussion Kit, Percussion Kit
+Big & Nasty Lead	TR-Rack	Combination	B102	2021/11/23 0:14:46	Synth		Square Wave Lead, Monster Lead, RibbonYoHeadOff!, Square Wave Lead, Monster Lead, RibbonYoHeadOff!
+Asia Ensemble	TR-Rack	Combination	B103	2021/11/23 0:14:46	Ethnic/Trad.		Koto, Shamisen, Mandolin Trem, ClassicalStrings, ClassicalStrings, Pizzicato Ens., Shakuhachi, Toms & Cymbals
+DynamicPizzicato	TR-Rack	Combination	B104	2021/11/23 0:14:46	Orchestral		Solo Pizzicato, Pizzicato Ens., Nylon Harmonics
+Band Of Fusion	TR-Rack	Combination	B105	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Acoustic Bass, Tuba, Syn Pipes
+Ambient Choir	TR-Rack	Combination	B106	2021/11/23 0:14:46	Breathy/Airy		Mixed Choir, Mixed Choir, Mixed Choir, Boys Choir
+Pos/Tuent.Split	TR-Rack	Combination	B107	2021/11/23 0:14:46	Organ		Pipe Positive, Pipe Tuentiana
+Rainy Night Lead	TR-Rack	Combination	B108	2021/11/23 0:14:46	Pad & Lead		Brass Pad, Lead Guitar/JS-Y, Thunderstorm!!!!
+Alien Nation	TR-Rack	Combination	B109	2021/11/23 0:14:46	Complex		Moon Walking, Moon Walking, Sky Diver..., Orbiting Probes, Thunderstorm!!!!, ({ Scanners }), Mixed Choir, City of Angels
+Resonant Sweep	TR-Rack	Combination	B110	2021/11/23 0:14:46	Synth		Mine Sweep, Mine Sweep, Mine Sweep, Mine Sweep, Ultra Res. Sweep, Ultra Res. Sweep, Ultra Res. Sweep, Ultra Res. Sweep
+Pan'n'Drum Jam	TR-Rack	Combination	B111	2021/11/23 0:14:46	Breathy/Airy		Bass go pop., Bottle, Pan Flute, Wooden Slit Drum
+Harpsi & Strings	TR-Rack	Combination	B112	2021/11/23 0:14:46	Orchestral		Harpsichord, World Strings, ClassicalStrings
+Bass & Vibe	TR-Rack	Combination	B113	2021/11/23 0:14:46	Bass Splits		Vibraphone, Jazz Bass (SW1), Acoustic Bass
+Jazz Split Organ	TR-Rack	Combination	B114	2021/11/23 0:14:46	Organ		Dark Old BX-3, Jazz-Organ 2, Jazz-Organ 2
+ReallyHonkyTonky	TR-Rack	Combination	B115	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Compressed Piano, Acoustic Piano, Shamisen
+Sassy-Vox Cat	TR-Rack	Combination	B116	2021/11/23 0:14:46	Bass		Bass go pop., Pull Me Please, Funkin' Guitar
+new silverware	TR-Rack	Combination	B117	2021/11/23 0:14:46	Motion Synth		Flutepad, Rezpad
+Superclavitar	TR-Rack	Combination	B118	2021/11/23 0:14:46	Keyboard		12 String Guitar, Harpsichord, Clav Control, Finger Bass
+Magic Koto	TR-Rack	Combination	B119	2021/11/23 0:14:46	Ethnic/Trad.		Koto, Analog Strings, Analog Strings, Marc Tree, Marc Tree, Brass Pad
+Salsa Ensemble	TR-Rack	Combination	B120	2021/11/23 0:14:46	Complex		Jazz Bass (SW1), Acoustic Bass, Percussion Kit, Compressed Piano, Percussion Kit, Lethal Drum Hit
+==Metropolis==	TR-Rack	Combination	B121	2021/11/23 0:14:46	Synth		Hit The Beast, Brass Pad
+{{Cyber-Visual}}	TR-Rack	Combination	B122	2021/11/23 0:14:46	Breathy/Airy		20,000 Fathoms, Breath of Life
+Full BX3	TR-Rack	Combination	B123	2021/11/23 0:14:46	Organ		Perc Rock Organ, Full Organ
+Once upon a time	TR-Rack	Combination	B124	2021/11/23 0:14:46	Pad & Lead		*Bell * Arena*, Breath of Life, Spectrum Lead, Spectrum Lead
+TheFinalFrontier	TR-Rack	Combination	B125	2021/11/23 0:14:46	Drums/Special FX		({ Scanners }), Birds & Bugs, Insectisuicides, Cyber-Impact/SW1
+MIDI Harp	TR-Rack	Combination	B126	2021/11/23 0:14:46	Synth		Harp, Flutepad, Brass Pad
+Harmonium Soul	TR-Rack	Combination	B127	2021/11/23 0:14:46	Bell & Mallet		VS Bell Boy, Brass Pad, Musette / SW 1&2
+TrinitySoundRack	TR-Rack	Combination	C000	2021/11/23 0:14:46	Orchestral		[{ The Summit }], Detuned Ana. Era, Rez Motion Sweep
+Power{HIT}Split	TR-Rack	Combination	C001	2021/11/23 0:14:46	Bass Splits		ST Power Pop Hit, Euro Stab, ST Major O.Hit, ST Brass Hit, Pound Bass, Analog Bass  SW1
+UndeWater*Parade	TR-Rack	Combination	C002	2021/11/23 0:14:46	Motion Synth		Mermaid, Trencher
+EAuditorium+MIDI	TR-Rack	Combination	C003	2021/11/23 0:14:46	Keyboard		Soft-StereoPiano, [{ The Summit }], [{ The Summit }], [{ The Summit }], [{ The Summit }], [{ The Summit }]
+Ice Guitar	TR-Rack	Combination	C004	2021/11/23 0:14:46	Guitar		Finger Pickin', Finger Pickin', FM Water Bell, Pole
+Soft Galaxy	TR-Rack	Combination	C005	2021/11/23 0:14:46	Complex		[{ The Summit }], Sweepy Strings, Noctiluca, Icicle
+Brass & Sax	TR-Rack	Combination	C006	2021/11/23 0:14:46	Horn Section		Sharp Brass, Synth Brazz, Solo Sax
+Airy Piano	TR-Rack	Combination	C007	2021/11/23 0:14:46	Keyboard		Stabbin' McNally, DaDanceMixPiano, Basic But Useful, KnobbingBass, OLD/Dark E.P.
+Liquid String	TR-Rack	Combination	C008	2021/11/23 0:14:46	Strings		Sweepy Strings, {Slow Strings}
+Flanged DDL Bass	TR-Rack	Combination	C009	2021/11/23 0:14:46	Bass		Trance Lead, Drub Square, Saw303Devotee JS, 30303 Mega Bass
+Cloud Forest	TR-Rack	Combination	C010	2021/11/23 0:14:46	Breathy/Airy		Solar Lullaby, Rain Forest, Evolver Pad
+R n' B Organ	TR-Rack	Combination	C011	2021/11/23 0:14:46	Organ		Gospel Organ, Big Old JazzOrg
+Free Fall	TR-Rack	Combination	C012	2021/11/23 0:14:46	Pad & Lead		TempoSynth~Organ, {Chasing Comets}, Rez Motion Sweep
+L/R WACKO Kit	TR-Rack	Combination	C013	2021/11/23 0:14:46	Drums/Special FX		HipHop/Rap Kit, Jazz/Funk/Reggae, Pop/R&B Kit
+MegaPower Pad	TR-Rack	Combination	C014	2021/11/23 0:14:46	Synth		Mondo Rave Pad', Flashy SAWS
+Mystical Warrior	TR-Rack	Combination	C015	2021/11/23 0:14:46	Bell & Mallet		Clear Mallet, FM Water Bell
+Exodus	TR-Rack	Combination	C016	2021/11/23 0:14:46	Orchestral		Double Strings, Vocalscape
+Deeep Bass & Pad	TR-Rack	Combination	C017	2021/11/23 0:14:46	Bass Splits		Bass Drum Bass, Vocalscape, Breath of Life
+Unicorn Forest	TR-Rack	Combination	C018	2021/11/23 0:14:46	Motion Synth		Ultra Res. Sweep, Solarium Pad, Noctiluca
+Sparkle PianoPad	TR-Rack	Combination	C019	2021/11/23 0:14:46	Keyboard		Soft-StereoPiano, Tinkle Bells, Forest Choir, Tinkle Bells
+Da Phat Guitars	TR-Rack	Combination	C020	2021/11/23 0:14:46	Guitar		Reggae Gtr Chd, Pop Guitar Chd, FunkyGtr 9th Chd, Power Chord Plus, KnobbingBass
+Asteroid Orbits	TR-Rack	Combination	C021	2021/11/23 0:14:46	Complex		Cyborg Pad', Vocalscape, Noctiluca, Vocalscape, Cyborg Pad'
+Brass Blasts	TR-Rack	Combination	C022	2021/11/23 0:14:46	Horn Section		ST Sus.Band Hit, ST Brass Fall, Euro Stab, ST Major O.Hit, ST Power Pop Hit
+Indian Forest	TR-Rack	Combination	C023	2021/11/23 0:14:46	Ethnic/Trad.		Synth Brazz, Indian Duet, Forest Choir
+Ele.Grand@Church	TR-Rack	Combination	C024	2021/11/23 0:14:46	Keyboard		The Symphony, Light Choir, Jazz-Organ 2, Vintage Grand, Pipe Positive, The Symphony
+DelicateDynamics	TR-Rack	Combination	C025	2021/11/23 0:14:46	Bass Splits		{_Hip * Pick_}, Solar Bells, Cyber Choir, OLD/Dark E.P., Double Strings, Jungle Bass 2, Vogue Bass
+Antarctic Night	TR-Rack	Combination	C026	2021/11/23 0:14:46	Breathy/Airy		Trencher, Hover Craft, Icicle
+Clav Power	TR-Rack	Combination	C027	2021/11/23 0:14:46	Keyboard		ChordWork, ChordWork, Clavi-Attack, [{ The Summit }]
+Sweep-in' left	TR-Rack	Combination	C028	2021/11/23 0:14:46	Pad & Lead		KBed E.P., Sweepy Strings, M1 Grand Piano, Velo/Rez Bass, Saw303Devotee JS
+Atomic Rhythm	TR-Rack	Combination	C029	2021/11/23 0:14:46	Drums/Special FX		ST Disonant Hit, Asid Bass, SUB-SUB-BASS, Asid Bass, ST Major O.Hit, HipHop/Rap Kit, Jungle Kit, House/Techno/Jun
+Tape Strings	TR-Rack	Combination	C030	2021/11/23 0:14:46	Synth		String Stab, String Stab
+Grinchoid	TR-Rack	Combination	C031	2021/11/23 0:14:46	Bell & Mallet		Ginch, Arpy Guy (JS-Y), Mondo'Rimba, Xylophone, Xylophone, Mondo'Rimba
+Clustered Orch.	TR-Rack	Combination	C032	2021/11/23 0:14:46	Orchestral		Detuned Ana. Era, Hallucinating, Tronic Strinng
+LR Hands Soloist	TR-Rack	Combination	C033	2021/11/23 0:14:46	Bass Splits		Double Strings, Clear Mallet, Bass Drum Bass, Evolver Pad, Jungle Bass 2
+Universal Spirit	TR-Rack	Combination	C034	2021/11/23 0:14:46	Motion Synth		Forest Choir, Noctiluca, AnalogSweeper, Brain Swimming
+Ballad PianoStak	TR-Rack	Combination	C035	2021/11/23 0:14:46	Keyboard		Acoustic Piano, "Bed" of Vocals, Brite FM Roads
+Cyberguitar	TR-Rack	Combination	C036	2021/11/23 0:14:46	Guitar		Street Guitar, ChordWork,  ! Stinky Bass !, KnobbingBass, Razor Bass,  ! Stinky Bass !, Street Guitar, Street Guitar
+Tsunami Strikes!	TR-Rack	Combination	C037	2021/11/23 0:14:46	Complex		Tsunami Warning, Basic But Useful, Thunderstorm!!!!
+Too Much Sax	TR-Rack	Combination	C038	2021/11/23 0:14:46	Horn Section		CrawlersLeadSax, Solo Sax, The Sax Band, CrawlersLeadSax
+Orgabass + SW2	TR-Rack	Combination	C039	2021/11/23 0:14:46	Synth		ClassicM1Organ2, Drub Square, ClassicM1Organ2, ClassicM1Organ2, ClassicM1Organ2, Sync Bass, Sync Bass, Sync Bass
+} Millenium {	TR-Rack	Combination	C040	2021/11/23 0:14:46	Synth		Saw Pad, 20,000 Fathoms, {Slow Strings}, Noctiluca, Marc Tree
+Foggy Duty Solo	TR-Rack	Combination	C041	2021/11/23 0:14:46	Bass Splits		[Ribbon] Rok Gtr, Organ grind, Rez Motion Sweep
+Almost Awake...	TR-Rack	Combination	C042	2021/11/23 0:14:46	Breathy/Airy		Brain Swimming, Steady Breath, = Evaporate =
+Bad Science	TR-Rack	Combination	C043	2021/11/23 0:14:46	Motion Synth		WAVE STATION, Night Moods, ({ Scanners }), Space Life
+sololos padbaq	TR-Rack	Combination	C044	2021/11/23 0:14:46	Pad & Lead		Rising The Sun, Rising The Sun, Bells In Motion, Analog Bass  SW1
+TechnoHitz	TR-Rack	Combination	C045	2021/11/23 0:14:46	Drums/Special FX		OPERA, Organ Hit, Euro Stab, ST Intense Hit
+Obesity Bass	TR-Rack	Combination	C046	2021/11/23 0:14:46	Bass		Nistrom, Nistrom, Junnggle Bass
+Bellish Stuff	TR-Rack	Combination	C047	2021/11/23 0:14:46	Bell & Mallet		Icicle, Tinkle Bells, Solar Lullaby, Clear Mallet, Solar Lullaby
+Velocity Brass	TR-Rack	Combination	C048	2021/11/23 0:14:46	Orchestral		01W Trombone1, French Horn Ens., Orchestral Brass, Flugelhorn
+SuperSub Rap Baz	TR-Rack	Combination	C049	2021/11/23 0:14:46	Bass Splits		Bass Drum Bass, Trance Lead, Junnggle Bass
+Buenas Dias	TR-Rack	Combination	C050	2021/11/23 0:14:46	Motion Synth		Shape Shifter, Sweepy Strings
+Perfect*PianoPad	TR-Rack	Combination	C051	2021/11/23 0:14:46	Keyboard		Soft-StereoPiano, Double Strings
+Ricky's Delight	TR-Rack	Combination	C052	2021/11/23 0:14:46	Breathy/Airy		Bottle, Wavetable E.P.
+Minor StringStab	TR-Rack	Combination	C053	2021/11/23 0:14:46	Complex		String Stab, String Stab, String Stab, ST Intense Hit
+Saxify	TR-Rack	Combination	C054	2021/11/23 0:14:46	Horn Section		Solo Sax, 01W Alto Sax, CrawlersLeadSax, Sharp Brass
+Shanghai Muzak	TR-Rack	Combination	C055	2021/11/23 0:14:46	Ethnic/Trad.		FM Water Bell, Shamisen, Banjo Andro, Wooden Slit Drum, Wooden Slit Drum
+Technosynthorgan	TR-Rack	Combination	C056	2021/11/23 0:14:46	Synth		Tek Quire, String Stab, KnobbingBass, Bamboo "B" !!, Rubber{Wah}Clav, String Stab
+Bas D'Joure	TR-Rack	Combination	C057	2021/11/23 0:14:46	Bass Splits		Dark Moog, 30303 Rez Bass, Plastic Man, Pole
+Flight From 2000	TR-Rack	Combination	C058	2021/11/23 0:14:46	Breathy/Airy		Velocity EP, Rave Choir, Clavi-Attack, KnobbingBass, ST Sus.Band Hit
+Serene Bell Pad	TR-Rack	Combination	C059	2021/11/23 0:14:46	Synth		Rezo Airpad, Bellend, Clear Mallet
+Sunspots	TR-Rack	Combination	C060	2021/11/23 0:14:46	Motion Synth		Square Snaps, Slow Sweeper, Clear Mallet
+Trip-Hop Noizes	TR-Rack	Combination	C061	2021/11/23 0:14:46	Drums/Special FX		ST Glass O.Hit, ST Sus.Band Hit, Reggae Gtr Chd, Reggae Gtr Chd, Pop Guitar Chd, ST Intense Hit
+Rez-o-matic	TR-Rack	Combination	C062	2021/11/23 0:14:46	Synth		Rhythmic Rez, Drub Square, __Kleer_Bass__
+Bellmove	TR-Rack	Combination	C063	2021/11/23 0:14:46	Motion Synth		Bells In Motion, Bellend, {Slow Strings}
+Japanese Scores	TR-Rack	Combination	C064	2021/11/23 0:14:46	Orchestral		Tronic Strinng, Stabbin' McNally, Rhythm Sweep, Hallucinating, Double Strings, Double Strings
+Smooovvv Split	TR-Rack	Combination	C065	2021/11/23 0:14:46	Bass Splits		OLD/Dark E.P., Bass Drum Bass, Fretless
+SweeperPad	TR-Rack	Combination	C066	2021/11/23 0:14:46	Motion Synth		Upsweep, Slow Sweeper, SweepUp Synth
+Dance <|> Piano	TR-Rack	Combination	C067	2021/11/23 0:14:46	Keyboard		Dance Piano, M1 Piano
+Dream Guitar	TR-Rack	Combination	C068	2021/11/23 0:14:46	Guitar		Finger Pickin', Evolver Pad, Nylon Guitar, Delicate Morpher
+Underwater Chasm	TR-Rack	Combination	C069	2021/11/23 0:14:46	Complex		Mermaid, DSP Noise, Frozen Crystals
+POWER Brass Ens.	TR-Rack	Combination	C070	2021/11/23 0:14:46	Horn Section		Orchestral Brass, Stereo Brass, Hard Trombone
+Ac.Bass & Sax	TR-Rack	Combination	C071	2021/11/23 0:14:46	Bass Splits		01W Alto Sax, CrawlersLeadSax, StandUpTheBass
+Philly Strings	TR-Rack	Combination	C072	2021/11/23 0:14:46	Strings		Pop Strings 2, Pop Strings 2, Double Strings
+Hip Hop Dog Bass	TR-Rack	Combination	C073	2021/11/23 0:14:46	Bass		Bass Drum Bass, StandUpTheBass,  ! Stinky Bass !
+Heaven Smiles	TR-Rack	Combination	C074	2021/11/23 0:14:46	Breathy/Airy		Forest Choir, FM Bells, Solar Lullaby
+Organ Pad	TR-Rack	Combination	C075	2021/11/23 0:14:46	Organ		KBed E.P., Jazz-Organ 2
+Falling	TR-Rack	Combination	C076	2021/11/23 0:14:46	Pad & Lead		Detuned E.P., WAVE STATION, Stereo Strings, Ribbon Strings, Brass Pad, Asian Gong, Marc Tree, Noctiluca
+Seance Spirits	TR-Rack	Combination	C077	2021/11/23 0:14:46	Drums/Special FX		{Chasing Comets}, Insectisuicides, Harp Heaven, Mr. Nightmare, Shape Shifter, ({ Scanners }), Birds & Bugs, Marc Tree
+[ Comet Fly-By ]	TR-Rack	Combination	C078	2021/11/23 0:14:46	Synth		Evolver Pad, Hover Craft, Rezpad
+Serengeti	TR-Rack	Combination	C079	2021/11/23 0:14:46	Bell & Mallet		Natural Kalimba, African Log Drum, Natural Kalimba, Flutepad
+Evan's Horn	TR-Rack	Combination	C080	2021/11/23 0:14:46	Orchestral		Forest Choir, French Horn Ens., Saw Pad, Flugelhorn
+Harp n' Stein	TR-Rack	Combination	C081	2021/11/23 0:14:46	Synth		Harp, TAP RibbonVoices, Night Moods, SynMallet
+Relaxation	TR-Rack	Combination	C082	2021/11/23 0:14:46	Motion Synth		Digital Polysix, Analog Bass  SW1, Clear Mallet, Clear Mallet, Clear Mallet, SweepUp Synth, Mermaid, SineUsoid
+Saloon Piano	TR-Rack	Combination	C083	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Vintage Grand
+Jazz-mine	TR-Rack	Combination	C084	2021/11/23 0:14:46	Guitar		Vogue Bass, Mr. Impact, StandUpTheBass, KBed E.P.
+SoftArp&HardSolo	TR-Rack	Combination	C085	2021/11/23 0:14:46	Complex		Detuned Ana. Era, Rez Motion Sweep, M1 Grand Piano, Brite FM Roads, Night Moods
+Clav Thang	TR-Rack	Combination	C086	2021/11/23 0:14:46	Keyboard		Clavi-Attack, Fretless
+Polyphonic Now!	TR-Rack	Combination	C087	2021/11/23 0:14:46	Synth		Mondo Rave Pad', BubbleGumRibbon, KnobbingBass
+East Meets West	TR-Rack	Combination	C088	2021/11/23 0:14:46	Strings		Pop Strings 2, Sitar
+Wack Split	TR-Rack	Combination	C089	2021/11/23 0:14:46	Bass Splits		Dr.Groove Bass, Ddum'n Bass SQ01, Reggae Gtr Chd, Picked Bass, DaDanceMixPiano
+Solar Bell Pad	TR-Rack	Combination	C090	2021/11/23 0:14:46	Breathy/Airy		Solar Bells, Solar Ghosts, City of Angels
+Complex E.Piano	TR-Rack	Combination	C091	2021/11/23 0:14:46	Keyboard		Velocity EP, SmoothStage E.P.
+Any Dynamic	TR-Rack	Combination	C092	2021/11/23 0:14:46	Motion Synth		WAVE STATION, Detuned E.P., Saw Pad, Pop Mutes
+NCC-1701-A	TR-Rack	Combination	C093	2021/11/23 0:14:46	Drums/Special FX		TAP RibbonVoices, ChordWork, ChordWork, ChordWork, ChordWork, ChordWork, ChordWork, Super Pizz Hit
+The Thing	TR-Rack	Combination	C094	2021/11/23 0:14:46	Synth		Ghostly Strings, Solar Lullaby, Teknostatic, Syn-Zap Bass
+Solar/Pluck Bell	TR-Rack	Combination	C095	2021/11/23 0:14:46	Bell & Mallet		Pluck Bell, Chiff Anatomy, Solar Bells
+Bell*Brass*Strng	TR-Rack	Combination	C096	2021/11/23 0:14:46	Orchestral		Pop Strings 2, Sharp Brass, FM Tubular
+Waving Splitting	TR-Rack	Combination	C097	2021/11/23 0:14:46	Bass Splits		Super Stage EP, DaDanceMixPiano, BubbleGumRibbon, *{LAZER WARS}*, *{LAZER WARS}*, *{LAZER WARS}*
+Pedal&Arpeggio	TR-Rack	Combination	C098	2021/11/23 0:14:46	Synth		Digistack Stab, * Ice Whistle *, Rez Motion Sweep, Clear Mallet, Sub-Synth, * Ice Whistle *, [{ The Summit }], Clear Mallet
+Piano+Strings	TR-Rack	Combination	C099	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Double Strings
+Bag of Strings	TR-Rack	Combination	C100	2021/11/23 0:14:46	Guitar		Finger Pickin', Finger Pickin', Finger Pickin', Finger Pickin'
+Pad of It's Own	TR-Rack	Combination	C101	2021/11/23 0:14:46	Motion Synth		Upsweep, Hands of Time, {Chasing Comets}, Rez Motion Sweep
+Bonefied	TR-Rack	Combination	C102	2021/11/23 0:14:46	Horn Section		01W Trombone1, Mute Trumpet, 01W Trombone2, Soft Trombone, Tuba
+Lite Swirling EP	TR-Rack	Combination	C103	2021/11/23 0:14:46	Keyboard		Custom Roads, Brite FM Roads, Plastic Man
+Splitting Pool	TR-Rack	Combination	C104	2021/11/23 0:14:46	Bass Splits		OLD/Dark E.P., Razor Bass, DaDanceMixPiano, Detuned E.P., Vintage Grand, Razor Bass
+R & B Split	TR-Rack	Combination	C105	2021/11/23 0:14:46	Bass Splits		Upright Bass, CrawlersLeadSax, 01W Trombone1, Super BX-3
+Solar Voices	TR-Rack	Combination	C106	2021/11/23 0:14:46	Breathy/Airy		Solar Lullaby, Steady Breath
+OldDreamingOrgan	TR-Rack	Combination	C107	2021/11/23 0:14:46	Organ		Reggae Organ, OLD/Dark E.P.
+Funky Tool	TR-Rack	Combination	C108	2021/11/23 0:14:46	Synth		Funky Lead, Pfunky Bass  SW1, SQ 303Devotee JS, Vogue Bass
+Sweet Digital	TR-Rack	Combination	C109	2021/11/23 0:14:46	Motion Synth		Organ grind, Trencher, Wavetable E.P.
+Stingy Passage	TR-Rack	Combination	C110	2021/11/23 0:14:46	Keyboard		[{ The Summit }], Clavi-Attack, Vel~Swellz, Wavetable E.P., Double Strings, Wavetable E.P.
+Pop Tops	TR-Rack	Combination	C111	2021/11/23 0:14:46	Bell & Mallet		Marimba, Xylophone, Clear Mallet,  ! Stinky Bass !,  ! Stinky Bass !
+Lovely Nylon	TR-Rack	Combination	C112	2021/11/23 0:14:46	Orchestral		Nylon Guitar, Pizzicato Ens., Sweepy Strings
+Breathing ElPno	TR-Rack	Combination	C113	2021/11/23 0:14:46	Keyboard		Night Moods, Breath of Life
+Cloud Surfing	TR-Rack	Combination	C114	2021/11/23 0:14:46	Motion Synth		Noctiluca, Noctiluca, Rezo Airpad
+Jungle Bass	TR-Rack	Combination	C115	2021/11/23 0:14:46	Synth		30303 Rez Bass, Punctured BASS, Razor Bass, Junnggle Bass
+Bellysh Guitar	TR-Rack	Combination	C116	2021/11/23 0:14:46	Guitar		Pop Mutes, Tinkle Bells, Detuned E.P., ChordWork, Clear Mallet
+Passage to Pluto	TR-Rack	Combination	C117	2021/11/23 0:14:46	Motion Synth		Rising The Sun, Rez Motion Sweep
+Wired Synthicord	TR-Rack	Combination	C118	2021/11/23 0:14:46	Keyboard		StandUpTheBass, ChordWork
+Bella Bella	TR-Rack	Combination	C119	2021/11/23 0:14:46	Keyboard		Vocalscape, *Tingly* E.Piano, *Belliano*
+SombreroSombra	TR-Rack	Combination	C120	2021/11/23 0:14:46	Keyboard		OLD/Dark E.P., Street Guitar, ChordWork, OLD/Dark E.P.
+Grab Your Teeth!	TR-Rack	Combination	C121	2021/11/23 0:14:46	Bass Splits		Dance Arp Wave, Dance Arp Wave, Radio Piano(SW1), Dance Arp Wave, Analog Clav
+Holy, Holy, Holy	TR-Rack	Combination	C122	2021/11/23 0:14:46	Breathy/Airy		Take Voices, Forest Choir, Light Choir
+Piano In Blue	TR-Rack	Combination	C123	2021/11/23 0:14:46	Keyboard		OLD/Dark E.P., M1 Piano, M1 Grand Piano, Vocalscape
+Quiet Resonances	TR-Rack	Combination	C124	2021/11/23 0:14:46	Synth		Trance Lead, Knocker Bass, WAVE STATION, OLD/Dark E.P.
+Nemo	TR-Rack	Combination	C125	2021/11/23 0:14:46	Motion Synth		Sweepy Strings, Upsweep
+Nocturnal Dreams	TR-Rack	Combination	C126	2021/11/23 0:14:46	Synth		Tape Synth, Stereo Filters, Staccato Pad
+Chorus Bell	TR-Rack	Combination	C127	2021/11/23 0:14:46	Bell & Mallet		Tinkle Bells
+Philharmonic	TR-Rack	Combination	D000	2021/11/23 0:14:46	Orchestral		Orchestral Brass, Stereo Strings, Piccolo, French Horn Ens.
+Waffle Mallot	TR-Rack	Combination	D001	2021/11/23 0:14:46	Bass Splits		Bamboo "B" !!, {_Hip * Pick_}, Pound Bass, Noctiluca, "Bed" of Vocals
+Sub Mairner	TR-Rack	Combination	D002	2021/11/23 0:14:46	Motion Synth		Double Strings, Stacc-echo, FM Water Bell, Mermaid
+Empty Auditorium	TR-Rack	Combination	D003	2021/11/23 0:14:46	Keyboard		Soft-StereoPiano
+String Shepard	TR-Rack	Combination	D004	2021/11/23 0:14:46	Guitar		Finger Pickin', Finger Pickin', TAP RibbonVoices, Thunder Pick
+Marvel Starship	TR-Rack	Combination	D005	2021/11/23 0:14:46	Complex		{Chasing Comets}, Interval Sweep, * Ice Whistle *, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning
+Bad-Phat Brass	TR-Rack	Combination	D006	2021/11/23 0:14:46	Horn Section		Brass Brothers, Stereo Brass
+Spiritual Piano	TR-Rack	Combination	D007	2021/11/23 0:14:46	Keyboard		Piano Pad #3, = Evaporate =
+SuperString Pad	TR-Rack	Combination	D008	2021/11/23 0:14:46	Strings		{Slow Strings}, Double Strings
+*MIDI DDL Trap*	TR-Rack	Combination	D009	2021/11/23 0:14:46	Synth		Bass Drum Bass, Drub Square, Junnggle Bass, 30303 Square, Slang Bass
+Closest Cloud	TR-Rack	Combination	D010	2021/11/23 0:14:46	Breathy/Airy		Ribbon Rez Bass, Space Life, Jungle Bass 2, Bells In Motion
+Nicki's Funky	TR-Rack	Combination	D011	2021/11/23 0:14:46	Organ		Rotary Organ, Jazz-Organ 2
+Sub Lime	TR-Rack	Combination	D012	2021/11/23 0:14:46	Pad & Lead		Digistack Stab, Zapper Bass, Double Strings, Ribbon Rez Bass, Space Life
+Hip Hop Hits	TR-Rack	Combination	D013	2021/11/23 0:14:46	Drums/Special FX		Vox Rhythms, ST Intense Hit, Organ Hit, OPERA, Vox Rhythms
+Buzzy SynthBrass	TR-Rack	Combination	D014	2021/11/23 0:14:46	Synth		Electrik Brass, Flashy SAWS
+MajesticMondoPad	TR-Rack	Combination	D015	2021/11/23 0:14:46	Bell & Mallet		Solar Lullaby, Double Strings, Night Moods
+Chamber Orchestr	TR-Rack	Combination	D016	2021/11/23 0:14:46	Orchestral		Ribbon Strings, Symphonic Pad, Oboe, French Horn Ens.
+Phat Bass & PAD	TR-Rack	Combination	D017	2021/11/23 0:14:46	Bass Splits		Bass Drum Bass, Slang Bass, Mr. Impact, Double Strings, Staccato Pad
+Earthglow	TR-Rack	Combination	D018	2021/11/23 0:14:46	Motion Synth		Pot Covers, Slow Sweeper, Space Life
+Pop Piano	TR-Rack	Combination	D019	2021/11/23 0:14:46	Keyboard		Piano Pad #1, Brite FM Roads
+Suspander	TR-Rack	Combination	D020	2021/11/23 0:14:46	Guitar		Pop Mutes, [Ribbon] Rok Gtr, ChordWork, Jungle Bass 2
+Finito!	TR-Rack	Combination	D021	2021/11/23 0:14:46	Synth		...For Medusa, Pop Strings 1, Rezpad
+SparklingBrass	TR-Rack	Combination	D022	2021/11/23 0:14:46	Horn Section		Brass Brothers, Ghostly Strings, Brass Brothers, Brass Brothers
+Madrigal	TR-Rack	Combination	D023	2021/11/23 0:14:46	Ethnic/Trad.		Space Life, Finger Pickin', Triangulation, Hackbrett
+Tronic Piano/Str	TR-Rack	Combination	D024	2021/11/23 0:14:46	Keyboard		Tronic Strinng, [| 90's Piano |]
+Da Motown Rap	TR-Rack	Combination	D025	2021/11/23 0:14:46	Bass Splits		SUB-SUB-BASS, Reggae Gtr Chd, Reggae Gtr Chd, Pop Guitar Chd, OPERA, ST Intense Hit
+A-irish DynaBoom	TR-Rack	Combination	D026	2021/11/23 0:14:46	Breathy/Airy		SinisterDrug@3AM, Mermaid, Mermaid, Mermaid, Noise Hits, Rez Motion Sweep, Pole
+PowerBallad Clav	TR-Rack	Combination	D027	2021/11/23 0:14:46	Keyboard		Bell/Piano/Pad, ChordWork
+Chorus ElPiano	TR-Rack	Combination	D028	2021/11/23 0:14:46	Keyboard		OLD/Dark E.P., Brite FM Roads
+CrazyHitz	TR-Rack	Combination	D029	2021/11/23 0:14:46	Drums/Special FX		Organ Hit, Organ Hit, Organ Hit, Organ Hit, Staccato Hit!, Pole, ST Glass O.Hit, ST Old Brass Hit
+Cluster Sample	TR-Rack	Combination	D030	2021/11/23 0:14:46	Synth		Tek Quire, Tek Quire, Xylospectrum
+OldsDon'tBreath	TR-Rack	Combination	D031	2021/11/23 0:14:46	Synth		= Evaporate =, Ginch
+Lapponian Sleigh	TR-Rack	Combination	D032	2021/11/23 0:14:46	Orchestral		Junnggle Bass, Hallucinating, Detuned Ana. Era, Solar Lullaby
+BigBottm/TripTop	TR-Rack	Combination	D033	2021/11/23 0:14:46	Bass Splits		StandUpTheBass, Sticky Rez Clav, Sticky Rez Clav, Sticky Rez Clav, Sticky Rez Clav
+Roswell Lights	TR-Rack	Combination	D034	2021/11/23 0:14:46	Motion Synth		Digital Polysix, Slow Sweeper, Vocalscape
+Princess Keys	TR-Rack	Combination	D035	2021/11/23 0:14:46	Keyboard		Super CP Layer, *Tingly* E.Piano, Tinkle Bells
+RudeGuitar Split	TR-Rack	Combination	D036	2021/11/23 0:14:46	Guitar		Solo Violin, Lead Guitar/JS-Y, Pop Mutes, ThrustingThrunge, Power Chord Plus, Crunchy Power Gt, Crunchy Power Gt, Pop Mutes
+Lost Words	TR-Rack	Combination	D037	2021/11/23 0:14:46	Complex		Soft-StereoPiano, *{LAZER WARS}*, Vocalscape, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning
+@-Saxination	TR-Rack	Combination	D038	2021/11/23 0:14:46	Horn Section		CrawlersLeadSax, Detuned Ana. Era, FM Water Bell, Razor Bass, Lead, or Bass?, Razor Bass
+Holy Phat!	TR-Rack	Combination	D039	2021/11/23 0:14:46	Bass		Bass Drum Bass, Trance Lead
+[Nuclear Dawn]	TR-Rack	Combination	D040	2021/11/23 0:14:46	Synth		<< Going Home >>, }( Meditate ){, Analog Pad
+Face Split	TR-Rack	Combination	D041	2021/11/23 0:14:46	Bass Splits		Bass Clarinet, Crunchy Power Gt, Asid Bass, Soft-StereoPiano, Super CP Layer
+LunarLight	TR-Rack	Combination	D042	2021/11/23 0:14:46	Breathy/Airy		Space Life, Dragon's Lair, Bell Angels
+Mondo MIDI Synth	TR-Rack	Combination	D043	2021/11/23 0:14:46	Synth		Future Synth, Basic But Useful, Dance Lead
+Heavenly ElPiano	TR-Rack	Combination	D044	2021/11/23 0:14:46	Keyboard		OLD/Dark E.P., Ensemble Bell
+Dre Rap Effeks	TR-Rack	Combination	D045	2021/11/23 0:14:46	Drums/Special FX		Brite FM Roads, Brite FM Roads, Brite FM Roads, RibbonYoHeadOff!, Vinyl Rap Bass, ST Old Brass Hit
+Techno Bass/Syn	TR-Rack	Combination	D046	2021/11/23 0:14:46	Synth		String Stab, RibbonYoHeadOff!, Rawsaw Syn. Bass
+*Mystical Bali*	TR-Rack	Combination	D047	2021/11/23 0:14:46	Bell & Mallet		Synth Logg Drum, FM Water Bell, Finger Gamelon
+Looney Tunes	TR-Rack	Combination	D048	2021/11/23 0:14:46	Orchestral		Xylophone, Oboe, Piccolo, Tuba, Standard Kit, Clarinet, Asian Gong, Timpani
+Sneakin Up	TR-Rack	Combination	D049	2021/11/23 0:14:46	Synth		Octarez Bass, Rawsaw Syn. Bass, squinge sqr >SW1, squinge sqr >SW1, Rawsaw Syn. Bass
+Wavestation Pad	TR-Rack	Combination	D050	2021/11/23 0:14:46	Motion Synth		WAVE STATION, Tsunami Warning
+Sweet Grand Pno	TR-Rack	Combination	D051	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Saw Pad
+Mango Mallet	TR-Rack	Combination	D052	2021/11/23 0:14:46	Bell & Mallet		Perc. Bottle, Glockenspiel, Bottle
+Polaris	TR-Rack	Combination	D053	2021/11/23 0:14:46	Keyboard		OLD/Dark E.P., Wavetable E.P., WAVE STATION
+Compu-Neoclassic	TR-Rack	Combination	D054	2021/11/23 0:14:46	Synth		SQ 303Devotee JS, Staccato Pad, Slow Sweeper
+Cairo Connection	TR-Rack	Combination	D055	2021/11/23 0:14:46	Ethnic/Trad.		SineUsoid, Oboe, Finger Cymbal, 13 Bells Of Bali
+Smooth SynStrngs	TR-Rack	Combination	D056	2021/11/23 0:14:46	Strings		Analog Strings, Sub-Synth, [{ The Summit }]
+AdventureBs/Solo	TR-Rack	Combination	D057	2021/11/23 0:14:46	Bass Splits		Dark Moog, Dark Moog, Ribbon Rez Bass, Pound Bass, Space Life, Disco Brass, Forest Choir, Space Life
+Ringworm	TR-Rack	Combination	D058	2021/11/23 0:14:46	Breathy/Airy		"Bed" of Vocals, "Bed" of Vocals, Bells In Motion
+Ears Candy	TR-Rack	Combination	D059	2021/11/23 0:14:46	Synth		Tinkle Bells, Evolver Pad, Pop Strings 2, Rising The Sun, [{ The Summit }]
+Split The Thing	TR-Rack	Combination	D060	2021/11/23 0:14:46	Pad & Lead		Digital Polysix, Pop Strings 1, Ghostly Strings, Solar Lullaby, Teknostatic, Syn-Zap Bass, KBed E.P.
+Horrible Flight	TR-Rack	Combination	D061	2021/11/23 0:14:46	Drums/Special FX		FM Water Bell, Useful Trash, Tinkle Bells
+Mosquito Boy	TR-Rack	Combination	D062	2021/11/23 0:14:46	Synth		Ginch, Velorezo
+Electric Eel	TR-Rack	Combination	D063	2021/11/23 0:14:46	Motion Synth		TempoSynth~Organ, Evolver Pad
+Voxathon	TR-Rack	Combination	D064	2021/11/23 0:14:46	Motion Synth		Vocal Motion, Take Voices, Vocalscape
+Cool Split  :-)	TR-Rack	Combination	D065	2021/11/23 0:14:46	Bass Splits		Zapper Bass, Upright Bass, KBed E.P., [Ribbon] Rok Gtr, KnobbingBass
+UnderwaterGarden	TR-Rack	Combination	D066	2021/11/23 0:14:46	Motion Synth		Mermaid, Evolver Pad, = Evaporate =
+Hammer All	TR-Rack	Combination	D067	2021/11/23 0:14:46	Keyboard		Piano Pad #3, ChordWork, Sonic }{ Soup
+Nylon Clouds	TR-Rack	Combination	D068	2021/11/23 0:14:46	Guitar		Nylon Guitar, Nylon Guitar, TAP RibbonVoices, Vocalscape
+Almost Asleep...	TR-Rack	Combination	D069	2021/11/23 0:14:46	Complex		     ...sleep..., * Ice Whistle *, Sweepy Strings
+Brite Pop Brass	TR-Rack	Combination	D070	2021/11/23 0:14:46	Horn Section		Sharp Brass, Electrik Brass
+Bass-n-Sax Split	TR-Rack	Combination	D071	2021/11/23 0:14:46	Bass Splits		01W Alto Sax, Dr.Groove Bass
+Double Dip Strgs	TR-Rack	Combination	D072	2021/11/23 0:14:46	Strings		Pop Strings 2, Double Strings
+Clean Bass Guitr	TR-Rack	Combination	D073	2021/11/23 0:14:46	Bass		{_Hip * Pick_}, Electric Bass, Pull Me Please
+Andes Mist	TR-Rack	Combination	D074	2021/11/23 0:14:46	Breathy/Airy		Perc. Bottle, Pan Flute, Breathy Bells
+Annie Rose Goes	TR-Rack	Combination	D075	2021/11/23 0:14:46	Organ		Classic Whirly, Gospel Organ, Clav Control
+Alien Canyon	TR-Rack	Combination	D076	2021/11/23 0:14:46	Pad & Lead		Rising The Sun, Thunder Pick, {Chasing Comets}, [Ribbon] Rok Gtr
+#Splits4SciFi#	TR-Rack	Combination	D077	2021/11/23 0:14:46	Drums/Special FX		Elevator Noise, Trencher, Brain Swimming, 20,000 Fathoms, AnalogSweeper, NeuroSurgery, Brain Swimming, Orbiting Probes
+PercuPad	TR-Rack	Combination	D078	2021/11/23 0:14:46	Synth		SynMallet, Saw Pad
+Kalimba Simba	TR-Rack	Combination	D079	2021/11/23 0:14:46	Bell & Mallet		Marimba, Natural Kalimba, Synth Logg Drum, Wooden Slit Drum
+Dynamic'll SlapU	TR-Rack	Combination	D080	2021/11/23 0:14:46	Keyboard		Analog Bass  SW1, Mr. Impact, StandUpTheBass, KBed E.P., Night Moods, Analog Bass  SW1
+Take Bass	TR-Rack	Combination	D081	2021/11/23 0:14:46	Bass Splits		Take Voices, Fretless, Acoustic Bass
+Swimmin Thru Air	TR-Rack	Combination	D082	2021/11/23 0:14:46	Motion Synth		}( Meditate ){, Delicate Morpher
+Latin Piano	TR-Rack	Combination	D083	2021/11/23 0:14:46	Keyboard		Acoustic Piano, Acoustic Piano
+Steel n' Fiddle	TR-Rack	Combination	D084	2021/11/23 0:14:46	Guitar		Pedal Steel, Finger Pickin', Upright Bass, Solo String(SW1)
+Fuga Diminuita	TR-Rack	Combination	D085	2021/11/23 0:14:46	Complex		Sub-Synth
+Rubber Clav	TR-Rack	Combination	D086	2021/11/23 0:14:46	Keyboard		Classic Whirly, Classic Whirly, Clav Control, Rubber{Wah}Clav
+Pulse Power	TR-Rack	Combination	D087	2021/11/23 0:14:46	Synth		PWM Pad SW1, PWM Pad SW1
+GO GO GO Sync!	TR-Rack	Combination	D088	2021/11/23 0:14:46	Synth		OLD/Dark E.P., Street Guitar, Mr.8 Sync Lead, Sub-Synth, Vocalscape
+ClassicM1Split	TR-Rack	Combination	D089	2021/11/23 0:14:46	Bass Splits		Slap Bass, Fretless, M1 Grand Piano, Slap Bass
+Cumulonimbus	TR-Rack	Combination	D090	2021/11/23 0:14:46	Breathy/Airy		"Bed" of Vocals, Solar Bells
+E.P. 3rd. Type	TR-Rack	Combination	D091	2021/11/23 0:14:46	Keyboard		Detuned E.P., Velocity EP
+The View	TR-Rack	Combination	D092	2021/11/23 0:14:46	Motion Synth		Adieu Rainforest, Rising The Sun, Rezo Airpad, FM Water Bell
+Hawk's	TR-Rack	Combination	D093	2021/11/23 0:14:46	Drums/Special FX		Elevator Noise, DigiBell Pad, Interval Sweep, Drub Square, {Chasing Comets}, Stereo Filters, = Evaporate =
+Breathy Down	TR-Rack	Combination	D094	2021/11/23 0:14:46	Synth		KnobbingBass, Staccato Pad, Sweepy Strings, Useful Trash
+Green Eyed Bass	TR-Rack	Combination	D095	2021/11/23 0:14:46	Synth		KnobbingBass, Rotary Organ, ChordWork
+Archer	TR-Rack	Combination	D096	2021/11/23 0:14:46	Motion Synth		Night Moods, Harp Heaven, Cyber Choir, TAP RibbonVoices
+FreshFreshFresh	TR-Rack	Combination	D097	2021/11/23 0:14:46	Bass Splits		Digistack Stab, Tikki, squinge sqr >SW1, Lead, or Bass?, Knocker Bass, Punctured BASS
+Story Teller	TR-Rack	Combination	D098	2021/11/23 0:14:46	Synth		Digital Polysix, [Ribbon] Rok Gtr, Steady Breath
+NewPiano&Strings	TR-Rack	Combination	D099	2021/11/23 0:14:46	Keyboard		Soft-StereoPiano, The Symphony, ClassicalStrings, ClassicalStrings, Solo String(SW1)
+12 of 12!	TR-Rack	Combination	D100	2021/11/23 0:14:46	Guitar		12 String Guitar, 12 String Guitar, "Bed" of Vocals
+Play: C>G#>A#>F>	TR-Rack	Combination	D101	2021/11/23 0:14:46	Complex		[Ribbon] Rok Gtr, ST Intense Hit, SweepUp Synth, Pop Mutes, Pop Mutes, Pop Mutes, Pop Mutes, Pop Mutes
+Symphony Brass	TR-Rack	Combination	D102	2021/11/23 0:14:46	Horn Section		Trumpet, Hard Trombone, Tuba, French Horn Ens., Trumpet
+Bright ElPno+Str	TR-Rack	Combination	D103	2021/11/23 0:14:46	Keyboard		Pop Strings 1, Brite FM Roads
+Sweet & Low	TR-Rack	Combination	D104	2021/11/23 0:14:46	Bass Splits		Super Stage EP, OLD/Dark E.P., Lock the Piano!, DaDanceMixPiano, Rez Motion Sweep
+Walk n' Talk	TR-Rack	Combination	D105	2021/11/23 0:14:46	Bass Splits		Classic Whirly, Gospel Organ, Pfunky Bass  SW1
+Twilight Flight	TR-Rack	Combination	D106	2021/11/23 0:14:46	Breathy/Airy		Staccato Pad, Solar Bells, Pluck Bell
+Cyber Church	TR-Rack	Combination	D107	2021/11/23 0:14:46	Organ		SQ 303Devotee JS, Monstrousity, Disco*ORGAN*Bass
+Dynaresaurus	TR-Rack	Combination	D108	2021/11/23 0:14:46	Synth		Dr.Groove Bass, Funky Lead, Rubber{Wah}Clav, Icicle, Punctured BASS
+Kilimanjaro	TR-Rack	Combination	D109	2021/11/23 0:14:46	Motion Synth		False Reality, Sitar, Fretless Bass
+Snap Piano	TR-Rack	Combination	D110	2021/11/23 0:14:46	Keyboard		OLD/Dark E.P., Clavi-Attack, Night Moods
+Jamaican Rum-ba	TR-Rack	Combination	D111	2021/11/23 0:14:46	Bell & Mallet		DigiBell Pad, Synth Logg Drum, DigiBell Pad
+Grungy Attack	TR-Rack	Combination	D112	2021/11/23 0:14:46	Synth		KBed E.P., Useful Trash, Ginch
+Octav-E-PianoSW2	TR-Rack	Combination	D113	2021/11/23 0:14:46	Keyboard		Super Stage EP, OLD/Dark E.P., Bass Drum Bass, Super Stage EP, False Reality, OLD/Dark E.P.
+Forever Waiting	TR-Rack	Combination	D114	2021/11/23 0:14:46	Motion Synth		DSP Noise, Trencher,      ...sleep..., Sweepy Strings
+Just Bass? Neee!	TR-Rack	Combination	D115	2021/11/23 0:14:46	Synth		Ginch, Vogue Bass, Upright Bass, Wavetable E.P., Vogue Bass
+Guitar Strings	TR-Rack	Combination	D116	2021/11/23 0:14:46	Guitar		Steel String Gtr, Steel String Gtr, Double Strings
+Lost Knowledge	TR-Rack	Combination	D117	2021/11/23 0:14:46	Complex		Mermaid, *{LAZER WARS}*, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning, Tsunami Warning
+Poly-edric	TR-Rack	Combination	D118	2021/11/23 0:14:46	Keyboard		SUB-SUB-BASS, ChordWork, Pfunky Bass  SW1
+French Tines	TR-Rack	Combination	D119	2021/11/23 0:14:46	Ethnic/Trad.		Musette / SW 1&2, Brite FM Roads, Tango / SW 1&2, Akkordeon/SW 1&2
+Tines n' Bamboo	TR-Rack	Combination	D120	2021/11/23 0:14:46	Keyboard		Brite FM Roads, Bottle, Pan Flute, Wooden Slit Drum
+Cool Cats	TR-Rack	Combination	D121	2021/11/23 0:14:46	Bass Splits		Jazz Bass (SW1), Dad's JazzGuitar, Solo Sax, Mute Trumpet
+Big Choir	TR-Rack	Combination	D122	2021/11/23 0:14:46	Breathy/Airy		Cyber Choir, Light Choir, Doo the Vibe Pad, Boys Choir
+Jacathon	TR-Rack	Combination	D123	2021/11/23 0:14:46	Synth		FunkyGtr 9th Chd, Sitar, Fretless Bass
+479 The Chord	TR-Rack	Combination	D124	2021/11/23 0:14:46	Bass Splits		Forest Choir, Cyber Choir, Forest Choir, Cyber Choir, Cyber Choir, Double Strings, SUB-SUB-BASS
+One Finger 4 SFX	TR-Rack	Combination	D125	2021/11/23 0:14:46	Drums/Special FX		Organ grind, Trencher, << Going Home >>, Noctiluca, AnalogSweeper
+FloatingCloudPad	TR-Rack	Combination	D126	2021/11/23 0:14:46	Synth		Evolver Pad, = Evaporate =, Plastic Man
+Breathing Bells	TR-Rack	Combination	D127	2021/11/23 0:14:46	Bell & Mallet		Clear Mallet, VS Bell Boy, Evolver Pad
+Tsunami Warning	TR-Rack	Program	A000	2021/11/23 0:14:46	Motion Synth	{Lonely} [Alien], TheName'sJazzmin, Culture^Shock, Tsunami Strikes!, Marvel Starship, Lost Words, Wavestation Pad, Lost Knowledge	
+Acoustic Piano	TR-Rack	Program	A001	2021/11/23 0:14:46	Keyboard	AirPianoEnsemble, Bass & Piano/SW1, Piano & Strings, NuJazz Split, Player's Layers, Damper/BodyPiano, Piano & Vel.Orch, MIDI Grand Stack, Bass Piano Vibe, Pianobell, Liquid Piano, Ballader, Final Movement, ReallyHonkyTonky, Ballad PianoStak, Saloon Piano, Piano+Strings, Sweet Grand Pno, Latin Piano	
+Alto Sax	TR-Rack	Program	A002	2021/11/23 0:14:46	Woodwind/Reeds	Saxophonia	
+Take Voices	TR-Rack	Program	A003	2021/11/23 0:14:46	Vocal/Airy	Modern Ensemble, Time To Sing, TheName'sJazzmin, Holy, Holy, Holy, Voxathon, Take Bass	
+Finger Pickin'	TR-Rack	Program	A004	2021/11/23 0:14:46	Guitar	NewSetOfStrings, Stubenmusik, Spanish Nights, Nashville Duet, They split up..., Nice Acoustics, Mr. Martin, Ice Guitar, Dream Guitar, Bag of Strings, String Shepard, Madrigal, Steel n' Fiddle	
+VS Bell Boy	TR-Rack	Program	A005	2021/11/23 0:14:46	Bell	Trinity Bells, Sparkling Voices, Harmonium Soul, Breathing Bells	
+Fretless Bass	TR-Rack	Program	A006	2021/11/23 0:14:46	Bass	Miles Ahead, Bass & Harp Age, NewAged Bass, {Hip 90's Split}, Policemen, Piezo Clav, Kilimanjaro, Jacathon	
+Stereo Strings	TR-Rack	Program	A007	2021/11/23 0:14:46	Strings	NewSetOfStrings, Shakoto, Deep Strings, Scoring Horns, Masterpiece, Scoring Woods, Scoring Barocco1, Strings & Basses, Piano & Vel.Orch, Koto Velox, BOLD Orchestra, 3 Octave Strings, Scoring Barocco2, Falling, Philharmonic	
+Standard Kit	TR-Rack	Program	A008	2021/11/23 0:14:46	Drums/Perc.	Looney Tunes	Standard Kit
+Ultra Res. Sweep	TR-Rack	Program	A009	2021/11/23 0:14:46	Synth	Trance Sylvania, MonsterGodSynth, Mystery Islands, X-Fader Synth, Disquieting Solo, MondoSynthSplit, Resonant Sweep, Unicorn Forest	
+Velocity Organ	TR-Rack	Program	A010	2021/11/23 0:14:46	Organ	The Gospel Truth, Piano & Organ, BigStraightOrgan	
+*Tingly* E.Piano	TR-Rack	Program	A011	2021/11/23 0:14:46	Keyboard	MIDI Piano, Player's Layers, MIDI Grand Stack, Bella Bella, Princess Keys	
+Stereo Brass	TR-Rack	Program	A012	2021/11/23 0:14:46	Brass	Trinity Overture, Brass Band, Synthinity, OrchestralHero33, Street Fighter, Brassband w/Mute, Jazz Hits, Brass Orchestra, DynaBass & Brass, POP U Wit' This, DynamicOrchestra, SizzleSynthBrass, BOLD Orchestra, Salsa Split, POWER Brass Ens., Bad-Phat Brass	
+Natural Kalimba	TR-Rack	Program	A013	2021/11/23 0:14:46	Mallet	Jamaican Stuff, The Mallet Men, African Rain, Serengeti, Kalimba Simba	
+RibbonYoHeadOff!	TR-Rack	Program	A014	2021/11/23 0:14:46	Synth Lead	   -> R U D E <-, Bloodrush Lead, SuperHero #5, Sus4 Split, Big & Nasty Lead, Dre Rap Effeks, Techno Bass/Syn	
+Indian Duet	TR-Rack	Program	A015	2021/11/23 0:14:46	Plucked	Indian Nights, Indian Forest	
+Planet Of Funk	TR-Rack	Program	A016	2021/11/23 0:14:46	Motion Synth	The Fleas R here, Power Funk	
+Dyno-E.Piano	TR-Rack	Program	A017	2021/11/23 0:14:46	Keyboard		
+SweetSilverFlute	TR-Rack	Program	A018	2021/11/23 0:14:46	Woodwind/Reeds	Woodwind Ens. 1, Scoring Woods, Moody Orchestra, DynamicOrchestra, Moonlight Split, Woodwind Ens. 2, Mixture Pipe 1	
+Breath of Life	TR-Rack	Program	A019	2021/11/23 0:14:46	Vocal/Airy	~Secret~Garden~, {Holding Angels}, *Tim's*Bedtime*, =Dream Theatre=, Rising Tides, {{Cyber-Visual}}, Once upon a time, Deeep Bass & Pad, Breathing ElPno	
+Studio Strato	TR-Rack	Program	A020	2021/11/23 0:14:46	Guitar	Parker(both p/u), Policemen	
+Tubular Vibes	TR-Rack	Program	A021	2021/11/23 0:14:46	Bell	Spectrum Bells	
+Vinyl Rap Bass	TR-Rack	Program	A022	2021/11/23 0:14:46	Bass	Phat Tip Split, Street Fighter, Dre Rap Effeks	
+Solo String(SW1)	TR-Rack	Program	A023	2021/11/23 0:14:46	Strings	Piano & Strings, Piano & Vel.Orch, Arco Strings, Steel n' Fiddle, NewPiano&Strings	
+Lethal Drum Hit	TR-Rack	Program	A024	2021/11/23 0:14:46	Drums/Perc.	Maximum Impact, JamYourButtOff !, Street Fighter, Meganomic, Time4daBreakdown, Ghost Town, Tradewinds, Salsa Ensemble	
+That Heaven Vibe	TR-Rack	Program	A025	2021/11/23 0:14:46	Synth	Watch Me Grow..., Astral Prelude, Winds of Victory, The Rush..., Whistlers Dream, SynthPad & Solo	
+Rotary Organ	TR-Rack	Program	A026	2021/11/23 0:14:46	Organ	Magical Organ, Nicki's Funky, Green Eyed Bass	
+Dreamy E.Piano	TR-Rack	Program	A027	2021/11/23 0:14:46	Keyboard	*Tim's*Bedtime*, Time4daBreakdown	
+Hard Trombone	TR-Rack	Program	A028	2021/11/23 0:14:46	Brass	Brassband w/Mute, Orchestral Brass, Trpt & Trombones, Salsa Split, POWER Brass Ens., Symphony Brass	
+Mondo'Rimba	TR-Rack	Program	A029	2021/11/23 0:14:46	Mallet	Meet The Bushmen, BriteModernHarp, Jungle Mouth, Grinchoid	
+Spectrum Lead	TR-Rack	Program	A030	2021/11/23 0:14:46	Synth Lead	Trance Sylvania, Watch Me Grow..., Disquieting Solo, Once upon a time	
+Adieu Rainforest	TR-Rack	Program	A031	2021/11/23 0:14:46	Plucked	Beauty&THE BEAST, The View	
+Frozen Crystals	TR-Rack	Program	A032	2021/11/23 0:14:46	Motion Synth	Vox Morphing, [Unhappy=Planet], Xanosphere, Martian Sunset, Underwater Chasm	
+[| 90's Piano |]	TR-Rack	Program	A033	2021/11/23 0:14:46	Keyboard	MIDI Piano, {Hip 90's Split}, Happenin'Church!, Tronic Piano/Str	
+Clarinet	TR-Rack	Program	A034	2021/11/23 0:14:46	Woodwind/Reeds	Woodwind Ens. 1, Moonlight Split, Looney Tunes	
+Light Choir	TR-Rack	Program	A035	2021/11/23 0:14:46	Vocal/Airy	Masterpiece, Beach Vocals, Cathedral Voices, Song for Darth, Ele.Grand@Church, Holy, Holy, Holy, Big Choir	
+Nylon Guitar	TR-Rack	Program	A036	2021/11/23 0:14:46	Guitar	GuitarraEspanola, Florence 1300's, Nice Acoustics, Sombreros, Dream Guitar, Lovely Nylon, Nylon Clouds	
+Sun Bells	TR-Rack	Program	A037	2021/11/23 0:14:46	Bell	Merry Poppin', Choir of the Sun	
+Acoustic Bass	TR-Rack	Program	A038	2021/11/23 0:14:46	Bass	Bass & Piano/SW1, NuJazz Split, {Hip 90's Split}, Bass Piano Vibe, Flugel Trio SW1, Band Of Fusion, Bass & Vibe, Salsa Ensemble, Take Bass	
+The Symphony	TR-Rack	Program	A039	2021/11/23 0:14:46	Strings	Piano & Strings, Spectagon & Pad, Cosmic Approach, Doubled Strings, Delayed Reaction, Legato Strings, Dream Of Lambada, Ele.Grand@Church, NewPiano&Strings	
+!{Mega-Mix}! Kit	TR-Rack	Program	A040	2021/11/23 0:14:46	Drums/Perc.	Street Fighter	!{Mega-Mix}! Kit
+TECHNOphobic	TR-Rack	Program	A041	2021/11/23 0:14:46	Synth	Beauty&THE BEAST, Whack Dragon	
+Pipe Tutti	TR-Rack	Program	A042	2021/11/23 0:14:46	Organ	Tutti Pipe 1, Cathedral Voices	
+Night Tine EP	TR-Rack	Program	A043	2021/11/23 0:14:46	Keyboard	TineOnYourHands, Soul InSpaceport, Romance Player, Hydra Snap, BriteModernHarp, SuperNightTines, Stereo Roads	
+Soft Trumpet	TR-Rack	Program	A044	2021/11/23 0:14:46	Brass	Scoring Barocco1, MIDI Akkordeon, Dizzy Big Band, Orchestral Brass, Scoring Barocco2	
+Vibraphone	TR-Rack	Program	A045	2021/11/23 0:14:46	Mallet	Modern Ensemble, Halo of Bells, Bass Piano Vibe, They split up..., Bass & Vibe	
+Electric Lead	TR-Rack	Program	A046	2021/11/23 0:14:46	Synth Lead	Whack Dragon	
+Mandolin	TR-Rack	Program	A047	2021/11/23 0:14:46	Plucked	Taste Of Ireland	
+Moon Walking	TR-Rack	Program	A048	2021/11/23 0:14:46	Motion Synth	Vox Morphing, milesAFTERmiles, In The Pyramid, ScareOnDynamics, Dream Sequence, Ghost Town, Martian Sunset, Alien Nation	
+Electric Grand	TR-Rack	Program	A049	2021/11/23 0:14:46	Keyboard	E. Grand & Voice	
+Oboe	TR-Rack	Program	A050	2021/11/23 0:14:46	Woodwind/Reeds	OrchestralHero33, In The Pyramid, Woodwind Ens. 1, Scoring Woods, DynamicOrchestra, Orchestra & Oboe, Woodwind Ens. 2, Chamber Orchestr, Looney Tunes, Cairo Connection	
+Harp Heaven	TR-Rack	Program	A051	2021/11/23 0:14:46	Sound Effect	~Secret~Garden~, Aqua Marine, Disquieting Solo, Seance Spirits, Archer	
+Lead Guitar/JS-Y	TR-Rack	Program	A052	2021/11/23 0:14:46	Guitar	DG:Y! DistGuitar, DG:WoWDistGuitar, DG:MuteFeelDistG, Distraught, Ghost Town, Rainy Night Lead, RudeGuitar Split	
+*Bell * Arena*	TR-Rack	Program	A053	2021/11/23 0:14:46	Bell	Bell Shifting, Magical Organ, Martian Sunset, Once upon a time	
+FM Bass	TR-Rack	Program	A054	2021/11/23 0:14:46	Bass	   -> R U D E <-, Happenin'Church!	
+Solo Violin	TR-Rack	Program	A055	2021/11/23 0:14:46	Strings	Trinity Overture, DG:Y! DistGuitar, DG:WoWDistGuitar, String Ensemble, Evening in Bali, They split up..., RudeGuitar Split	
+Asian Gong	TR-Rack	Program	A056	2021/11/23 0:14:46	Drums/Perc.	Shakoto, Bell Landy, Koto Velox, Evening in Bali, Indian Nights, Falling, Looney Tunes	
+Synth Orchestra	TR-Rack	Program	A057	2021/11/23 0:14:46	Synth	BIG BONED (fat), MondoSynthSplit, Big Bottomed Bed	
+Jazz-Organ 2	TR-Rack	Program	A058	2021/11/23 0:14:46	Organ	Jazzy Organ 1, The Gospel Truth, Happenin'Church!, Jazzy Organ 2, Jazz Split Organ, Ele.Grand@Church, Organ Pad, Nicki's Funky	
+Future Synth	TR-Rack	Program	A059	2021/11/23 0:14:46	Vocal/Airy	Maximum Impact, Breath Of Fire, Mondo MIDI Synth	
+Trombone Ens.	TR-Rack	Program	A060	2021/11/23 0:14:46	Brass	Phat Tip Split, Brass Orchestra, Orchestral Brass, Sombreros	
+Steel Drum	TR-Rack	Program	A061	2021/11/23 0:14:46	Mallet		
+SnoopDoggy Bass	TR-Rack	Program	A062	2021/11/23 0:14:46	Bass	Phat Tip Split, Beauty&THE BEAST, MondoSplatBass!	
+Harp	TR-Rack	Program	A063	2021/11/23 0:14:46	Plucked	Real Harp Gliss, Romance Player, Bass & Harp Age, BriteModernHarp, Koto Velox, Harp & Strings, Orchestral World, Ballader, MIDI Harp, Harp n' Stein	
+Dragon's Lair	TR-Rack	Program	A064	2021/11/23 0:14:46	Motion Synth	Dragon's World, The Sun Surfer, LunarLight	
+Clav Control	TR-Rack	Program	A065	2021/11/23 0:14:46	Keyboard	Clav Attack, Superclavitar, Annie Rose Goes, Rubber Clav	
+Soprano Sax	TR-Rack	Program	A066	2021/11/23 0:14:46	Woodwind/Reeds	Soprano Winds, Saxophonia, Dream Sequence, Woodwind Ens. 2	
+Analog Strings	TR-Rack	Program	A067	2021/11/23 0:14:46	Strings	Soprano Winds, Moody Orchestra, Massive Bell Pad, Virtual Vortex, Orchestral World, Magic Koto, Smooth SynStrngs	
+Power Chord Plus	TR-Rack	Program	A068	2021/11/23 0:14:46	Guitar	Street Fighter, Distraught, Da Phat Guitars, RudeGuitar Split	
+Ancient Bells	TR-Rack	Program	A069	2021/11/23 0:14:46	Bell		
+Mono Slap Bass	TR-Rack	Program	A070	2021/11/23 0:14:46	Bass	Clav Attack, Power Funk	
+Modern Strings	TR-Rack	Program	A071	2021/11/23 0:14:46	Strings	OrchestralHero33, POP U Wit' This	
+Percussion Kit	TR-Rack	Program	A072	2021/11/23 0:14:46	Drums/Perc.	Time4daBreakdown, African Rain, Sombreros, Salsa Ensemble	Percussion
+Synclav Pad	TR-Rack	Program	A073	2021/11/23 0:14:46	Synth		
+Garage Organ	TR-Rack	Program	A074	2021/11/23 0:14:46	Organ		
+Akkordeon/SW 1&2	TR-Rack	Program	A075	2021/11/23 0:14:46	Woodwind/Reeds	Stubenmusik, Master Fisa, Accordion, Dream Of Lambada, French Tines	
+French Horn Ens.	TR-Rack	Program	A076	2021/11/23 0:14:46	Brass	Scoring Horns, OrchestralHero33, Moody Orchestra, Brass Orchestra, DynamicOrchestra, Orchestra & Oboe, Orchestral Brass, Orchestral World, Final Movement, Velocity Brass, Evan's Horn, Philharmonic, Chamber Orchestr, Symphony Brass	
+Music Box / SW1	TR-Rack	Program	A077	2021/11/23 0:14:46	Mallet	{Holding Angels}	
+30303 Square	TR-Rack	Program	A078	2021/11/23 0:14:46	Bass	Euro Trance Time, MondoSynthSplit, *MIDI DDL Trap*	
+Koto	TR-Rack	Program	A079	2021/11/23 0:14:46	Plucked	Shakoto, Koto Velox, Asia Ensemble, Magic Koto	
+Hard-Air Hit	TR-Rack	Program	A080	2021/11/23 0:14:46	Motion Synth	Bell Shifting, Meganomic	
+20,000 Fathoms	TR-Rack	Program	A081	2021/11/23 0:14:46	Sound Effect	{Lonely} [Alien], Spanish Nights, NewAged Bass, Martian Sunset, {{Cyber-Visual}}, } Millenium {, #Splits4SciFi#	
+Recorder	TR-Rack	Program	A082	2021/11/23 0:14:46	Woodwind/Reeds	Sad Movie Scene, Taste Of Ireland, Mixture Pipe 2, Florence 1300's, Bonny Loch, Mixture Pipe 1	
+Xylospectrum	TR-Rack	Program	A083	2021/11/23 0:14:46	Vocal/Airy	milesAFTERmiles, DurangosDaughter, Spectagon & Pad, Mystery Islands, Cluster Sample	
+Tell A Caster	TR-Rack	Program	A084	2021/11/23 0:14:46	Guitar		
+Bell Angels	TR-Rack	Program	A085	2021/11/23 0:14:46	Bell	LunarLight	
+30303 Mega Bass	TR-Rack	Program	A086	2021/11/23 0:14:46	Bass	Megasaurus Rex, Euro Trance Time, Tetra Split, MondoSynthSplit, Sus4 Split, Flanged DDL Bass	
+Pizzicato Ens.	TR-Rack	Program	A087	2021/11/23 0:14:46	Strings	TheName'sJazzmin, Orchestral World, Asia Ensemble, DynamicPizzicato, Lovely Nylon	
+Jazz/Brush Kits	TR-Rack	Program	A088	2021/11/23 0:14:46	Drums/Perc.		Jazz/Brush Kits
+Analog Power	TR-Rack	Program	A089	2021/11/23 0:14:46	Synth	Megasaurus Rex, Synthinity, BIG BONED (fat), Meganomic, MonsterGodSynth, SizzleSynthBrass, X-Fader Synth, Big Bottomed Bed, Sus4 Split	
+Super BX-3	TR-Rack	Program	A090	2021/11/23 0:14:46	Organ	Big Perc Organ, Jazz Hits, R & B Split	
+Musette / SW 1&2	TR-Rack	Program	A091	2021/11/23 0:14:46	Woodwind/Reeds	Stubenmusik, Master Fisa, MIDI Akkordeon, Bonny Loch, Accordion, Harmonium Soul, French Tines	
+Mute Trumpet	TR-Rack	Program	A092	2021/11/23 0:14:46	Brass	Killer Miller!, Phat Tip Split, milesAFTERmiles, OrchestralHero33, Miles Ahead, Brassband w/Mute, Loud Mutes, Bonefied, Cool Cats	
+African Log Drum	TR-Rack	Program	A093	2021/11/23 0:14:46	Mallet	Meet The Bushmen, The Mallet Men, African Rain, Serengeti	
+Mr. Nightmare	TR-Rack	Program	A094	2021/11/23 0:14:46	Sound Effect	Cosmic Approach, [Unhappy=Planet], Luna Breath, Virtual Vortex, Liquid Piano, Seance Spirits	
+Nylon Harmonics	TR-Rack	Program	A095	2021/11/23 0:14:46	Guitar	Nice Acoustics, DynamicPizzicato	
+Shape Shifter	TR-Rack	Program	A096	2021/11/23 0:14:46	Motion Synth	Vox Morphing, Dragon's World, Bellish Maniacs, Watch Me Grow..., ScareOnDynamics, Bell Shifting, Spanish Nights, Luna Breath, Virtual Vortex, Xanosphere, Ghostly Spectrum, Swirling Pad, Buenas Dias, Seance Spirits	
+Breathy Layers	TR-Rack	Program	A097	2021/11/23 0:14:46	Keyboard	E. Grand & Voice, Groove Section	
+Pan Flute	TR-Rack	Program	A098	2021/11/23 0:14:46	Woodwind/Reeds	Xanosphere, Pan'n'Drum Jam, Andes Mist, Tines n' Bamboo	
+Doo the Vibe Pad	TR-Rack	Program	A099	2021/11/23 0:14:46	Vocal/Airy	AirPianoEnsemble, Soprano Winds, Pad/Gtr(SW1/wah), Time To Sing, Beach Vocals, E. Grand & Voice, Nashville Duet, Dream Sequence, Heavenly Voices, Spectrum Bells, Big Choir	
+12 String Guitar	TR-Rack	Program	A100	2021/11/23 0:14:46	Guitar	StereoGuitarPad, Superclavitar, 12 of 12!	
+Finger Cymbal	TR-Rack	Program	A101	2021/11/23 0:14:46	Bell	Pianobell, Cairo Connection	
+Finger Bass	TR-Rack	Program	A102	2021/11/23 0:14:46	Bass	Happenin'Church!, Dyna Pick Bass, Distraught, Culture^Shock, Superclavitar	
+Marcato Strings	TR-Rack	Program	A103	2021/11/23 0:14:46	Strings	Violin Section, Arco Strings	
+BassDrums&Snares	TR-Rack	Program	A104	2021/11/23 0:14:46	Drums/Perc.	Rockestra  (SW1)	BassDrums&Snares
+Rezpad	TR-Rack	Program	A105	2021/11/23 0:14:46	Synth	Adventure Bells, new silverware, [ Comet Fly-By ], Finito!	
+Gospel Organ	TR-Rack	Program	A106	2021/11/23 0:14:46	Organ	Jazzy Organ 1, Jazzy Organ 2, Jazzy Organ 3, R n' B Organ, Annie Rose Goes, Walk n' Talk	
+Brass Pad	TR-Rack	Program	A107	2021/11/23 0:14:46	Synth	Shakoto, Soprano Winds, Adventure Bells, Sad Movie Scene, TineOnYourHands, {Lonely} [Alien], Dark Analog Pad, Egyptian Princes, Bell Landy, {Holding Angels}, Choirpad&Stevie, Halo of Bells, Koto Velox, Disquieting Solo, Liquid Piano, Rainy Night Lead, Magic Koto, ==Metropolis==, MIDI Harp, Harmonium Soul, Falling	
+Tuba	TR-Rack	Program	A108	2021/11/23 0:14:46	Brass	Trinity Overture, Loud Mutes, Salsa Split, Band Of Fusion, Bonefied, Looney Tunes, Symphony Brass	
+Staccato Hit!	TR-Rack	Program	A109	2021/11/23 0:14:46	Sound Effect	JamYourButtOff !, POP U Wit' This, Tradewinds, CrazyHitz	
+Orbiting Probes	TR-Rack	Program	A110	2021/11/23 0:14:46	Sound Effect	Meet Thy Doom..., In The Pyramid, Orbital Voices, Jungle Predator, Inverse Nebula, The Sun Surfer, Winds of Victory, The Rush..., [Unhappy=Planet], Dream Sequence, Ghostly Spectrum, Tradewinds, Alien Nation, #Splits4SciFi#	
+Chorus E.Guitar	TR-Rack	Program	A111	2021/11/23 0:14:46	Guitar	DG:HalfClDistG, Groove Section	
+Insectisuicides	TR-Rack	Program	A112	2021/11/23 0:14:46	Motion Synth	{Lonely} [Alien], TheFinalFrontier, Seance Spirits	
+Custom Roads	TR-Rack	Program	A113	2021/11/23 0:14:46	Keyboard	Stereo Roads, Lite Swirling EP	
+The Sax Band	TR-Rack	Program	A114	2021/11/23 0:14:46	Woodwind/Reeds	Killer Miller!, Brass Band, Brassband w/Mute, DynaBass & Brass, Saxophonia, Dizzy Big Band, Too Much Sax	
+Martian Winds	TR-Rack	Program	A115	2021/11/23 0:14:46	Sound Effect	Virtual Joystick, Meet Thy Doom..., {Lonely} [Alien], Jungle Predator, Mystery Islands	
+Metal Maniac	TR-Rack	Program	A116	2021/11/23 0:14:46	Guitar	DG:MuteFeelDistG, Pad/Gtr(SW1/wah), Distraught, Ghost Town	
+Breathy Bells	TR-Rack	Program	A117	2021/11/23 0:14:46	Bell	Bell Shifting, Andes Mist	
+Monster Bass	TR-Rack	Program	A118	2021/11/23 0:14:46	Bass	POP U Wit' This, SuperHero #5, MondoSplatBass!, Analog-Log Bass	
+Solo Cello	TR-Rack	Program	A119	2021/11/23 0:14:46	Strings	String Ensemble	
+01/W Total Kit	TR-Rack	Program	A120	2021/11/23 0:14:46	Drums/Perc.		01/W Total Kit
+Flutepad	TR-Rack	Program	A121	2021/11/23 0:14:46	Synth	Dragon's World, Aqua Marine, Winds of India, The Fleas R here, Bass & Harp Age, new silverware, MIDI Harp, Serengeti	
+Pipe Positive	TR-Rack	Program	A122	2021/11/23 0:14:46	Organ	Mixture Pipe 2, Positive Tuent., Cathedral Voices, Mixture Pipe 1, Pos/Tuent.Split, Ele.Grand@Church	
+Shakuhachi	TR-Rack	Program	A123	2021/11/23 0:14:46	Woodwind/Reeds	Shakoto, Koto Velox, Asia Ensemble	
+Velo Orchestra	TR-Rack	Program	A124	2021/11/23 0:14:46	Sound Effect	JamYourButtOff !, Inverse Nebula, POP U Wit' This, Piano & Vel.Orch	
+Pop Bottle	TR-Rack	Program	A125	2021/11/23 0:14:46	Mallet	Jamaican Stuff, Merry Poppin', Pianobell, Jungle Mouth	
+The UFO Appears	TR-Rack	Program	A126	2021/11/23 0:14:46	Sound Effect	Dragon's World, Virtual Joystick, Orbital Voices, Mystery Islands	
+Hawaiian Glass	TR-Rack	Program	A127	2021/11/23 0:14:46	Guitar		
+Sky Diver...	TR-Rack	Program	B000	2021/11/23 0:14:46	Motion Synth	Virtual Joystick, In The Pyramid, The Sun Surfer, The Rush..., Dream Sequence, Tradewinds, Martian Sunset, Alien Nation	
+Compressed Piano	TR-Rack	Program	B001	2021/11/23 0:14:46	Keyboard	Piano & Organ, {Hip 90's Split}, Ghost Town, ReallyHonkyTonky, Salsa Ensemble	
+Growling Tenor	TR-Rack	Program	B002	2021/11/23 0:14:46	Woodwind/Reeds	Saxophonia	
+Mixed Choir	TR-Rack	Program	B003	2021/11/23 0:14:46	Vocal/Airy	Ld:SuperLdSplit, X-Choir Fader, Choir of the Sun, Ambient Choir, Alien Nation	
+Steel String Gtr	TR-Rack	Program	B004	2021/11/23 0:14:46	Guitar	GuitarraEspanola, StereoGuitarPad, Mr. Martin, Guitar Strings	
+Ensemble Bell	TR-Rack	Program	B005	2021/11/23 0:14:46	Bell	Adventure Bells, Bellish Maniacs, NewAged Bass, Trinity Bells, Cyber>Sequence, Heavenly ElPiano	
+Jacobass	TR-Rack	Program	B006	2021/11/23 0:14:46	Bass	Dyna Slap Bass, DynaBass & Brass, Hydra Snap, Bass & Harp Age, Dyna Pick Bass, Groove Section, Culture^Shock, Ballader, Salsa Split	
+World Strings	TR-Rack	Program	B007	2021/11/23 0:14:46	Strings	In The Pyramid, Orchestral World, Final Movement, Harpsi & Strings	
+Processed Kit	TR-Rack	Program	B008	2021/11/23 0:14:46	Drums/Perc.	JamYourButtOff !	Processed Kit
+Mine Sweep	TR-Rack	Program	B009	2021/11/23 0:14:46	Synth	Resonant Sweep	
+Killer Organ	TR-Rack	Program	B010	2021/11/23 0:14:46	Organ	Big Rock Organ, Rockestra  (SW1)	
+Phantom Tines	TR-Rack	Program	B011	2021/11/23 0:14:46	Keyboard	Bellish Maniacs	
+Grando Bando	TR-Rack	Program	B012	2021/11/23 0:14:46	Brass	Killer Miller!, Soprano Winds, Jazz Hits, Moonlight Split, Salsa Split	
+Xylophone	TR-Rack	Program	B013	2021/11/23 0:14:46	Mallet	Jamaican Stuff, Meet The Bushmen, The Mallet Men, Grinchoid, Pop Tops, Looney Tunes	
+Monster Lead	TR-Rack	Program	B014	2021/11/23 0:14:46	Synth Lead	Ld:SuperLdSplit, Ld:MonsterMGLd, Bloodrush Lead, SynthPad & Solo, Big & Nasty Lead	
+Sitar	TR-Rack	Program	B015	2021/11/23 0:14:46	Plucked	Winds of India, East Meets West, Kilimanjaro, Jacathon	
+Hands of Time	TR-Rack	Program	B016	2021/11/23 0:14:46	Motion Synth	Spectagon & Pad, Time To Sing, StereoGuitarPad, Ballader, Tradewinds, Pad of It's Own	
+Pro-Stage E.P.	TR-Rack	Program	B017	2021/11/23 0:14:46	Keyboard	Old School Split, NuJazz Split, Ballad E.Piano	
+Piccolo	TR-Rack	Program	B018	2021/11/23 0:14:46	Woodwind/Reeds	Scoring Woods, Matsuri Festival, DynamicOrchestra, Woodwind Ens. 2, Philharmonic, Looney Tunes	
+BreathyLayerPad	TR-Rack	Program	B019	2021/11/23 0:14:46	Vocal/Airy	Bottlized Air	
+Dynastrat	TR-Rack	Program	B020	2021/11/23 0:14:46	Guitar		
+Tubular Bell	TR-Rack	Program	B021	2021/11/23 0:14:46	Bell	Final Movement	
+Dark SynBass	TR-Rack	Program	B022	2021/11/23 0:14:46	Bass	   -> R U D E <-, NuJazz Split, Tetra Split, POP U Wit' This, MondoSplatBass!	
+Ensemble & Solo	TR-Rack	Program	B023	2021/11/23 0:14:46	Strings	Evening in Bali	
+Cyber-Impact/SW1	TR-Rack	Program	B024	2021/11/23 0:14:46	Drums/Perc.	Maximum Impact, JamYourButtOff !, In The Pyramid, Street Fighter, ScareOnDynamics, Meganomic, Ghost Town, Tradewinds, TheFinalFrontier	
+Solar Ghosts	TR-Rack	Program	B025	2021/11/23 0:14:46	Synth	Ghostly Spectrum, Solar Bell Pad	
+Perc Rock Organ	TR-Rack	Program	B026	2021/11/23 0:14:46	Organ	Full BX3	
+*Belliano*	TR-Rack	Program	B027	2021/11/23 0:14:46	Keyboard	MIDI Piano, Bella Bella	
+Soft Trombone	TR-Rack	Program	B028	2021/11/23 0:14:46	Brass	Brass Orchestra, Tutti Pipe 2, Orchestral Brass, Loud Mutes, Bonefied	
+Marimba	TR-Rack	Program	B029	2021/11/23 0:14:46	Mallet	Jamaican Stuff, Meet The Bushmen, The Mallet Men, Sombreros, Pop Tops, Kalimba Simba	
+Syn Pipes	TR-Rack	Program	B030	2021/11/23 0:14:46	Synth Lead	Miles Ahead, Whistlers Dream, SynthPad & Solo, Band Of Fusion	
+Mandolin Trem	TR-Rack	Program	B031	2021/11/23 0:14:46	Plucked	Asia Ensemble	
+Aurora Borealis	TR-Rack	Program	B032	2021/11/23 0:14:46	Motion Synth	~Secret~Garden~, Beauty&THE BEAST, Astral Prelude, Whistlers Dream, Virtual Vortex	
+Super Grand	TR-Rack	Program	B033	2021/11/23 0:14:46	Keyboard	Algorithm Grand, Groove Section	
+Bass Clarinet	TR-Rack	Program	B034	2021/11/23 0:14:46	Woodwind/Reeds	NuJazz Split, DynamicOrchestra, Moonlight Split, Woodwind Ens. 2, Face Split	
+Boys Choir	TR-Rack	Program	B035	2021/11/23 0:14:46	Vocal/Airy	Masterpiece, Ld:SuperLdSplit, Aqua Marine, Choirpad&Stevie, X-Choir Fader, Bass & Harp Age, Beach Vocals, Cathedral Voices, Heavenly Voices, Ambient Choir, Big Choir	
+Dad's JazzGuitar	TR-Rack	Program	B036	2021/11/23 0:14:46	Guitar	Standup&Polytone, Cool Cats	
+Pluck Bell	TR-Rack	Program	B037	2021/11/23 0:14:46	Bell	Solar/Pluck Bell, Twilight Flight	
+Jazz Bass (SW1)	TR-Rack	Program	B038	2021/11/23 0:14:46	Bass	Old School Split, Bass & Piano/SW1, Standup&Polytone, Modern Ensemble, Miles Ahead, Jazz Hits, {Hip 90's Split}, Moonlight Split, MIDI Akkordeon, Bass Piano Vibe, Rockestra  (SW1), Groove Section, Flugel Trio SW1, Ghost Town, Salsa Split, Band Of Fusion, Bass & Vibe, Salsa Ensemble, Cool Cats	
+{Slow Strings}	TR-Rack	Program	B039	2021/11/23 0:14:46	Strings	Vox Morphing, Sad Movie Scene, Meet Thy Doom..., String Sunrise, Halo of Bells, Bell Shifting, =Dream Theatre=, Green House Pad, Harp & Strings, Cyber>Sequence, Liquid String, } Millenium {, Bellmove, SuperString Pad	
+Psycho Kit	TR-Rack	Program	B040	2021/11/23 0:14:46	Drums/Perc.	JamYourButtOff !, Street Fighter	Psycho Kit
+Hit The Beast	TR-Rack	Program	B041	2021/11/23 0:14:46	Synth	ScareOnDynamics, MonsterGodSynth, ==Metropolis==	
+Pipe Mixture	TR-Rack	Program	B042	2021/11/23 0:14:46	Organ	Tutti Pipe 1, Tutti Pipe 2	
+MIDI Ensemble	TR-Rack	Program	B043	2021/11/23 0:14:46	Keyboard	AirPianoEnsemble	
+Medium Trumpet	TR-Rack	Program	B044	2021/11/23 0:14:46	Brass	Phat Tip Split, Dizzy Big Band, Orchestral Brass	
+Ribbon Rhythm	TR-Rack	Program	B045	2021/11/23 0:14:46	Mallet		
+Espresso Lead	TR-Rack	Program	B046	2021/11/23 0:14:46	Synth Lead	Ld:EspressoLd, Tetra Split, The Sun Surfer	
+Hackbrett	TR-Rack	Program	B047	2021/11/23 0:14:46	Plucked	Stubenmusik, Madrigal	
+Random Dancer	TR-Rack	Program	B048	2021/11/23 0:14:46	Motion Synth	Bellish Maniacs, The Sun Surfer, Mystery Islands, Ghost Town	
+Super Whirly	TR-Rack	Program	B049	2021/11/23 0:14:46	Keyboard	Piano & Organ	
+Bassoon	TR-Rack	Program	B050	2021/11/23 0:14:46	Woodwind/Reeds	Woodwind Ens. 1, Florence 1300's, Woodwind Ens. 2	
+Super Pad	TR-Rack	Program	B051	2021/11/23 0:14:46	Vocal/Airy	Mystery Islands, Rising Tides, Solar Mystery	
+Stadium Guitar	TR-Rack	Program	B052	2021/11/23 0:14:46	Guitar	Rockestra  (SW1)	
+Solar Motion	TR-Rack	Program	B053	2021/11/23 0:14:46	Bell	Xanosphere, Solar Mystery	
+Euro 8va Bass	TR-Rack	Program	B054	2021/11/23 0:14:46	Bass	Euro Trance Time, Tetra Split, MondoSplatBass!, Analog-Log Bass	
+Solo Viola	TR-Rack	Program	B055	2021/11/23 0:14:46	Strings	String Ensemble	
+Timpani	TR-Rack	Program	B056	2021/11/23 0:14:46	Drums/Perc.	Trinity Overture, Bell Shifting, Delayed Reaction, Piano & Vel.Orch, Indian Nights, Final Movement, Looney Tunes	
+Analog Pad	TR-Rack	Program	B057	2021/11/23 0:14:46	Synth	Scoring Horns, Scoring Woods, Scoring Barocco1, Strings & Basses, Massive Bell Pad, Meganomic, MondoSynthSplit, Swirling Pad, Scoring Barocco2, [Nuclear Dawn]	
+Jazz-Organ 1	TR-Rack	Program	B058	2021/11/23 0:14:46	Organ	Medium BX3, Big Rock Organ, Standard BX3	
+Brite FM Roads	TR-Rack	Program	B059	2021/11/23 0:14:46	Keyboard	Algorithm Grand, {Hip 90's Split}, SuperNightTines, Ballad E.Piano, Ballad PianoStak, SoftArp&HardSolo, Lite Swirling EP, Pop Piano, Chorus ElPiano, Dre Rap Effeks, Bright ElPno+Str, French Tines, Tines n' Bamboo	
+Modern Brass	TR-Rack	Program	B060	2021/11/23 0:14:46	Brass	Killer Miller!, Jazz Hits, DynamicOrchestra, Dizzy Big Band, Sus4 Split	
+Balaphone	TR-Rack	Program	B061	2021/11/23 0:14:46	Mallet		
+Square Wave Lead	TR-Rack	Program	B062	2021/11/23 0:14:46	Synth Lead	SuperHero #5, SynthPad & Solo, Big & Nasty Lead	
+Bouzouki	TR-Rack	Program	B063	2021/11/23 0:14:46	Plucked	Taste Of Ireland	
+Vocal Motion	TR-Rack	Program	B064	2021/11/23 0:14:46	Motion Synth	Vox Morphing, Virtual Joystick, The Sun Surfer, String Sunrise, Bell Shifting, Delayed Reaction, Astral Prelude, Luna Breath, Culture^Shock, Voxathon	
+=Snappy= Clavi	TR-Rack	Program	B065	2021/11/23 0:14:46	Keyboard	DG:HalfClDistG, Hydra Snap, Whack Dragon, Piezo Clav	
+Baritone Sax	TR-Rack	Program	B066	2021/11/23 0:14:46	Woodwind/Reeds	Saxophonia	
+Symphonic Pad	TR-Rack	Program	B067	2021/11/23 0:14:46	Strings	Chamber Strings, Deep Strings, Dark Analog Pad, Moody Orchestra, Doubled Strings, Pad/Gtr(SW1/wah), Orchestra & Oboe, Legato Strings, Green House Pad, Chamber Orchestr	
+Parker Piezo	TR-Rack	Program	B068	2021/11/23 0:14:46	Guitar	Parker(both p/u), Piezo Clav	
+13 Bells Of Bali	TR-Rack	Program	B069	2021/11/23 0:14:46	Bell	Spectrum Bells, Cairo Connection	
+Picked Bass	TR-Rack	Program	B070	2021/11/23 0:14:46	Bass	Old School Split, Street Fighter, DynaBass & Brass, Policemen, Analog-Log Bass, Wack Split	
+ClassicalStrings	TR-Rack	Program	B071	2021/11/23 0:14:46	Strings	Trinity Overture, OrchestralHero33, DynamicOrchestra, 3 Octave Strings, Asia Ensemble, Harpsi & Strings, NewPiano&Strings	
+Orch/Ethnic Kits	TR-Rack	Program	B072	2021/11/23 0:14:46	Drums/Perc.	Winds of India, Matsuri Festival, Indian Nights, Final Movement	Orchestra&Ethnic
+Hybrid keys	TR-Rack	Program	B073	2021/11/23 0:14:46	Synth	Meganomic, SynthPad & Solo	
+Big Old JazzOrg	TR-Rack	Program	B074	2021/11/23 0:14:46	Organ	Big Perc Organ, Standard BX3, Jazzy Organ 3, R n' B Organ	
+Tango / SW 1&2	TR-Rack	Program	B075	2021/11/23 0:14:46	Woodwind/Reeds	Master Fisa, Bonny Loch, Accordion, Dream Of Lambada, French Tines	
+Flugelhorn	TR-Rack	Program	B076	2021/11/23 0:14:46	Brass	Scoring Horns, Orchestra & Oboe, Flugel Trio SW1, Orchestral World, Velocity Brass, Evan's Horn	
+Glockenspiel	TR-Rack	Program	B077	2021/11/23 0:14:46	Mallet	Halo of Bells, Matsuri Festival, Pianobell, Orchestral World, Mango Mallet	
+Phat Synth Bass	TR-Rack	Program	B078	2021/11/23 0:14:46	Bass	Culture^Shock	
+Shamisen	TR-Rack	Program	B079	2021/11/23 0:14:46	Plucked	Matsuri Festival, Piezo Clav, Asia Ensemble, ReallyHonkyTonky, Shanghai Muzak	
+The Mind	TR-Rack	Program	B080	2021/11/23 0:14:46	Motion Synth	Maximum Impact, Trance Sylvania	
+Harpsichord	TR-Rack	Program	B081	2021/11/23 0:14:46	Keyboard	Scoring Barocco2, Harpsi & Strings, Superclavitar	
+Tin Flute	TR-Rack	Program	B082	2021/11/23 0:14:46	Woodwind/Reeds	Taste Of Ireland, Bonny Loch	
+Air Thing	TR-Rack	Program	B083	2021/11/23 0:14:46	Vocal/Airy	Breath Of Fire, Egyptian Princes, Whistlers Dream, Martian Sunset, Solar Mystery	
+ExpressmanShadow	TR-Rack	Program	B084	2021/11/23 0:14:46	Guitar		
+FM Bells	TR-Rack	Program	B085	2021/11/23 0:14:46	Bell	Massive Bell Pad, Heaven Smiles	
+30303 Rez Bass	TR-Rack	Program	B086	2021/11/23 0:14:46	Bass	Megasaurus Rex, The Fleas R here, POP U Wit' This, Bas D'Joure, Jungle Bass	
+Solo Pizzicato	TR-Rack	Program	B087	2021/11/23 0:14:46	Strings	DynamicPizzicato	
+Analog/Club Kits	TR-Rack	Program	B088	2021/11/23 0:14:46	Drums/Perc.	JamYourButtOff !	Analog/Club Kits
+Synpiano	TR-Rack	Program	B089	2021/11/23 0:14:46	Synth	The Fleas R here	
+Dark Old BX-3	TR-Rack	Program	B090	2021/11/23 0:14:46	Organ	Medium BX3, Jazz Split Organ	
+Jangle heart	TR-Rack	Program	B091	2021/11/23 0:14:46	Guitar	The Rush...	
+Mute Trombone	TR-Rack	Program	B092	2021/11/23 0:14:46	Brass	Loud Mutes	
+Wooden Slit Drum	TR-Rack	Program	B093	2021/11/23 0:14:46	Mallet	Pan'n'Drum Jam, Shanghai Muzak, Kalimba Simba, Tines n' Bamboo	
+Pipe Reeds	TR-Rack	Program	B094	2021/11/23 0:14:46	Organ	Tutti Pipe 1, Mixture Pipe 2	
+Banjo Andro	TR-Rack	Program	B095	2021/11/23 0:14:46	Plucked	Shanghai Muzak	
+({ Scanners })	TR-Rack	Program	B096	2021/11/23 0:14:46	Motion Synth	Virtual Joystick, Meet Thy Doom..., Soul InSpaceport, Dream Sequence, Alien Nation, TheFinalFrontier, Bad Science, Seance Spirits	
+Power Piano	TR-Rack	Program	B097	2021/11/23 0:14:46	Keyboard	Song for Darth	
+Bottle	TR-Rack	Program	B098	2021/11/23 0:14:46	Woodwind/Reeds	Meet The Bushmen, Merry Poppin', X-Fader Synth, Bottlized Air, Song for Darth, Tradewinds, Choir of the Sun, Pan'n'Drum Jam, Ricky's Delight, Mango Mallet, Tines n' Bamboo	
+City of Angels	TR-Rack	Program	B099	2021/11/23 0:14:46	Vocal/Airy	Orbital Voices, Aqua Marine, Astral Prelude, Winds of Victory, Sparkling Voices, Heavenly Voices, Alien Nation, Solar Bell Pad	
+Funkin' Guitar	TR-Rack	Program	B100	2021/11/23 0:14:46	Guitar	Power Funk, Sassy-Vox Cat	
+Finger Gamelon	TR-Rack	Program	B101	2021/11/23 0:14:46	Bell	Bell Landy, Trance Sylvania, Delayed Reaction, Evening in Bali, *Mystical Bali*	
+Electric Bass	TR-Rack	Program	B102	2021/11/23 0:14:46	Bass	Dyna Slap Bass,    -> R U D E <-, DynaBass & Brass, Dyna Pick Bass, Rockestra  (SW1), Clean Bass Guitr	
+Ribbon Strings	TR-Rack	Program	B103	2021/11/23 0:14:46	Strings	Shakoto, Chamber Strings, Sad Movie Scene, String Ensemble, Scoring Barocco1, Strings & Basses, Koto Velox, Violin Section, Indian Nights, Scoring Barocco2, Falling, Chamber Orchestr	
+Toms & Cymbals	TR-Rack	Program	B104	2021/11/23 0:14:46	Drums/Perc.	Matsuri Festival, Asia Ensemble	Toms & Cymbals
+Aftermath	TR-Rack	Program	B105	2021/11/23 0:14:46	Synth	Inverse Nebula	
+Full Organ	TR-Rack	Program	B106	2021/11/23 0:14:46	Organ	BigStraightOrgan, Full BX3	
+Pedal Steel	TR-Rack	Program	B107	2021/11/23 0:14:46	Guitar	Nashville Duet, Steel n' Fiddle	
+Hard Trumpet	TR-Rack	Program	B108	2021/11/23 0:14:46	Brass	Brass Band, Brassband w/Mute, Dizzy Big Band, Orchestral Brass, Loud Mutes, Trpt & Trombones	
+Space Hatch	TR-Rack	Program	B109	2021/11/23 0:14:46	Sound Effect	Soul InSpaceport, Trance Sylvania, The Sun Surfer, Winds of Victory, Cyber>Sequence, Martian Sunset	
+StadiumSW1=Shore	TR-Rack	Program	B110	2021/11/23 0:14:46	Sound Effect	Virtual Joystick, Winds of India	
+Funky Strato	TR-Rack	Program	B111	2021/11/23 0:14:46	Guitar		
+Out of the myst.	TR-Rack	Program	B112	2021/11/23 0:14:46	Motion Synth	[Unhappy=Planet]	
+Birds & Bugs	TR-Rack	Program	B113	2021/11/23 0:14:46	Sound Effect	Jungle Predator, Evening in Bali, Disquieting Solo, Jungle Mouth, TheFinalFrontier, Seance Spirits	
+Harmonica	TR-Rack	Program	B114	2021/11/23 0:14:46	Woodwind/Reeds	Choirpad&Stevie	
+Decaying Organ	TR-Rack	Program	B115	2021/11/23 0:14:46	Synth		
+TalkBox Gtr/JS-Y	TR-Rack	Program	B116	2021/11/23 0:14:46	Guitar	Pad/Gtr(SW1/wah)	
+Pot Covers	TR-Rack	Program	B117	2021/11/23 0:14:46	Bell	DurangosDaughter, Romance Player, Earthglow	
+Pull Me Please	TR-Rack	Program	B118	2021/11/23 0:14:46	Bass	Dyna Slap Bass, DynaBass & Brass, Time4daBreakdown, Sassy-Vox Cat, Clean Bass Guitr	
+Contrabass&Cello	TR-Rack	Program	B119	2021/11/23 0:14:46	Strings	String Ensemble	
+Marc Tree	TR-Rack	Program	B120	2021/11/23 0:14:46	Drums/Perc.	Shakoto, Soul InSpaceport, Egyptian Princes, Delayed Reaction, =Dream Theatre=, Magic Koto, } Millenium {, Falling, Seance Spirits	
+Classic Squares	TR-Rack	Program	B121	2021/11/23 0:14:46	Synth	MondoSynthSplit	
+Pipe Tuentiana	TR-Rack	Program	B122	2021/11/23 0:14:46	Organ	Positive Tuent., Tutti Pipe 2, Mixture Pipe 1, Pos/Tuent.Split	
+Hover Craft	TR-Rack	Program	B123	2021/11/23 0:14:46	Sound Effect	Cosmic Approach, NewAged Bass, Cyber>Sequence, Tradewinds, Antarctic Night, [ Comet Fly-By ]	
+Band Hit!	TR-Rack	Program	B124	2021/11/23 0:14:46	Sound Effect	Maximum Impact, JamYourButtOff !, In The Pyramid, Time4daBreakdown	
+Thunderstorm!!!!	TR-Rack	Program	B125	2021/11/23 0:14:46	Sound Effect	{Lonely} [Alien], Jungle Predator, Aqua Marine, Dream Sequence, Bonny Loch, African Rain, Rainy Night Lead, Alien Nation, Tsunami Strikes!	
+Bass go pop.	TR-Rack	Program	B126	2021/11/23 0:14:46	Synth	Synthinity, Romance Player, X-Fader Synth, Pan'n'Drum Jam, Sassy-Vox Cat	
+Mute Guitar	TR-Rack	Program	B127	2021/11/23 0:14:46	Guitar	Parker(both p/u)	
+Soft-StereoPiano	TR-Rack	Program	C000	2021/11/23 0:14:46	Keyboard	EAuditorium+MIDI, Sparkle PianoPad, Perfect*PianoPad, Empty Auditorium, Lost Words, Face Split, NewPiano&Strings	
+Clear Mallet	TR-Rack	Program	C001	2021/11/23 0:14:46	Synth	Mystical Warrior, LR Hands Soloist, Bellish Stuff, Serene Bell Pad, Sunspots, Relaxation, Pedal&Arpeggio, Pop Tops, Bellysh Guitar, Breathing Bells	
+"Bed" of Vocals	TR-Rack	Program	C002	2021/11/23 0:14:46	Vocal/Airy	Ballad PianoStak, Waffle Mallot, Ringworm, Cumulonimbus, 12 of 12!	
+     ...sleep...	TR-Rack	Program	C003	2021/11/23 0:14:46	Sound Effect	Almost Asleep..., Forever Waiting	
+Trance Lead	TR-Rack	Program	C004	2021/11/23 0:14:46	Synth Lead	Flanged DDL Bass, SuperSub Rap Baz, Quiet Resonances, Holy Phat!	
+Bass Drum Bass	TR-Rack	Program	C005	2021/11/23 0:14:46	Bass	Deeep Bass & Pad, LR Hands Soloist, SuperSub Rap Baz, Smooovvv Split, Hip Hop Dog Bass, *MIDI DDL Trap*, Phat Bass & PAD, Holy Phat!, Octav-E-PianoSW2	
+SweepUp Synth	TR-Rack	Program	C006	2021/11/23 0:14:46	Synth	SweeperPad, Relaxation, Play: C>G#>A#>F>	
+Sharp Brass	TR-Rack	Program	C007	2021/11/23 0:14:46	Brass	Brass & Sax, Saxify, Bell*Brass*Strng, Brite Pop Brass	
+DaDanceMixPiano	TR-Rack	Program	C008	2021/11/23 0:14:46	Keyboard	Airy Piano, Wack Split, Waving Splitting, Splitting Pool, Sweet & Low	
+KnobbingBass	TR-Rack	Program	C009	2021/11/23 0:14:46	Bass	Airy Piano, Da Phat Guitars, Cyberguitar, Technosynthorgan, Flight From 2000, Polyphonic Now!, Cool Split  :-), Breathy Down, Green Eyed Bass	
+HipHop/Rap Kit	TR-Rack	Program	C010	2021/11/23 0:14:46	Drums/Perc.	L/R WACKO Kit, Atomic Rhythm	Hip-Hop/Rap
+Tape Synth	TR-Rack	Program	C011	2021/11/23 0:14:46	Synth	Nocturnal Dreams	
+Brain Swimming	TR-Rack	Program	C012	2021/11/23 0:14:46	Sound Effect	Universal Spirit, Almost Awake..., #Splits4SciFi#	
+Reggae Gtr Chd	TR-Rack	Program	C013	2021/11/23 0:14:46	Guitar	Da Phat Guitars, Trip-Hop Noizes, Wack Split, Da Motown Rap	
+ST Sus.Band Hit	TR-Rack	Program	C014	2021/11/23 0:14:46	Sound Effect	Brass Blasts, Flight From 2000, Trip-Hop Noizes	
+Dr.Groove Bass	TR-Rack	Program	C015	2021/11/23 0:14:46	Bass	Wack Split, Bass-n-Sax Split, Dynaresaurus	
+Vintage Grand	TR-Rack	Program	C016	2021/11/23 0:14:46	Keyboard	Ele.Grand@Church, Saloon Piano, Splitting Pool	
+Upsweep	TR-Rack	Program	C017	2021/11/23 0:14:46	Synth	SweeperPad, Pad of It's Own, Nemo	
+Synth Brazz	TR-Rack	Program	C018	2021/11/23 0:14:46	Synth	Brass & Sax, Indian Forest	
+Forest Choir	TR-Rack	Program	C019	2021/11/23 0:14:46	Vocal/Airy	Sparkle PianoPad, Indian Forest, Universal Spirit, Heaven Smiles, Evan's Horn, Holy, Holy, Holy, AdventureBs/Solo, 479 The Chord	
+KBed E.P.	TR-Rack	Program	C020	2021/11/23 0:14:46	Keyboard	Sweep-in' left, Organ Pad, Jazz-mine, Split The Thing, Cool Split  :-), Dynamic'll SlapU, Grungy Attack	
+Noctiluca	TR-Rack	Program	C021	2021/11/23 0:14:46	Motion Synth	Soft Galaxy, Unicorn Forest, Asteroid Orbits, Universal Spirit, } Millenium {, Falling, Cloud Surfing, Waffle Mallot, One Finger 4 SFX	
+Orchestral Brass	TR-Rack	Program	C022	2021/11/23 0:14:46	Brass	Velocity Brass, POWER Brass Ens., Philharmonic	
+OLD/Dark E.P.	TR-Rack	Program	C023	2021/11/23 0:14:46	Keyboard	Airy Piano, DelicateDynamics, Smooovvv Split, Splitting Pool, OldDreamingOrgan, SombreroSombra, Piano In Blue, Quiet Resonances, Chorus ElPiano, Heavenly ElPiano, Polaris, GO GO GO Sync!, Sweet & Low, Snap Piano, Octav-E-PianoSW2	
+Solo Sax	TR-Rack	Program	C024	2021/11/23 0:14:46	Woodwind/Reeds	Brass & Sax, Too Much Sax, Saxify, Cool Cats	
+Pound Bass	TR-Rack	Program	C025	2021/11/23 0:14:46	Bass	Power{HIT}Split, Waffle Mallot, AdventureBs/Solo	
+Funky Drummin'	TR-Rack	Program	C026	2021/11/23 0:14:46	Drums/Perc.		Funky Drumin'
+Old & Analog	TR-Rack	Program	C027	2021/11/23 0:14:46	Synth		
+False Reality	TR-Rack	Program	C028	2021/11/23 0:14:46	Sound Effect	Kilimanjaro, Octav-E-PianoSW2	
+Pop Guitar Chd	TR-Rack	Program	C029	2021/11/23 0:14:46	Guitar	Da Phat Guitars, Trip-Hop Noizes, Da Motown Rap	
+ST Disonant Hit	TR-Rack	Program	C030	2021/11/23 0:14:46	Sound Effect	Atomic Rhythm	
+{_Hip * Pick_}	TR-Rack	Program	C031	2021/11/23 0:14:46	Bass	DelicateDynamics, Waffle Mallot, Clean Bass Guitr	
+Night Moods	TR-Rack	Program	C032	2021/11/23 0:14:46	Keyboard	Bad Science, Harp n' Stein, SoftArp&HardSolo, Breathing ElPno, MajesticMondoPad, Dynamic'll SlapU, Archer, Snap Piano	
+Dance Lead	TR-Rack	Program	C033	2021/11/23 0:14:46	Synth	Mondo MIDI Synth	
+Square Snaps	TR-Rack	Program	C034	2021/11/23 0:14:46	Synth	Sunspots	
+ST Old Brass Hit	TR-Rack	Program	C035	2021/11/23 0:14:46	Sound Effect	CrazyHitz, Dre Rap Effeks	
+FM Tubular	TR-Rack	Program	C036	2021/11/23 0:14:46	Bell	Bell*Brass*Strng	
+Asid Bass	TR-Rack	Program	C037	2021/11/23 0:14:46	Bass	Atomic Rhythm, Face Split	
+Space Life	TR-Rack	Program	C038	2021/11/23 0:14:46	Synth	Bad Science, Closest Cloud, Sub Lime, Earthglow, Madrigal, LunarLight, AdventureBs/Solo	
+ST Brass Fall	TR-Rack	Program	C039	2021/11/23 0:14:46	Brass	Brass Blasts	
+ClassicM1Organ2	TR-Rack	Program	C040	2021/11/23 0:14:46	Organ	Orgabass + SW2	
+{POP} House Bass	TR-Rack	Program	C041	2021/11/23 0:14:46	Bass		
+House/Techno/Jun	TR-Rack	Program	C042	2021/11/23 0:14:46	Drums/Perc.	Atomic Rhythm	House/Techno
+Triangulation	TR-Rack	Program	C043	2021/11/23 0:14:46	Synth	Madrigal	
+Wavetable E.P.	TR-Rack	Program	C044	2021/11/23 0:14:46	Keyboard	Ricky's Delight, Sweet Digital, Stingy Passage, Polaris, Just Bass? Neee!	
+FunkyGtr 9th Chd	TR-Rack	Program	C045	2021/11/23 0:14:46	Guitar	Da Phat Guitars, Jacathon	
+ST Glass O.Hit	TR-Rack	Program	C046	2021/11/23 0:14:46	Sound Effect	Trip-Hop Noizes, CrazyHitz	
+Upright Bass	TR-Rack	Program	C047	2021/11/23 0:14:46	Bass	R & B Split, Cool Split  :-), Steel n' Fiddle, Just Bass? Neee!	
+Super CP Layer	TR-Rack	Program	C048	2021/11/23 0:14:46	Keyboard	Princess Keys, Face Split	
+brak	TR-Rack	Program	C049	2021/11/23 0:14:46	Synth		
+Perc. Bottle	TR-Rack	Program	C050	2021/11/23 0:14:46	Synth Lead	Mango Mallet, Andes Mist	
+Noise Hits	TR-Rack	Program	C051	2021/11/23 0:14:46	Sound Effect	A-irish DynaBoom	
+Solar Bells	TR-Rack	Program	C052	2021/11/23 0:14:46	Bell	DelicateDynamics, Solar Bell Pad, Solar/Pluck Bell, Cumulonimbus, Twilight Flight	
+Nistrom	TR-Rack	Program	C053	2021/11/23 0:14:46	Bass	Obesity Bass	
+*{LAZER WARS}*	TR-Rack	Program	C054	2021/11/23 0:14:46	Motion Synth	Waving Splitting, Lost Words, Lost Knowledge	
+Trumpet	TR-Rack	Program	C055	2021/11/23 0:14:46	Brass	Symphony Brass	
+Clavi-Attack	TR-Rack	Program	C056	2021/11/23 0:14:46	Keyboard	Clav Power, Flight From 2000, Clav Thang, Stingy Passage, Snap Piano	
+Power R&B Organ	TR-Rack	Program	C057	2021/11/23 0:14:46	Organ		
+Ribbon Rez Bass	TR-Rack	Program	C058	2021/11/23 0:14:46	Bass	Closest Cloud, Sub Lime, AdventureBs/Solo	
+Bamboo "B" !!	TR-Rack	Program	C059	2021/11/23 0:14:46	Organ	Technosynthorgan, Waffle Mallot	
+Pole	TR-Rack	Program	C060	2021/11/23 0:14:46	Drums/Perc.	Ice Guitar, Bas D'Joure, A-irish DynaBoom, CrazyHitz	
+[Ribbon] Rok Gtr	TR-Rack	Program	C061	2021/11/23 0:14:46	Guitar	Foggy Duty Solo, Suspander, Cool Split  :-), Alien Canyon, Story Teller, Play: C>G#>A#>F>	
+__Kleer_Bass__	TR-Rack	Program	C062	2021/11/23 0:14:46	Bass	Rez-o-matic	
+Mg Lead (Ribbon)	TR-Rack	Program	C063	2021/11/23 0:14:46	Synth Lead	Ld:MonsterMGLd, Ld:EspressoLd	
+M1 Piano	TR-Rack	Program	C064	2021/11/23 0:14:46	Keyboard	Dance <|> Piano, Piano In Blue	
+Sub-Synth	TR-Rack	Program	C065	2021/11/23 0:14:46	Synth	Pedal&Arpeggio, Smooth SynStrngs, Fuga Diminuita, GO GO GO Sync!	
+Saw Pad	TR-Rack	Program	C066	2021/11/23 0:14:46	Synth	} Millenium {, Evan's Horn, Any Dynamic, Sweet Grand Pno, PercuPad	
+<< Going Home >>	TR-Rack	Program	C067	2021/11/23 0:14:46	Sound Effect	[Nuclear Dawn], One Finger 4 SFX	
+son of big one	TR-Rack	Program	C068	2021/11/23 0:14:46	Synth Lead		
+Jungle Bass 2	TR-Rack	Program	C069	2021/11/23 0:14:46	Bass	DelicateDynamics, LR Hands Soloist, Closest Cloud, Suspander	
+SynMallet	TR-Rack	Program	C070	2021/11/23 0:14:46	Synth	Harp n' Stein, PercuPad	
+WAVE STATION	TR-Rack	Program	C071	2021/11/23 0:14:46	Motion Synth	Bad Science, Falling, Any Dynamic, Quiet Resonances, Wavestation Pad, Polaris	
+Piano Pad #3	TR-Rack	Program	C072	2021/11/23 0:14:46	Keyboard	Spiritual Piano, Hammer All	
+Knocker Bass	TR-Rack	Program	C073	2021/11/23 0:14:46	Bass	Quiet Resonances, FreshFreshFresh	
+Jungle Kit	TR-Rack	Program	C074	2021/11/23 0:14:46	Drums/Perc.	Atomic Rhythm	Eezer Goodie
+[{ The Summit }]	TR-Rack	Program	C075	2021/11/23 0:14:46	Synth	TrinitySoundRack, EAuditorium+MIDI, Soft Galaxy, Clav Power, Pedal&Arpeggio, Stingy Passage, Smooth SynStrngs, Ears Candy	
+Ddum'n Bass SQ01	TR-Rack	Program	C076	2021/11/23 0:14:46	Drums/Perc.	Wack Split	
+Crunchy Power Gt	TR-Rack	Program	C077	2021/11/23 0:14:46	Guitar	RudeGuitar Split, Face Split	
+ST Power Pop Hit	TR-Rack	Program	C078	2021/11/23 0:14:46	Sound Effect	Power{HIT}Split, Brass Blasts	
+Punctured BASS	TR-Rack	Program	C079	2021/11/23 0:14:46	Bass	Jungle Bass, FreshFreshFresh, Dynaresaurus	
+Digi JET Stream	TR-Rack	Program	C080	2021/11/23 0:14:46	Sound Effect		
+Mondo Rave Pad'	TR-Rack	Program	C081	2021/11/23 0:14:46	Synth	MegaPower Pad, Polyphonic Now!	
+Evolver Pad	TR-Rack	Program	C082	2021/11/23 0:14:46	Synth	Cloud Forest, LR Hands Soloist, Dream Guitar, [ Comet Fly-By ], Ears Candy, Electric Eel, UnderwaterGarden, FloatingCloudPad, Breathing Bells	
+ST Brass Hit	TR-Rack	Program	C083	2021/11/23 0:14:46	Sound Effect	Power{HIT}Split	
+Mr.8 Sync Lead	TR-Rack	Program	C084	2021/11/23 0:14:46	Synth Lead	GO GO GO Sync!	
+StandUpTheBass	TR-Rack	Program	C085	2021/11/23 0:14:46	Bass	Ac.Bass & Sax, Hip Hop Dog Bass, Jazz-mine, Wired Synthicord, BigBottm/TripTop, Dynamic'll SlapU	
+Mermaid	TR-Rack	Program	C086	2021/11/23 0:14:46	Motion Synth	UndeWater*Parade, Underwater Chasm, Relaxation, Sub Mairner, A-irish DynaBoom, UnderwaterGarden, Lost Knowledge	
+01W Trombone1	TR-Rack	Program	C087	2021/11/23 0:14:46	Brass	Velocity Brass, Bonefied, R & B Split	
+ChordWork	TR-Rack	Program	C088	2021/11/23 0:14:46	Keyboard	Clav Power, Cyberguitar, NCC-1701-A, Bellysh Guitar, Wired Synthicord, SombreroSombra, Suspander, PowerBallad Clav, Hammer All, Green Eyed Bass, Poly-edric	
+01W Alto Sax	TR-Rack	Program	C089	2021/11/23 0:14:46	Woodwind/Reeds	Saxify, Ac.Bass & Sax, Bass-n-Sax Split	
+AnalogSweeper	TR-Rack	Program	C090	2021/11/23 0:14:46	Sound Effect	Universal Spirit, #Splits4SciFi#, One Finger 4 SFX	
+pressure	TR-Rack	Program	C091	2021/11/23 0:14:46	Synth		
+Cyber Choir	TR-Rack	Program	C092	2021/11/23 0:14:46	Vocal/Airy	DelicateDynamics, Archer, Big Choir, 479 The Chord	
+Street Guitar	TR-Rack	Program	C093	2021/11/23 0:14:46	Guitar	Cyberguitar, SombreroSombra, GO GO GO Sync!	
+ST Major O.Hit	TR-Rack	Program	C094	2021/11/23 0:14:46	Sound Effect	Power{HIT}Split, Brass Blasts, Atomic Rhythm	
+Razor Bass	TR-Rack	Program	C095	2021/11/23 0:14:46	Bass	Cyberguitar, Splitting Pool, Jungle Bass, @-Saxination	
+Velocity EP	TR-Rack	Program	C096	2021/11/23 0:14:46	Keyboard	Flight From 2000, Complex E.Piano, E.P. 3rd. Type	
+BubbleGumRibbon	TR-Rack	Program	C097	2021/11/23 0:14:46	Synth	Polyphonic Now!, Waving Splitting	
+Cyborg Pad'	TR-Rack	Program	C098	2021/11/23 0:14:46	Motion Synth	Asteroid Orbits	
+DSP Noise	TR-Rack	Program	C099	2021/11/23 0:14:46	Sound Effect	Underwater Chasm, Forever Waiting	
+TAP RibbonVoices	TR-Rack	Program	C100	2021/11/23 0:14:46	Vocal/Airy	Harp n' Stein, NCC-1701-A, String Shepard, Nylon Clouds, Archer	
+ ! Stinky Bass !	TR-Rack	Program	C101	2021/11/23 0:14:46	Bass	Cyberguitar, Hip Hop Dog Bass, Pop Tops	
+Rubber{Wah}Clav	TR-Rack	Program	C102	2021/11/23 0:14:46	Keyboard	Technosynthorgan, Rubber Clav, Dynaresaurus	
+CrawlersLeadSax	TR-Rack	Program	C103	2021/11/23 0:14:46	Woodwind/Reeds	Too Much Sax, Saxify, Ac.Bass & Sax, R & B Split, @-Saxination	
+Piano Pad #1	TR-Rack	Program	C104	2021/11/23 0:14:46	Keyboard	Pop Piano	
+SUB-SUB-BASS	TR-Rack	Program	C105	2021/11/23 0:14:46	Bass	Atomic Rhythm, Da Motown Rap, Poly-edric, 479 The Chord	
+Industry/Analog	TR-Rack	Program	C106	2021/11/23 0:14:46	Drums/Perc.		Industry/Analog
+Icicle	TR-Rack	Program	C107	2021/11/23 0:14:46	Synth	Soft Galaxy, Antarctic Night, Bellish Stuff, Dynaresaurus	
+Lock the Piano!	TR-Rack	Program	C108	2021/11/23 0:14:46	Keyboard	Sweet & Low	
+A Vox Wah (SW1)	TR-Rack	Program	C109	2021/11/23 0:14:46	Guitar		
+ST Intense Hit	TR-Rack	Program	C110	2021/11/23 0:14:46	Sound Effect	TechnoHitz, Minor StringStab, Trip-Hop Noizes, Hip Hop Hits, Da Motown Rap, Play: C>G#>A#>F>	
+Vogue Bass	TR-Rack	Program	C111	2021/11/23 0:14:46	Bass	DelicateDynamics, Jazz-mine, Funky Tool, Just Bass? Neee!	
+Bell/Piano/Pad	TR-Rack	Program	C112	2021/11/23 0:14:46	Keyboard	PowerBallad Clav	
+Analog Scuttlin	TR-Rack	Program	C113	2021/11/23 0:14:46	Synth		
+3-Way Lead Synth	TR-Rack	Program	C114	2021/11/23 0:14:46	Synth Lead		
+Fretless	TR-Rack	Program	C115	2021/11/23 0:14:46	Bass	Smooovvv Split, Clav Thang, Take Bass, ClassicM1Split	
+Detuned E.P.	TR-Rack	Program	C116	2021/11/23 0:14:46	Keyboard	Falling, Any Dynamic, Splitting Pool, Bellysh Guitar, E.P. 3rd. Type	
+Slap Bass	TR-Rack	Program	C117	2021/11/23 0:14:46	Bass	ClassicM1Split	
+Funky Lead	TR-Rack	Program	C118	2021/11/23 0:14:46	Synth Lead	Funky Tool, Dynaresaurus	
+01W Trombone2	TR-Rack	Program	C119	2021/11/23 0:14:46	Brass	Bonefied	
+M1 Grand Piano	TR-Rack	Program	C120	2021/11/23 0:14:46	Keyboard	Sweep-in' left, SoftArp&HardSolo, Piano In Blue, ClassicM1Split	
+Plastic Man	TR-Rack	Program	C121	2021/11/23 0:14:46	Organ	Bas D'Joure, Lite Swirling EP, FloatingCloudPad	
+Super Pizz Hit	TR-Rack	Program	C122	2021/11/23 0:14:46	Sound Effect	NCC-1701-A	
+Disco Brass	TR-Rack	Program	C123	2021/11/23 0:14:46	Synth	AdventureBs/Solo	
+Super Stage EP	TR-Rack	Program	C124	2021/11/23 0:14:46	Keyboard	Waving Splitting, Sweet & Low, Octav-E-PianoSW2	
+Touch Wah '70s	TR-Rack	Program	C125	2021/11/23 0:14:46	Guitar		
+ST 5th Choir Hit	TR-Rack	Program	C126	2021/11/23 0:14:46	Sound Effect		
+Elevator Noise	TR-Rack	Program	C127	2021/11/23 0:14:46	Sound Effect	#Splits4SciFi#, Hawk's	
+NeuroSurgery	TR-Rack	Program	D000	2021/11/23 0:14:46	Synth	#Splits4SciFi#	
+SinisterDrug@3AM	TR-Rack	Program	D001	2021/11/23 0:14:46	Sound Effect	A-irish DynaBoom	
+Digital Polysix	TR-Rack	Program	D002	2021/11/23 0:14:46	Synth	Relaxation, Roswell Lights, Split The Thing, Story Teller	
+Bells In Motion	TR-Rack	Program	D003	2021/11/23 0:14:46	Bell	sololos padbaq, Bellmove, Closest Cloud, Ringworm	
+Octarez Bass	TR-Rack	Program	D004	2021/11/23 0:14:46	Bass	Sneakin Up	
+Mr. Impact	TR-Rack	Program	D005	2021/11/23 0:14:46	Bass	Jazz-mine, Phat Bass & PAD, Dynamic'll SlapU	
+Dance Piano	TR-Rack	Program	D006	2021/11/23 0:14:46	Keyboard	Dance <|> Piano	
+Tek Quire	TR-Rack	Program	D007	2021/11/23 0:14:46	Vocal/Airy	Technosynthorgan, Cluster Sample	
+Electrik Brass	TR-Rack	Program	D008	2021/11/23 0:14:46	Synth	Buzzy SynthBrass, Brite Pop Brass	
+Reggae Organ	TR-Rack	Program	D009	2021/11/23 0:14:46	Organ	OldDreamingOrgan	
+Pop/R&B Kit	TR-Rack	Program	D010	2021/11/23 0:14:46	Drums/Perc.	L/R WACKO Kit	Pop/R&B
+StereoBrightOHit	TR-Rack	Program	D011	2021/11/23 0:14:46	Synth		
+Thunder Pick	TR-Rack	Program	D012	2021/11/23 0:14:46	Bass	String Shepard, Alien Canyon	
+Double Strings	TR-Rack	Program	D013	2021/11/23 0:14:46	Strings	Exodus, DelicateDynamics, LR Hands Soloist, Perfect*PianoPad, Japanese Scores, Philly Strings, Piano+Strings, Stingy Passage, Sub Mairner, SuperString Pad, Sub Lime, MajesticMondoPad, Phat Bass & PAD, Double Dip Strgs, Guitar Strings, 479 The Chord	
+Trencher	TR-Rack	Program	D014	2021/11/23 0:14:46	Sound Effect	UndeWater*Parade, Antarctic Night, Sweet Digital, #Splits4SciFi#, Forever Waiting, One Finger 4 SFX	
+Saw303Devotee JS	TR-Rack	Program	D015	2021/11/23 0:14:46	Bass	Flanged DDL Bass, Sweep-in' left	
+TempoSynth~Organ	TR-Rack	Program	D016	2021/11/23 0:14:46	Synth	Free Fall, Electric Eel	
+Sonic }{ Soup	TR-Rack	Program	D017	2021/11/23 0:14:46	Sound Effect	Hammer All	
+Dynamic Rave	TR-Rack	Program	D018	2021/11/23 0:14:46	Synth		
+FM Water Bell	TR-Rack	Program	D019	2021/11/23 0:14:46	Bell	Ice Guitar, Mystical Warrior, Shanghai Muzak, Sub Mairner, @-Saxination, *Mystical Bali*, Horrible Flight, The View	
+Dark Moog	TR-Rack	Program	D020	2021/11/23 0:14:46	Bass	Bas D'Joure, AdventureBs/Solo	
+Drub Square	TR-Rack	Program	D021	2021/11/23 0:14:46	Bass	Flanged DDL Bass, Orgabass + SW2, Rez-o-matic, *MIDI DDL Trap*, Hawk's	
+SmoothStage E.P.	TR-Rack	Program	D022	2021/11/23 0:14:46	Keyboard	Complex E.Piano	
+Vocalscape	TR-Rack	Program	D023	2021/11/23 0:14:46	Vocal/Airy	Exodus, Deeep Bass & Pad, Asteroid Orbits, Bella Bella, Piano In Blue, Roswell Lights, Lost Words, Voxathon, Nylon Clouds, GO GO GO Sync!	
+Brass Brothers	TR-Rack	Program	D024	2021/11/23 0:14:46	Brass	Bad-Phat Brass, SparklingBrass	
+Garage Organ	TR-Rack	Program	D025	2021/11/23 0:14:46	Organ		
+Vintage Kit	TR-Rack	Program	D026	2021/11/23 0:14:46	Drums/Perc.		Vintage Kit
+Delicate Morpher	TR-Rack	Program	D027	2021/11/23 0:14:46	Synth	Dream Guitar, Swimmin Thru Air	
+Tri Me Bass	TR-Rack	Program	D028	2021/11/23 0:14:46	Bass		
+Pop Strings 1	TR-Rack	Program	D029	2021/11/23 0:14:46	Strings	Finito!, Split The Thing, Bright ElPno+Str	
+}( Meditate ){	TR-Rack	Program	D030	2021/11/23 0:14:46	Synth	[Nuclear Dawn], Swimmin Thru Air	
+Lead, or Bass?	TR-Rack	Program	D031	2021/11/23 0:14:46	Bass	@-Saxination, FreshFreshFresh	
+Rhythm Sweep	TR-Rack	Program	D032	2021/11/23 0:14:46	Motion Synth	Japanese Scores	
+NOISY VOX Ribbon	TR-Rack	Program	D033	2021/11/23 0:14:46	Sound Effect		
+Rezo Airpad	TR-Rack	Program	D034	2021/11/23 0:14:46	Synth	Serene Bell Pad, Cloud Surfing, The View	
+Bellend	TR-Rack	Program	D035	2021/11/23 0:14:46	Bell	Serene Bell Pad, Bellmove	
+Rave Choir	TR-Rack	Program	D036	2021/11/23 0:14:46	Synth	Flight From 2000	
+TranceOrganBass	TR-Rack	Program	D037	2021/11/23 0:14:46	Bass		
+Saw Stack	TR-Rack	Program	D038	2021/11/23 0:14:46	Synth		
+Rez Motion Sweep	TR-Rack	Program	D039	2021/11/23 0:14:46	Motion Synth	TrinitySoundRack, Free Fall, Foggy Duty Solo, SoftArp&HardSolo, Pedal&Arpeggio, Pad of It's Own, Passage to Pluto, A-irish DynaBoom, Sweet & Low	
+Band & Fall	TR-Rack	Program	D040	2021/11/23 0:14:46	Brass		
+Disco*ORGAN*Bass	TR-Rack	Program	D041	2021/11/23 0:14:46	Organ	Cyber Church	
+Agressiv Kit	TR-Rack	Program	D042	2021/11/23 0:14:46	Drums/Perc.		Agressiv Kit
+= Evaporate =	TR-Rack	Program	D043	2021/11/23 0:14:46	Synth	Almost Awake..., Spiritual Piano, OldsDon'tBreath, UnderwaterGarden, Hawk's, FloatingCloudPad	
+Savage Squares	TR-Rack	Program	D044	2021/11/23 0:14:46	Bass		
+Pop Strings 2	TR-Rack	Program	D045	2021/11/23 0:14:46	Strings	Philly Strings, East Meets West, Bell*Brass*Strng, Ears Candy, Double Dip Strgs	
+Rubber Banned	TR-Rack	Program	D046	2021/11/23 0:14:46	Synth		
+Cry Baby Bass	TR-Rack	Program	D047	2021/11/23 0:14:46	Bass		
+Rising The Sun	TR-Rack	Program	D048	2021/11/23 0:14:46	Motion Synth	sololos padbaq, Passage to Pluto, Ears Candy, Alien Canyon, The View	
+Seq DDL Lead	TR-Rack	Program	D049	2021/11/23 0:14:46	Synth		
+Vel~Swellz	TR-Rack	Program	D050	2021/11/23 0:14:46	Synth	Stingy Passage	
+Tinkle Bells	TR-Rack	Program	D051	2021/11/23 0:14:46	Bell	Sparkle PianoPad, Bellish Stuff, Bellysh Guitar, Chorus Bell, Princess Keys, Ears Candy, Horrible Flight	
+SQ Bass	TR-Rack	Program	D052	2021/11/23 0:14:46	Bass		
+Random Syn Hit	TR-Rack	Program	D053	2021/11/23 0:14:46	Synth		
+Analog Clav	TR-Rack	Program	D054	2021/11/23 0:14:46	Keyboard	Grab Your Teeth!	
+Basic But Useful	TR-Rack	Program	D055	2021/11/23 0:14:46	Synth	Airy Piano, Tsunami Strikes!, Mondo MIDI Synth	
+Sweepy Strings	TR-Rack	Program	D056	2021/11/23 0:14:46	Synth	Soft Galaxy, Liquid String, Sweep-in' left, Buenas Dias, Lovely Nylon, Nemo, Almost Asleep..., Breathy Down, Forever Waiting	
+String Stab	TR-Rack	Program	D057	2021/11/23 0:14:46	Synth	Tape Strings, Minor StringStab, Technosynthorgan, Techno Bass/Syn	
+Well Hard Kit	TR-Rack	Program	D058	2021/11/23 0:14:46	Drums/Perc.		WellArrrd
+Flashy SAWS	TR-Rack	Program	D059	2021/11/23 0:14:46	Synth	MegaPower Pad, Buzzy SynthBrass	
+WarmPickedBass	TR-Rack	Program	D060	2021/11/23 0:14:46	Bass		
+ThrustingThrunge	TR-Rack	Program	D061	2021/11/23 0:14:46	Guitar	RudeGuitar Split	
+Tikki	TR-Rack	Program	D062	2021/11/23 0:14:46	Synth	FreshFreshFresh	
+Zapper Bass	TR-Rack	Program	D063	2021/11/23 0:14:46	Bass	Sub Lime, Cool Split  :-)	
+Tronic Strinng	TR-Rack	Program	D064	2021/11/23 0:14:46	Synth	Clustered Orch., Japanese Scores, Tronic Piano/Str	
+Stereo Filters	TR-Rack	Program	D065	2021/11/23 0:14:46	Motion Synth	Nocturnal Dreams, Hawk's	
+Ghostly Strings	TR-Rack	Program	D066	2021/11/23 0:14:46	Synth	The Thing, SparklingBrass, Split The Thing	
+Solar Lullaby	TR-Rack	Program	D067	2021/11/23 0:14:46	Bell	Cloud Forest, Bellish Stuff, Heaven Smiles, The Thing, Solar Voices, MajesticMondoPad, Lapponian Sleigh, Split The Thing	
+Sync Bass	TR-Rack	Program	D068	2021/11/23 0:14:46	Bass	Orgabass + SW2	
+Analog Bass  SW1	TR-Rack	Program	D069	2021/11/23 0:14:46	Bass	Power{HIT}Split, sololos padbaq, Relaxation, Dynamic'll SlapU	
+Soft Clavitar	TR-Rack	Program	D070	2021/11/23 0:14:46	Keyboard		
+Steady Breath	TR-Rack	Program	D071	2021/11/23 0:14:46	Vocal/Airy	Almost Awake..., Solar Voices, Story Teller	
+Trianglular	TR-Rack	Program	D072	2021/11/23 0:14:46	Synth		
+Interval Sweep	TR-Rack	Program	D073	2021/11/23 0:14:46	Synth	Marvel Starship, Hawk's	
+Jazz/Funk/Reggae	TR-Rack	Program	D074	2021/11/23 0:14:46	Drums/Perc.	L/R WACKO Kit	Jazz/Funk/Reggae
+Solarium Pad	TR-Rack	Program	D075	2021/11/23 0:14:46	Synth	Unicorn Forest	
+Pfunky Bass  SW1	TR-Rack	Program	D076	2021/11/23 0:14:46	Bass	Funky Tool, Walk n' Talk, Poly-edric	
+* Ice Whistle *	TR-Rack	Program	D077	2021/11/23 0:14:46	Sound Effect	Pedal&Arpeggio, Marvel Starship, Almost Asleep...	
+Dance Arp Wave	TR-Rack	Program	D078	2021/11/23 0:14:46	Synth	Grab Your Teeth!	
+Velo/Rez Bass	TR-Rack	Program	D079	2021/11/23 0:14:46	Bass	Sweep-in' left	
+Lifting Off...	TR-Rack	Program	D080	2021/11/23 0:14:46	Sound Effect		
+PWM Pad SW1	TR-Rack	Program	D081	2021/11/23 0:14:46	Synth	Pulse Power	
+OPERA	TR-Rack	Program	D082	2021/11/23 0:14:46	Synth	TechnoHitz, Hip Hop Hits, Da Motown Rap	
+{Chasing Comets}	TR-Rack	Program	D083	2021/11/23 0:14:46	Motion Synth	Free Fall, Seance Spirits, Pad of It's Own, Marvel Starship, Alien Canyon, Hawk's	
+Rawsaw Syn. Bass	TR-Rack	Program	D084	2021/11/23 0:14:46	Bass	Techno Bass/Syn, Sneakin Up	
+Junnggle Bass	TR-Rack	Program	D085	2021/11/23 0:14:46	Bass	Obesity Bass, SuperSub Rap Baz, Jungle Bass, *MIDI DDL Trap*, Lapponian Sleigh	
+Radio Piano(SW1)	TR-Rack	Program	D086	2021/11/23 0:14:46	Keyboard	Grab Your Teeth!	
+Digistack Stab	TR-Rack	Program	D087	2021/11/23 0:14:46	Synth	Pedal&Arpeggio, Sub Lime, FreshFreshFresh	
+Stabbin' McNally	TR-Rack	Program	D088	2021/11/23 0:14:46	Synth	Airy Piano, Japanese Scores	
+Staccato Pad	TR-Rack	Program	D089	2021/11/23 0:14:46	Synth	Nocturnal Dreams, Phat Bass & PAD, Compu-Neoclassic, Breathy Down, Twilight Flight	
+Vox Rhythms	TR-Rack	Program	D090	2021/11/23 0:14:46	Drums/Perc.	Hip Hop Hits	Vox Kit
+DigiBell Pad	TR-Rack	Program	D091	2021/11/23 0:14:46	Synth	Hawk's, Jamaican Rum-ba	
+TsuB Bass	TR-Rack	Program	D092	2021/11/23 0:14:46	Bass		
+Pop Mutes	TR-Rack	Program	D093	2021/11/23 0:14:46	Guitar	Any Dynamic, Bellysh Guitar, Suspander, RudeGuitar Split, Play: C>G#>A#>F>	
+Detuned Ana. Era	TR-Rack	Program	D094	2021/11/23 0:14:46	Synth	TrinitySoundRack, Clustered Orch., SoftArp&HardSolo, Lapponian Sleigh, @-Saxination	
+SQ 303Devotee JS	TR-Rack	Program	D095	2021/11/23 0:14:46	Bass	Funky Tool, Compu-Neoclassic, Cyber Church	
+Hallucinating	TR-Rack	Program	D096	2021/11/23 0:14:46	Synth	Clustered Orch., Japanese Scores, Lapponian Sleigh	
+Chiff Anatomy	TR-Rack	Program	D097	2021/11/23 0:14:46	Synth	Solar/Pluck Bell	
+Arpy Guy (JS-Y)	TR-Rack	Program	D098	2021/11/23 0:14:46	Synth	Grinchoid	
+Teknostatic	TR-Rack	Program	D099	2021/11/23 0:14:46	Synth	The Thing, Split The Thing	
+Organ Hit	TR-Rack	Program	D100	2021/11/23 0:14:46	Synth	TechnoHitz, Hip Hop Hits, CrazyHitz	
+TranceBass SW1&2	TR-Rack	Program	D101	2021/11/23 0:14:46	Bass		
+Synth Clav	TR-Rack	Program	D102	2021/11/23 0:14:46	Keyboard		
+Organ grind	TR-Rack	Program	D103	2021/11/23 0:14:46	Motion Synth	Foggy Duty Solo, Sweet Digital, One Finger 4 SFX	
+Slow Sweeper	TR-Rack	Program	D104	2021/11/23 0:14:46	Synth Lead	Sunspots, SweeperPad, Earthglow, Roswell Lights, Compu-Neoclassic	
+Rhythmic Rez	TR-Rack	Program	D105	2021/11/23 0:14:46	Synth	Rez-o-matic	
+Synth Logg Drum	TR-Rack	Program	D106	2021/11/23 0:14:46	Drums/Perc.	*Mystical Bali*, Kalimba Simba, Jamaican Rum-ba	
+Ginch	TR-Rack	Program	D107	2021/11/23 0:14:46	Synth	Grinchoid, OldsDon'tBreath, Mosquito Boy, Grungy Attack, Just Bass? Neee!	
+30303 Rezdark	TR-Rack	Program	D108	2021/11/23 0:14:46	Bass		
+Useful Trash	TR-Rack	Program	D109	2021/11/23 0:14:46	Synth	Horrible Flight, Breathy Down, Grungy Attack	
+Unison Filters	TR-Rack	Program	D110	2021/11/23 0:14:46	Synth		
+Syn-Zap Bass	TR-Rack	Program	D111	2021/11/23 0:14:46	Bass	The Thing, Split The Thing	
+Classic Whirly	TR-Rack	Program	D112	2021/11/23 0:14:46	Keyboard	Annie Rose Goes, Rubber Clav, Walk n' Talk	
+Velorezo	TR-Rack	Program	D113	2021/11/23 0:14:46	Synth	Mosquito Boy	
+Monstrousity	TR-Rack	Program	D114	2021/11/23 0:14:46	Synth	Cyber Church	
+RADIO -Y&Ribbon	TR-Rack	Program	D115	2021/11/23 0:14:46	Sound Effect		
+RAVE Siren (SW1)	TR-Rack	Program	D116	2021/11/23 0:14:46	Synth		
+Skip's DUB Bass	TR-Rack	Program	D117	2021/11/23 0:14:46	Bass		
+Sticky Rez Clav	TR-Rack	Program	D118	2021/11/23 0:14:46	Keyboard	BigBottm/TripTop	
+Stacc-echo	TR-Rack	Program	D119	2021/11/23 0:14:46	Synth	Sub Mairner	
+SineUsoid	TR-Rack	Program	D120	2021/11/23 0:14:46	Synth	Relaxation, Cairo Connection	
+...For Medusa	TR-Rack	Program	D121	2021/11/23 0:14:46	Synth	Finito!	
+squinge sqr >SW1	TR-Rack	Program	D122	2021/11/23 0:14:46	Synth	Sneakin Up, FreshFreshFresh	
+Slang Bass	TR-Rack	Program	D123	2021/11/23 0:14:46	Bass	*MIDI DDL Trap*, Phat Bass & PAD	
+Downsizinng	TR-Rack	Program	D124	2021/11/23 0:14:46	Synth		
+Euro Stab	TR-Rack	Program	D125	2021/11/23 0:14:46	Synth	Power{HIT}Split, Brass Blasts, TechnoHitz	
+Super Slammer	TR-Rack	Program	D126	2021/11/23 0:14:46	Bass		
+Rain Forest	TR-Rack	Program	D127	2021/11/23 0:14:46	Sound Effect	Cloud Forest	
+Standard Kit	TR-Rack	Drumkit	00	2021/11/23 0:14:46		Standard Kit	
+Processed Kit	TR-Rack	Drumkit	01	2021/11/23 0:14:46		Processed Kit	
+Jazz/Brush Kits	TR-Rack	Drumkit	02	2021/11/23 0:14:46		Jazz/Brush Kits	
+Analog/Club Kits	TR-Rack	Drumkit	03	2021/11/23 0:14:46		Analog/Club Kits	
+!{Mega-Mix}! Kit	TR-Rack	Drumkit	04	2021/11/23 0:14:46		!{Mega-Mix}! Kit	
+Psycho Kit	TR-Rack	Drumkit	05	2021/11/23 0:14:46		Psycho Kit	
+BassDrums&Snares	TR-Rack	Drumkit	06	2021/11/23 0:14:46		BassDrums&Snares	
+Toms & Cymbals	TR-Rack	Drumkit	07	2021/11/23 0:14:46		Toms & Cymbals	
+Percussion	TR-Rack	Drumkit	08	2021/11/23 0:14:46		Percussion Kit	
+Orchestra&Ethnic	TR-Rack	Drumkit	09	2021/11/23 0:14:46		Orch/Ethnic Kits	
+01/W Total Kit	TR-Rack	Drumkit	10	2021/11/23 0:14:46		01/W Total Kit	
+01/W Producer's	TR-Rack	Drumkit	11	2021/11/23 0:14:46			
+Vintage Kit	TR-Rack	Drumkit	12	2021/11/23 0:14:46		Vintage Kit	
+Eezer Goodie	TR-Rack	Drumkit	13	2021/11/23 0:14:46		Jungle Kit	
+WellArrrd	TR-Rack	Drumkit	14	2021/11/23 0:14:46		Well Hard Kit	
+Hip-Hop/Rap	TR-Rack	Drumkit	15	2021/11/23 0:14:46		HipHop/Rap Kit	
+Pop/R&B	TR-Rack	Drumkit	16	2021/11/23 0:14:46		Pop/R&B Kit	
+Jazz/Funk/Reggae	TR-Rack	Drumkit	17	2021/11/23 0:14:46		Jazz/Funk/Reggae	
+House/Techno	TR-Rack	Drumkit	18	2021/11/23 0:14:46		House/Techno/Jun	
+Industry/Analog	TR-Rack	Drumkit	19	2021/11/23 0:14:46		Industry/Analog	
+Funky Drumin'	TR-Rack	Drumkit	20	2021/11/23 0:14:46		Funky Drummin'	
+Agressiv Kit	TR-Rack	Drumkit	21	2021/11/23 0:14:46		Agressiv Kit	
+Vox Kit	TR-Rack	Drumkit	22	2021/11/23 0:14:46		Vox Rhythms	
+User Kit 0	TR-Rack	Drumkit	23	2021/11/23 0:14:46			

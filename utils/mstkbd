@@ -8,8 +8,8 @@ from gi.repository import Gtk, Gdk
 import midisw.mididefs
 import midisw.gtk3.piano
 import midisw.gtk3.dial
-import midisw.gtk3.synth_toggle
-import midisw.gtk3.synth_xy_pad
+import midisw.gtk3.toggle
+import midisw.gtk3.xypad
 
 # MIDI Libs.
 import rtmidi2
@@ -22,10 +22,15 @@ class TheMidiOut(object):
         #
         # setup event hndler
         #
-        self.midi_out = rtmidi2.MidiOut().open_virtual_port("mstkbd")
-        self.virt_out_port = self.midi_out.open_port()
+        #self.midi_out = rtmidi2.MidiOut().open_virtual_port("mstkbd")
+        #self.virt_out_port = self.midi_out.open_port()
+        self.midi_out = rtmidi2.MidiOut()
+        self.midi_out.open_port()
+#        self.midi_out.open_virtual_port("mstkbd")
 
-THE_MIDI_OUT = TheMidiOut().virt_out_port
+
+
+THE_MIDI_OUT = TheMidiOut().midi_out
 
 #######################################################################
 #######################################################################
@@ -56,11 +61,18 @@ class ThePiano(midisw.gtk3.PianoNoteSelector):
         self.last_pressed = None
 
 #######################################################################
-class TheXYPad(midisw.gtk3.SynthXYPad):
+class TheXYPad(midisw.gtk3.XYPad):
     def __init__(self,*args,**kwargs):
         super().__init__(*args, **kwargs)
         self.set_size_request(120,120)
-        
+        self.connect("button_press_event", self.send_pitch_mod)
+        self.connect("button_release_event", self.send_pitch_mod)
+        self.connect("motion_notify_event", self.send_pitch_mod)
+
+    def send_pitch_mod(self, x, y):
+        p,m = self.get_value()
+        THE_MIDI_OUT.send_pitchbend(0, p)
+        THE_MIDI_OUT.send_cc(0, 1, 128-m)
 
 #######################################################################
 #######################################################################
@@ -78,7 +90,7 @@ class MstKbdWin(Gtk.Window):
         self.hbox1_widgets = {
             "TheXYPad" : TheXYPad(),
             "ThePiano" : ThePiano(),
-            "sustain" : midisw.gtk3.SynthToggle(),
+            "sustain" : midisw.gtk3.Toggle(),
             "all_note_off" : Gtk.Button(label="Panic")
         }
         for w in self.hbox1_widgets.values():

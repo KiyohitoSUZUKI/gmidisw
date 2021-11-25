@@ -1,16 +1,25 @@
 
 import subprocess
+import os
 
 import midisw.tonenamedb as tonenamedb
+import midisw.util
 
 class SoundFont(tonenamedb.Base):
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
+    def __init__(self, *args):
+        super().__init__()
+        if len(args) > 0:
+            self.load(args[0])
 
     def load(self, sfpath: str):
-        self._clear_table()
+        self.truncate()
 
-        cmd = f" echo 'inst 1' | fluidsynth -a 'alsa'  \"{sfpath}\" | grep '^[0-9]' | grep -v '^$' "
+        sfpathex = os.path.expanduser(sfpath)
+        if midisw.util.is_jack_active():
+            engine = 'jack'
+        else:
+            engine = 'alsa'
+        cmd = f" echo 'inst 1' | fluidsynth -a '{engine}'  \"{sfpathex}\" | grep '^[0-9]' | grep -v '^$' | cat - "
         rslt = subprocess.check_output(cmd,
                                        shell=True,
                                        universal_newlines=True,
@@ -23,11 +32,12 @@ class SoundFont(tonenamedb.Base):
             banks,progs = banks_progs.split("-")
             banki = int(banks)
             progi = int(progs)
-            gname = ""
+            gname = midisw.util.sfpath2sfname(sfpath)
             tname = line[8:]
 
-            self.create(banki/128,banki%128,progi,"", tname)
+            self.create(banki/128,banki%128,progi,gname, tname)
 
         self.con.commit()
-
+        self.is_updated = False
         
+        return self        

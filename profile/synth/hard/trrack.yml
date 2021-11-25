@@ -1,0 +1,72 @@
+type: synth/hard
+name: TR-Rack
+recv:
+  ch: "0,15"
+  notes: "0,127"
+  message:
+    0x80 : NOTE_OFF
+    0x90 : NOTE_ON
+    0xa0 : POLY_PRESSURE
+    0xb0 : CONTROL_CHANGE
+    0xc0 : PROGRAM_CHANGE
+    0xd0 : CHANNEL_PRESSURE
+    0xe0 : PITCHBEND
+    0xf8 : TIMING_CLOCK
+    0xfe : ACTIVE_SENSING
+    0xf0 : SYSEX
+    0xf7 : EOX
+  cc:
+    0x00 : BANK_SELECT_MSB
+    0x01 : Modulation1 Depth(OSC LFO mod)
+    0x02 : Modulation2 Depth(Filter LFO mod)
+    0x04 : Foot Pedal
+    0x06 : Data Entry
+    0x07 : Volume
+    0x0a : Panpot
+    0x0b : Expression
+    0x0c : Effect Control 1
+    0x0d : Effect Control 2
+    0x10 : Ribbon Controller X
+    0x11 : Ribbon Controller Z
+    0x12 : Value Slider
+    0x13 : AM & FX mod
+    0x20 : BANK_SELECT_LSB
+    0x26 : DATA_ENTRY_LSB
+    0x40 : Hold1 Off/On
+    0x48 : Release Time
+    0x49 : Attack Time
+    0x4a : Brightness
+    0x50 : Panel SW 1
+    0x51 : Panel SW 2
+    0x52 : Pedal SW
+    0x53 : AM & FX mod
+    0x5b : Effect1 Level as Send2 Level
+    0x5c : Effect2 Level for All Insert FX Off/On
+    0x5d : Effect3 Level as Send1 Level
+    0x5e : Effect4 Level for MasterFX(Mod) Off/On
+    0x5f : Effect5 Level for (R/D) Off/On
+    0x60 : Data Increment (for RPC Edit)
+    0x61 : Data Decrement (for RPC Edit)
+    0x64 : RPN_LSB
+    0x65 : RPN_MSB
+    0x78 : ALL_SOUND_OFF
+    0x79 : RESET_ALL_CONTROLLERS
+    0x7b : ALL_NOTES_OFF
+    0x7c : OMNI_MODE_OFF
+    0x7d : OMNI_MODE_ON
+    0x7e : MONO_MODE_ON
+    0x7f : POLY_MODE_ON
+tonenamecsv: trrack.csv
+# # bank selecting
+#
+# msb, lsb   
+#  00,  00  bankA
+#  00,  01  bankB
+#  00,  02  bankC
+#  00,  03  bankD
+#
+# # mode change
+#  f0 42 3g 3b 4e 0m  xx f7
+#   g = global channel, most situation = 1
+#   m = mode: 0:combi, 1:combiEdit, 2:Program, 3:ProgEdit, 4:Multi, 5:Global
+#   xx = random???, 00 will safe

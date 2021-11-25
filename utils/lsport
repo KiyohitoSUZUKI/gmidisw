@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+import midisw.util
+import sys
+
+for p in midisw.util.lsport(sys.argv[1]):
+    print(p)
+
+

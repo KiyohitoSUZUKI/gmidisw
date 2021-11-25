@@ -1,4 +1,4 @@
 type: synth/fluidsynth
-name: "fluidsynth FluidR3_GM"
+name: "fluidsynth FluidR3_GM(csv-renamed)"
 soundfont: ~/lib/audio/soundfont/GSGM/FluidR3_GM.sf2
-tonenamedb_csv: Z00-FluidR3_GM.csv
+tonenamecsv: Z00-FluidR3_GM.csv

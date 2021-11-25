@@ -1,15 +1,18 @@
+import os
 import csv
 
 import midisw.tonenamedb as tonenamedb
 
 class CSVFile(tonenamedb.Base):
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
+    def __init__(self, *args):
+        super().__init__()
+        if len(args) > 0 :
+            self.load(args[0])
 
     def load(self, csvfname: str):
-        self._clear_table()
+        self.truncate()
 
-        with open(csvfname,"r") as fd:
+        with open(os.path.expanduser(csvfname),"r") as fd:
             tdef = csv.DictReader(fd, delimiter=",",
                                   doublequote=True,
                                   quotechar='"',
@@ -26,5 +29,6 @@ class CSVFile(tonenamedb.Base):
 
             self.con.commit()
 
+        self.is_updated = False
         return self
 

@@ -3,9 +3,6 @@ import yaml
 
 from midisw.envdefs import *
 
-
-logging.basicConfig(level=LOGGING_LEVEL)
-
 ############################################################ util funcs
 _NOTES =  {
     "C":0,
@@ -53,7 +50,6 @@ def is_black(note):
 
 
 def note2num(note, is_yamaha = False):
-    global _NOTES
 
     if isinstance(note, str):
          note = note.lower()
@@ -77,7 +73,6 @@ def note2num(note, is_yamaha = False):
          raise TypeError("Bad arg type:")
 
 def num2note(num,is_yamaha=False):
-    global _NOTES
 
     num = int(num) & 0x7f
 
@@ -109,16 +104,16 @@ MIDI_MESSAGE_YAML = """
     0xf1 : MIDI_TIME_CODE/MTC
     0xf2 : SONG_POSITION_POINTER
     0xf3 : SONG_SELECT
-    #0xf4 : undefined
-    #0xf5 : undefined
+    0xf4 : undefined
+    0xf5 : undefined
     0xf6 : TUNE_REQUEST
     0xf7 : EOX
     0xf8 : TIMING_CLOCK
-    #0xf9 : undefined
+    0xf9 : undefined
     0xfa : SONG_START
     0xfb : SONG_CONTINUE
     0xfc : SONG_STOP
-    #0xfd : undefined
+    0xfd : undefined
     0xfe : ACTIVE_SENSING
     0xff : SYSTEM_RESET
 """
@@ -129,39 +124,39 @@ MIDI_CC_YAML = """
     0x00 : BANK_SELECT_MSB
     0x01 : MODULATION_WHEEL_MSB
     0x02 : BREATH_CONTROLLER
-    #0x03 : undefined
+    0x03 : undefined
     0x04 : FOOT_CONTROLLER_MSB
     0x05 : PORTAMENT_TIME_MSB
     0x06 : DATA_ENTRY_MSB
     0x07 : CHANNEL_VOLUME_MSB
     0x08 : BALANCE_MSB
-    #0x09 : undefined
+    0x09 : undefined
     0x0a : PAN_MSB
     0x0b : EXPRESSION_CONTROLLER_MSB
     0x0c : EFFECT_CONTROL_1_MSB
     0x0d : EFFECT_CONTROL_2_MSB
-    #0x0e : undefined
-    #0x0f : undefined
+    0x0e : undefined
+    0x0f : undefined
     0x10 : GENERAL_PURPOSE_CONTROLLER_1_MSB
     0x11 : GENERAL_PURPOSE_CONTROLLER_2_MSB
     0x12 : GENERAL_PURPOSE_CONTROLLER_3_MSB
     0x13 : GENERAL_PURPOSE_CONTROLLER_4_MSB
-    #0x14 : undefined
-    #0x15 : undefined
-    #0x16 : undefined
-    #0x17 : undefined
-    #0x18 : undefined
-    #0x19 : undefined
-    #0x1a : undefined
-    #0x1b : undefined
-    #0x1c : undefined
-    #0x1d : undefined
-    #0x1e : undefined
-    #0x1f : undefined
+    0x14 : undefined
+    0x15 : undefined
+    0x16 : undefined
+    0x17 : undefined
+    0x18 : undefined
+    0x19 : undefined
+    0x1a : undefined
+    0x1b : undefined
+    0x1c : undefined
+    0x1d : undefined
+    0x1e : undefined
+    0x1f : undefined
     0x20 : BANK_SELECT_LSB
     0x21 : MODULATION_WHEEL_LSB
     0x22 : BREATH_CONTROLLER_LSB
-    #0x23 : undefined
+    0x23 : undefined
     0x24 : FOOT_CONTROLLER_LSB
     0x25 : PORTAMENT_TIME_LSB
     0x26 : DATA_ENTRY_LSB
@@ -171,24 +166,24 @@ MIDI_CC_YAML = """
     0x2b : EXPRESSION_CONTROLLER_LSB
     0x2c : EFFECT_CONTROL_1_LSB
     0x2d : EFFECT_CONTROL_2_LSB
-    #0x2e : undefined
-    #0x2f : undefined
+    0x2e : undefined
+    0x2f : undefined
     0x30 : GENERAL_PURPOSE_CONTROLLER_1_LSB
     0x31 : GENERAL_PURPOSE_CONTROLLER_2_LSB
     0x32 : GENERAL_PURPOSE_CONTROLLER_3_LSB,        
     0x33 : GENERAL_PURPOSE_CONTROLLER_4_LSB
-    #0x34 : undefined
-    #0x35 : undefined,        
-    #0x36 : undefined
-    #0x37 : undefined
-    #0x38 : undefined
-    #0x39 : undefined
-    #0x3a : undefined
-    #0x3b : undefined
-    #0x3c : undefined
-    #0x3d : undefined
-    #0x3e : undefined
-    #0x3f : undefined
+    0x34 : undefined
+    0x35 : undefined        
+    0x36 : undefined
+    0x37 : undefined
+    0x38 : undefined
+    0x39 : undefined
+    0x3a : undefined
+    0x3b : undefined
+    0x3c : undefined
+    0x3d : undefined
+    0x3e : undefined
+    0x3f : undefined
     0x40 : SUSTAIN_ONOFF
     0x41 : PORTAMENT_ONOFF
     0x42 : SOSTENUTO_ONOFF
@@ -210,12 +205,12 @@ MIDI_CC_YAML = """
     0x52 : GENERAL_PURPOSE_CONTROLLER_7
     0x53 : GENERAL_PURPOSE_CONTROLLER_8
     0x54 : PORTAMENT_CONTROL
-    #0x55 : undefined
-    #0x56 : undefined
-    #0x57 : undefined,        
+    0x55 : undefined
+    0x56 : undefined
+    0x57 : undefined,        
     0x58 : HIGH_RESOLUTION_VELOCITY_PREFIX
-    #0x59 : undefined
-    #0x5a : undefined,        
+    0x59 : undefined
+    0x5a : undefined,        
     0x5b : EFFECTS_1_DEPTH
     0x5c : EFFECTS_2_DEPTH
     0x5d : EFFECTS_3_DEPTH
@@ -227,24 +222,24 @@ MIDI_CC_YAML = """
     0x63 : NRPN_MSB
     0x64 : RPN_LSB
     0x65 : RPN_MSB
-    #0x66 : undefined
-    #0x67 : undefined
-    #0x68 : undefined
-    #0x69 : undefined
-    #0x6a : undefined
-    #0x6b : undefined
-    #0x6c : undefined
-    #0x6d : undefined
-    #0x6e : undefined
-    #0x6f : undefined
-    #0x70 : undefined
-    #0x71 : undefined
-    #0x72 : undefined
-    #0x73 : undefined
-    #0x74 : undefined
-    #0x75 : undefined
-    #0x76 : undefined
-    #0x77 : undefined
+    0x66 : undefined
+    0x67 : undefined
+    0x68 : undefined
+    0x69 : undefined
+    0x6a : undefined
+    0x6b : undefined
+    0x6c : undefined
+    0x6d : undefined
+    0x6e : undefined
+    0x6f : undefined
+    0x70 : undefined
+    0x71 : undefined
+    0x72 : undefined
+    0x73 : undefined
+    0x74 : undefined
+    0x75 : undefined
+    0x76 : undefined
+    0x77 : undefined
     0x78 : ALL_SOUND_OFF
     0x79 : RESET_ALL_CONTROLLERS
     0x7a : LOCAL_CONTROL_ONOFF

@@ -1,0 +1,1041 @@
+GM (GM2 Group)
+No. Name
+ Voice
+ LSB
+ PC
+ No. Name
+ Voice
+ LSB
+ PC
+ No. Name
+ Voice
+ LSB
+ PC
+ No. Name
+ Voice
+ LSB
+ PC
+001 Piano 1
+ 4
+ 0
+ 1
+ 065 Chorus Gt.
+ 2
+ 1
+ 28
+ 129 French Horns
+ 2
+ 0
+ 61
+ 193 Sitar
+ 1
+ 0
+ 105
+002 Piano 1w
+ 4
+ 1
+ 1
+ 066 Mid Tone GTR
+ 1
+ 2
+ 28
+ 130 Fr.Horn 2
+ 1
+ 1
+ 61
+ 194 Sitar 2
+ 2
+ 1
+ 105
+003 European Pf
+ 4
+ 2
+ 1
+ 067 Muted Gt.
+ 1
+ 0
+ 29
+ 131 Brass 1
+ 4
+ 0
+ 62
+ 195 Banjo
+ 1
+ 0
+ 106
+004 Piano 2
+ 4
+ 0
+ 2
+ 068 Funk Pop
+ 1
+ 1
+ 29
+ 132 Brass 2
+ 4
+ 1
+ 62
+ 196 Shamisen
+ 2
+ 0
+ 107
+005 Piano 2w
+ 4
+ 1
+ 2
+ 069 Funk Gt.2
+ 2
+ 2
+ 29
+ 133 Synth Brass1
+ 3
+ 0
+ 63
+ 197 Koto
+ 2
+ 0
+ 108
+006 Piano 3
+ 2
+ 0
+ 3
+ 070 Jazz Man
+ 1
+ 3
+ 29
+ 134 Pro Brass
+ 3
+ 1
+ 63
+ 198 Taisho Koto
+ 2
+ 1
+ 108
+007 Piano 3w
+ 2
+ 1
+ 3
+ 071 Overdrive Gt
+ 2
+ 0
+ 30
+ 135 Oct SynBrass
+ 3
+ 2
+ 63
+ 199 Kalimba
+ 1
+ 0
+ 109
+008 Honky-tonk
+ 2
+ 0
+ 4
+ 072 Guitar Pinch
+ 2
+ 1
+ 30
+ 136 Jump Brass
+ 3
+ 3
+ 63
+ 200 Bagpipe
+ 3
+ 0
+ 110
+009 Honky-tonk 2
+ 2
+ 1
+ 4
+ 073 DistortionGt
+ 2
+ 0
+ 31
+ 137 Synth Brass2
+ 3
+ 0
+ 64
+ 201 Fiddle
+ 2
+ 0
+ 111
+010 E.Piano 1
+ 3
+ 0
+ 5
+ 074 Feedback Gt.
+ 2
+ 1
+ 31
+ 138 SynBrass sfz
+ 2
+ 1
+ 64
+ 202 Shanai
+ 1
+ 0
+ 112
+011 St.Soft EP
+ 3
+ 1
+ 5
+ 075 Dist Rtm GTR
+ 2
+ 2
+ 31
+ 139 Velo Brass 1
+ 2
+ 2
+ 64
+ 203 Tinkle Bell
+ 3
+ 0
+ 113
+012 FM+SA EP
+ 2
+ 2
+ 5
+ 076 Gt.Harmonics
+ 1
+ 0
+ 32
+ 140 Soprano Sax
+ 1
+ 0
+ 65
+ 204 Agogo
+ 1
+ 0
+ 114
+013 60's Rhodes
+ 2
+ 3
+ 5
+ 077 Gt. Feedback
+ 1
+ 1
+ 32
+ 141 Alto Sax
+ 1
+ 0
+ 66
+ 205 Steel Drums
+ 1
+ 0
+ 115
+014 E.Piano 2
+ 2
+ 0
+ 6
+ 078 Acoustic Bs.
+ 2
+ 0
+ 33
+ 142 Tenor Sax
+ 2
+ 0
+ 67
+ 206 Woodblock
+ 1
+ 0
+ 116
+015 Detuned EP 2
+ 2
+ 1
+ 6
+ 079 Fingered Bs.
+ 1
+ 0
+ 34
+ 143 Baritone Sax
+ 2
+ 0
+ 68
+ 207 Castanets
+ 1
+ 1
+ 116
+016 St.FM EP
+ 3
+ 2
+ 6
+ 080 Finger Slap
+ 2
+ 1
+ 34
+ 144 Oboe
+ 2
+ 0
+ 69
+ 208 Taiko
+ 3
+ 0
+ 117
+017 EP Legend
+ 2
+ 3
+ 6
+ 081 Picked Bass
+ 2
+ 0
+ 35
+ 145 English Horn
+ 1
+ 0
+ 70
+ 209 Concert BD
+ 4
+ 1
+ 117
+018 EP Phase
+ 2
+ 4
+ 6
+ 082 Fretless Bs.
+ 2
+ 0
+ 36
+ 146 Bassoon
+ 1
+ 0
+ 71
+ 210 Melo. Tom 1
+ 1
+ 0
+ 118
+019 Harpsichord
+ 1
+ 0
+ 7
+ 083 Slap Bass 1
+ 2
+ 0
+ 37
+ 147 Clarinet
+ 1
+ 0
+ 72
+ 211 Melo. Tom 2
+ 1
+ 1
+ 118
+020 Coupled Hps.
+ 2
+ 1
+ 7
+ 084 Slap Bass 2
+ 3
+ 0
+ 38
+ 148 Piccolo
+ 1
+ 0
+ 73
+ 212 Synth Drum
+ 2
+ 0
+ 119
+021 Harpsi.w
+ 1
+ 2
+ 7
+ 085 Synth Bass 1
+ 2
+ 0
+ 39
+ 149 Flute
+ 1
+ 0
+ 74
+ 213 808 Tom
+ 2
+ 1
+ 119
+022 Harpsi.o
+ 2
+ 3
+ 7
+ 086 SynthBass101
+ 1
+ 1
+ 39
+ 150 Recorder
+ 1
+ 0
+ 75
+ 214 Elec Perc
+ 1
+ 1
+ 119
+023 Clav.
+ 1
+ 0
+ 8
+ 087 Acid Bass
+ 1
+ 2
+ 39
+ 151 Pan Flute
+ 1
+ 0
+ 76
+ 215 Reverse Cym.
+ 1
+ 0
+ 120
+024 Pulse Clav
+ 1
+ 1
+ 8
+ 088 Clavi Bass
+ 2
+ 3
+ 39
+ 152 Bottle Blow
+ 2
+ 0
+ 77
+ 216 Gt.FretNoise
+ 1
+ 0
+ 121
+025 Celesta
+ 1
+ 0
+ 9
+ 089 Hammer
+ 2
+ 4
+ 39
+ 153 Shakuhachi
+ 2
+ 0
+ 78
+ 217 Gt.Cut Noise
+ 1
+ 1
+ 121
+026 Glockenspiel
+ 1
+ 0
+ 10
+ 090 Synth Bass 2
+ 3
+ 0
+ 40
+ 154 Whistle
+ 1
+ 0
+ 79
+ 218 String Slap
+ 1
+ 2
+ 121
+027 Music Box
+ 1
+ 0
+ 11
+ 091 Beef FM Bass
+ 2
+ 1
+ 40
+ 155 Ocarina
+ 2
+ 0
+ 80
+ 219 Breath Noise
+ 1
+ 0
+ 122
+028 Vibraphone
+ 2
+ 0
+ 12
+ 092 RubberBass 2
+ 2
+ 2
+ 40
+ 156 Square Wave
+ 2
+ 0
+ 81
+ 220 Fl.Key Click
+ 1
+ 1
+ 122
+029 Vibraphone w
+ 2
+ 1
+ 12
+ 093 Attack Pulse
+ 1
+ 3
+ 40
+ 157 MG Square
+ 1
+ 1
+ 81
+ 221 Seashore
+ 2
+ 0
+ 123
+030 Marimba
+ 1
+ 0
+ 13
+ 094 Violin
+ 1
+ 0
+ 41
+ 158 2600 Sine
+ 1
+ 2
+ 81
+ 222 Rain
+ 2
+ 1
+ 123
+031 Marimba w
+ 1
+ 1
+ 13
+ 095 Slow Violin
+ 1
+ 1
+ 41
+ 159 Saw Wave
+ 2
+ 0
+ 82
+ 223 Thunder
+ 1
+ 2
+ 123
+032 Xylophone
+ 1
+ 0
+ 14
+ 096 Viola
+ 1
+ 0
+ 42
+ 160 OB2 Saw
+ 1
+ 1
+ 82
+ 224 Wind
+ 2
+ 3
+ 123
+033 Tubular-bell
+ 1
+ 0
+ 15
+ 097 Cello
+ 1
+ 0
+ 43
+ 161 Doctor Solo
+ 2
+ 2
+ 82
+ 225 Stream
+ 2
+ 4
+ 123
+034 Church Bell
+ 1
+ 1
+ 15
+ 098 Contrabass
+ 1
+ 0
+ 44
+ 162 Natural Lead
+ 2
+ 3
+ 82
+ 226 Bubble
+ 2
+ 5
+ 123
+035 Carillon
+ 1
+ 2
+ 15
+ 099 Tremolo Str
+ 3
+ 0
+ 45
+ 163 SequencedSaw
+ 2
+ 4
+ 82
+ 227 Bird
+ 2
+ 0
+ 124
+036 Santur
+ 1
+ 0
+ 16
+ 100 PizzicatoStr
+ 2
+ 0
+ 46
+ 164 Syn.Calliope
+ 2
+ 0
+ 83
+ 228 Dog
+ 1
+ 1
+ 124
+037 Organ 1
+ 2
+ 0
+ 17
+ 101 Harp
+ 1
+ 0
+ 47
+ 165 Chiffer Lead
+ 2
+ 0
+ 84
+ 229 Horse-Gallop
+ 1
+ 2
+ 124
+038 Trem. Organ
+ 2
+ 1
+ 17
+ 102 Yang Qin
+ 2
+ 1
+ 47
+ 166 Charang
+ 2
+ 0
+ 85
+ 230 Bird 2
+ 1
+ 3
+ 124
+039 60's Organ 1
+ 1
+ 2
+ 17
+ 103 Timpani
+ 3
+ 0
+ 48
+ 167 Wire Lead
+ 2
+ 1
+ 85
+ 231 Telephone 1
+ 1
+ 0
+ 125
+040 70's E.Organ
+ 2
+ 3
+ 17
+ 104 Orche str
+ 2
+ 0
+ 49
+ 168 Solo Vox
+ 2
+ 0
+ 86
+ 232 Telephone 2
+ 1
+ 1
+ 125
+041 Organ 2
+ 2
+ 0
+ 18
+ 105 Orchestra
+ 4
+ 1
+ 49
+ 169 5th Saw Wave
+ 2
+ 0
+ 87
+ 233 DoorCreaking
+ 1
+ 2
+ 125
+042 Chorus Or.2
+ 2
+ 1
+ 18
+ 106 60s Strings
+ 4
+ 2
+ 49
+ 170 Bass & Lead
+ 2
+ 0
+ 88
+ 234 Door
+ 1
+ 3
+ 125
+043 Perc. Organ
+ 2
+ 2
+ 18
+ 107 Slow Strings
+ 2
+ 0
+ 50
+ 171 Delayed Lead
+ 2
+ 1
+ 88
+ 235 Scratch
+ 2
+ 4
+ 125
+044 Organ 3
+ 3
+ 0
+ 19
+ 108 Syn.Strings1
+ 3
+ 0
+ 51
+ 172 Fantasia
+ 2
+ 0
+ 89
+ 236 Wind Chimes
+ 2
+ 5
+ 125
+045 Church Org.1
+ 1
+ 0
+ 20
+ 109 Syn.Strings3
+ 3
+ 1
+ 51
+ 173 Warm Pad
+ 1
+ 0
+ 90
+ 237 Helicopter
+ 2
+ 0
+ 126
+046 Church Org.2
+ 2
+ 1
+ 20
+ 110 Syn.Strings2
+ 3
+ 0
+ 52
+ 174 Sine Pad
+ 2
+ 1
+ 90
+ 238 Car-Engine
+ 1
+ 1
+ 126
+047 Church Org.3
+ 2
+ 2
+ 20
+ 111 Choir Aahs
+ 2
+ 0
+ 53
+ 175 Polysynth
+ 2
+ 0
+ 91
+ 239 Car-Stop
+ 1
+ 2
+ 126
+048 Reed Organ
+ 2
+ 0
+ 21
+ 112 Chorus Aahs
+ 2
+ 1
+ 53
+ 176 Space Voice
+ 4
+ 0
+ 92
+ 240 Car-Pass
+ 1
+ 3
+ 126
+049 Puff Organ
+ 1
+ 1
+ 21
+ 113 Voice Oohs
+ 3
+ 0
+ 54
+ 177 Itopia
+ 3
+ 1
+ 92
+ 241 Car-Crash
+ 2
+ 4
+ 126
+050 Accordion Fr
+ 1
+ 0
+ 22
+ 114 Humming
+ 2
+ 1
+ 54
+ 178 Bowed Glass
+ 3
+ 0
+ 93
+ 242 Siren
+ 1
+ 5
+ 126
+051 Accordion It
+ 2
+ 1
+ 22
+ 115 SynVox
+ 3
+ 0
+ 55
+ 179 Metal Pad
+ 3
+ 0
+ 94
+ 243 Train
+ 1
+ 6
+ 126
+052 Harmonica
+ 1
+ 0
+ 23
+ 116 Analog Voice
+ 1
+ 1
+ 55
+ 180 Halo Pad
+ 3
+ 0
+ 95
+ 244 Jetplane
+ 2
+ 7
+ 126
+053 Bandoneon
+ 2
+ 0
+ 24
+ 117 OrchestraHit
+ 2
+ 0
+ 56
+ 181 Sweep Pad
+ 2
+ 0
+ 96
+ 245 Starship
+ 2
+ 8
+ 126
+054 Nylon-str.Gt
+ 1
+ 0
+ 25
+ 118 Bass Hit
+ 2
+ 1
+ 56
+ 182 Ice Rain
+ 2
+ 0
+ 97
+ 246 Burst Noise
+ 2
+ 9
+ 126
+055 Ukulele
+ 2
+ 1
+ 25
+ 119 6th Hit
+ 2
+ 2
+ 56
+ 183 Soundtrack
+ 2
+ 0
+ 98
+ 247 Applause
+ 2
+ 0
+ 127
+056 Nylon Gt.o
+ 2
+ 2
+ 25
+ 120 Euro Hit
+ 2
+ 3
+ 56
+ 184 Crystal
+ 2
+ 0
+ 99
+ 248 Laughing
+ 1
+ 1
+ 127
+057 Nylon Gt.2
+ 2
+ 3
+ 25
+ 121 Trumpet
+ 1
+ 0
+ 57
+ 185 Syn Mallet
+ 1
+ 1
+ 99
+ 249 Screaming
+ 1
+ 2
+ 127
+058 Steel-str.Gt
+ 1
+ 0
+ 26
+ 122 Dark Trumpet
+ 1
+ 1
+ 57
+ 186 Atmosphere
+ 2
+ 0
+ 100
+ 250 Punch
+ 1
+ 3
+ 127
+059 12-str.Gt
+ 2
+ 1
+ 26
+ 123 Trombone
+ 1
+ 0
+ 58
+ 187 Brightness
+ 3
+ 0
+ 101
+ 251 Heart Beat
+ 1
+ 4
+ 127
+060 Mandolin
+ 2
+ 2
+ 26
+ 124 Trombone 2
+ 1
+ 1
+ 58
+ 188 Goblin
+ 2
+ 0
+ 102
+ 252 Footsteps
+ 1
+ 5
+ 127
+061 Steel + Body
+ 2
+ 3
+ 26
+ 125 Bright Tb
+ 1
+ 2
+ 58
+ 189 Echo Drops
+ 2
+ 0
+ 103
+ 253 Gun Shot
+ 1
+ 0
+ 128
+062 Jazz Gt.
+ 1
+ 0
+ 27
+ 126 Tuba
+ 1
+ 0
+ 59
+ 190 Echo Bell
+ 3
+ 1
+ 103
+ 254 Machine Gun
+ 1
+ 1
+ 128
+063 Pedal Steel
+ 1
+ 1
+ 27
+ 127 MutedTrumpet
+ 1
+ 0
+ 60
+ 191 Echo Pan
+ 2
+ 2
+ 103
+ 255 Lasergun
+ 1
+ 2
+ 128
+064 Clean Gt.
+ 1
+ 0
+ 28
+ 128 MuteTrumpet2
+ 1
+ 1
+ 60
+ 192 Star Theme
+ 2
+ 0
+ 104
+ 256 Explosion
+ 2
+ 3
+ 128

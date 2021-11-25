@@ -1,0 +1,1030 @@
+PR-G (Preset G Group)
+ PR-H (Preset H Group)
+No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+001
+ Da Chronic
+ 2
+ SYNTH BASS
+ 071
+ Classic Lead
+ 4
+ HARD LEAD
+ 001
+ Minor Thirds
+ 2
+ PULSATING
+ 071
+ Side Band X
+ 5
+ BRIGHT PAD
+002
+ Virtual RnBs
+ 2
+ SYNTH BASS
+ 072
+ Optik’Synth
+ 2
+ HARD LEAD
+ 002
+ Strobe X
+ 5
+ PULSATING
+ 072
+ Mashy Scene
+ 4
+ BRIGHT PAD
+003
+ Not a Bass
+ 2
+ SYNTH BASS
+ 073
+ Feat Lead
+ 2
+ HARD LEAD
+ 003
+ Orbiting
+ 3
+ PULSATING
+ 073
+ Spr SideBand
+ 6
+ BRIGHT PAD
+004
+ Nu RnB Saw 1
+ 4
+ SYNTH BASS
+ 074
+ X Sync Mod
+ 2
+ HARD LEAD
+ 004
+ FX World
+ 2
+ PULSATING
+ 074
+ Digitvox
+ 2
+ BRIGHT PAD
+005
+ Nu RnB Saw 2
+ 4
+ SYNTH BASS
+ 075
+ SBF Lead
+ 4
+ HARD LEAD
+ 005
+ Mr. Fourier
+ 3
+ PULSATING
+ 075
+ Oral eXam
+ 4
+ BRIGHT PAD
+006
+ Buzzy Bs
+ 2
+ SYNTH BASS
+ 076
+ Hard Sync
+ 4
+ HARD LEAD
+ 006
+ Nu Trance X
+ 2
+ PULSATING
+ 076
+ Timeline
+ 4
+ BRIGHT PAD
+007
+ SBF Saw Bs
+ 3
+ SYNTH BASS
+ 077
+ Rezo Sync
+ 3
+ HARD LEAD
+ 007
+ eXisDance
+ 4
+ PULSATING
+ 077
+ Whisper Pad
+ 3
+ BRIGHT PAD
+008
+ Party Bass
+ 3
+ SYNTH BASS
+ 078
+ Wire Sync
+ 3
+ HARD LEAD
+ 008
+ Are U ready?
+ 4
+ PULSATING
+ 078
+ Orchipad
+ 5
+ BRIGHT PAD
+009
+ Tornrubber
+ 2
+ SYNTH BASS
+ 079
+ Distro FXM
+ 3
+ HARD LEAD
+ 009
+ Minty Fresh
+ 3
+ PULSATING
+ 079
+ Visionary
+ 4
+ BRIGHT PAD
+010
+ Drop Bass
+ 3
+ SYNTH BASS
+ 080
+ Epic Lead
+ 2
+ HARD LEAD
+ 010
+ Spectrums
+ 4
+ PULSATING
+ 080
+ Rave Stringy
+ 4
+ BRIGHT PAD
+011
+ Filament
+ 5
+ SYNTH BASS
+ 081
+ Crumble Syn
+ 2
+ HARD LEAD
+ 011
+ Shape of X
+ 5
+ PULSATING
+ 081
+ InfinitePhsr
+ 6
+ BRIGHT PAD
+012
+ Dust Bass
+ 4
+ SYNTH BASS
+ 082
+ SlippingSaws
+ 3
+ HARD LEAD
+ 012
+ Auto 5thSaws
+ 4
+ PULSATING
+ 082
+ Jupiter 2004
+ 4
+ BRIGHT PAD
+013
+ Mr. Nasty
+ 2
+ SYNTH BASS
+ 083
+ Bag Lead
+ 3
+ HARD LEAD
+ 013
+ Strobot
+ 2
+ PULSATING
+ 083
+ Light Phaser
+ 5
+ BRIGHT PAD
+014
+ Bass Drive
+ 3
+ SYNTH BASS
+ 084
+ Dirty Saw
+ 2
+ HARD LEAD
+ 014
+ Dreamswirl
+ 3
+ PULSATING
+ 084
+ Life-on
+ 4
+ BRIGHT PAD
+015
+ Underneath
+ 4
+ SYNTH BASS
+ 085
+ Wezcoast
+ 2
+ HARD LEAD
+ 015
+ Galaxadin
+ 2
+ PULSATING
+ 085
+ Polar Morn
+ 4
+ BRIGHT PAD
+016
+ Dirt & Grime
+ 3
+ SYNTH BASS
+ 086
+ X-Saw Lead
+ 2
+ HARD LEAD
+ 016
+ Welcome2X
+ 1
+ PULSATING
+ 086
+ Saturn Rings
+ 4
+ BRIGHT PAD
+017
+ Down & Dirty
+ 2
+ SYNTH BASS
+ 087
+ ActualAnalog
+ 2
+ HARD LEAD
+ 017
+ Space & Time
+ 4
+ PULSATING
+ 087
+ Ooh La La
+ 5
+ BRIGHT PAD
+018
+ SubOscar
+ 3
+ SYNTH BASS
+ 088
+ SBF Reso
+ 4
+ HARD LEAD
+ 018
+ Cross Talk
+ 1
+ PULSATING
+ 088
+ Flying X
+ 5
+ BRIGHT PAD
+019
+ Full Strings
+ 4
+ STRINGS
+ 089
+ SliCed Lead
+ 2
+ SOFT LEAD
+ 019
+ Lava Flows
+ 6
+ PULSATING
+ 089
+ Motion Pad
+ 4
+ SOFT PAD
+020
+ X StrSection
+ 4
+ STRINGS
+ 090
+ Synthi Fizz
+ 2
+ SOFT LEAD
+ 020
+ Steppin Faze
+ 2
+ PULSATING
+ 090
+ Mash Pad
+ 5
+ BRIGHT PAD
+021
+ Oct Strings
+ 6
+ STRINGS
+ 091
+ Mini Growl
+ 2
+ SOFT LEAD
+ 021
+ Reanimation
+ 2
+ PULSATING
+ 091
+ Xtragalactic
+ 4
+ SOFT PAD
+022
+ Sahara Str
+ 4
+ STRINGS
+ 092
+ Jupiter Lead
+ 1
+ SOFT LEAD
+ 022
+ VoX Chopper
+ 2
+ PULSATING
+ 092
+ Morph Filter
+ 3
+ SOFT PAD
+023
+ Random Mood
+ 6
+ STRINGS
+ 093
+ X-Pulse Lead
+ 2
+ SOFT LEAD
+ 023
+ SquareSphere
+ 2
+ PULSATING
+ 093
+ TrnsSweepPad
+ 6
+ SOFT PAD
+024
+ X Hall Str
+ 8
+ STRINGS
+ 094
+ Jupi Square
+ 2
+ SOFT LEAD
+ 024
+ Auto Sync
+ 2
+ PULSATING
+ 094
+ Follow
+ 2
+ SOFT PAD
+025
+ Strings Flow
+ 4
+ STRINGS
+ 095
+ TriStac Lead
+ 2
+ SOFT LEAD
+ 025
+ Vocastic
+ 8
+ PULSATING
+ 095
+ Jupiter-X
+ 5
+ SOFT PAD
+026
+ Biggie Bows
+ 6
+ STRINGS
+ 096
+ Modular Lead
+ 3
+ SOFT LEAD
+ 026
+ Bending Logo
+ 8
+ SYNTH FX
+ 096
+ Riven Pad
+ 5
+ SOFT PAD
+027
+ Staccato VS
+ 4
+ STRINGS
+ 097
+ Sinetific
+ 2
+ SOFT LEAD
+ 027
+ SolarPleXus
+ 2
+ SYNTH FX
+ 097
+ Consolament
+ 3
+ SOFT PAD
+028
+ So Staccato
+ 4
+ STRINGS
+ 098
+ Dirty D/A
+ 3
+ SOFT LEAD
+ 028
+ Scare
+ 7
+ SYNTH FX
+ 098
+ Spacious Pad
+ 4
+ SOFT PAD
+029
+ Pizz’Stac VS
+ 6
+ STRINGS
+ 099
+ EuronalSynth
+ 2
+ SOFT LEAD
+ 029
+ Chaoism
+ 3
+ SYNTH FX
+ 099
+ JD Pop Pad
+ 3
+ SOFT PAD
+030 Mellow Tron
+ 3
+ STRINGS
+ 100 Xtrem Sine
+ 1
+ SOFT LEAD
+ 030 Hillside
+ 1
+ SYNTH FX
+ 100 Silhouette
+ 3
+ SOFT PAD
+031
+ Moody Tron
+ 3
+ STRINGS
+ 101
+ Killerbeez
+ 4
+ TECHNO SYNTH
+ 031
+ Alien Voice
+ 2
+ SYNTH FX
+ 101
+ JP-8 Phase
+ 4
+ SOFT PAD
+032
+ Tronic Str
+ 2
+ STRINGS
+ 102
+ Freeze Synth
+ 5
+ TECHNO SYNTH
+ 032
+ What What?
+ 4
+ SYNTH FX
+ 102
+ Nu Epic Pad
+ 2
+ SOFT PAD
+033
+ Machine Str
+ 2
+ STRINGS
+ 103
+ JamPacked!
+ 4
+ TECHNO SYNTH
+ 033
+ Beyond Here
+ 3
+ SYNTH FX
+ 103
+ Forever
+ 5
+ SOFT PAD
+034
+ Symphonika
+ 8
+ ORCHESTRA
+ 104
+ SawStac Chd
+ 3
+ TECHNO SYNTH
+ 034
+ Mod Scanner
+ 2
+ SYNTH FX
+ 104
+ Flange Dream
+ 4
+ SOFT PAD
+035
+ Pop Orch
+ 7
+ ORCHESTRA
+ 105
+ Trancepire
+ 1
+ TECHNO SYNTH
+ 035
+ Gasp
+ 8
+ SYNTH FX
+ 105
+ Guild Vox
+ 3
+ SOFT PAD
+036
+ Contemp’Orch
+ 8
+ ORCHESTRA
+ 106
+ Acid Lead
+ 2
+ TECHNO SYNTH
+ 036
+ Neverville
+ 6
+ SYNTH FX
+ 106
+ 5th Pad X
+ 5
+ SOFT PAD
+037
+ Orange Skin
+ 4
+ HIT&STAB
+ 107
+ Tranceformer
+ 1
+ TECHNO SYNTH
+ 037
+ Landing Pad
+ 3
+ SYNTH FX
+ 107
+ Evolution X
+ 2
+ SOFT PAD
+038
+ Tutti
+ 8
+ HIT&STAB
+ 108
+ Anadroid
+ 1
+ TECHNO SYNTH
+ 038
+ Celebrated
+ 4
+ SYNTH FX
+ 108
+ Chariots
+ 4
+ SOFT PAD
+039
+ Brass Ditt
+ 2
+ HIT&STAB
+ 109
+ Shroomy
+ 3
+ TECHNO SYNTH
+ 039
+ ResoSweep Up
+ 1
+ SYNTH FX
+ 109
+ Trevor’s Pad
+ 4
+ PULSATING
+040
+ Housechord
+ 3
+ HIT&STAB
+ 110
+ SBF Nozer
+ 2
+ TECHNO SYNTH
+ 040
+ The VorteX
+ 2
+ SYNTH FX
+ 110
+ Nu Pad
+ 2
+ PULSATING
+041
+ Mod Chord
+ 2
+ HIT&STAB
+ 111
+ Voxulizer
+ 2
+ TECHNO SYNTH
+ 041
+ Magic Wave
+ 2
+ SYNTH FX
+ 111
+ Fantomas Pad
+ 5
+ PULSATING
+042
+ Dance Steam
+ 2
+ HIT&STAB
+ 112
+ Wired Rez
+ 3
+ TECHNO SYNTH
+ 042
+ Shangri-La
+ 5
+ SYNTH FX
+ 112
+ Film Cue
+ 4
+ VOX
+043
+ Disto Stab !
+ 5
+ HIT&STAB
+ 113
+ Noize R us
+ 2
+ TECHNO SYNTH
+ 043
+ CerealKiller
+ 1
+ SYNTH FX
+ 113
+ Choral Sweep
+ 3
+ VOX
+044
+ Fairy Flute
+ 3
+ FLUTE
+ 114
+ Inner Voices
+ 4
+ TECHNO SYNTH
+ 044
+ DigimaX
+ 2
+ OTHER SYNTH
+ 114
+ Paradise
+ 4
+ VOX
+045
+ Chiffed Toot
+ 1
+ FLUTE
+ 115
+ Beep Melodie
+ 4
+ TECHNO SYNTH
+ 045
+ Trancy X
+ 4
+ OTHER SYNTH
+ 115
+ Sad ceremony
+ 8
+ VOX
+046
+ Hop Flute
+ 2
+ FLUTE
+ 116
+ Alpha Hoover
+ 1
+ TECHNO SYNTH
+ 046
+ X Sweep Saws
+ 3
+ OTHER SYNTH
+ 116
+ Lost Voices
+ 4
+ VOX
+047
+ HimalayaPipe
+ 4
+ FLUTE
+ 117
+ Steel Wire
+ 2
+ TECHNO SYNTH
+ 047
+ X-Trance
+ 3
+ OTHER SYNTH
+ 117
+ Talk 2 Me
+ 2
+ VOX
+048
+ X Brs Sect 1
+ 6
+ AC.BRASS
+ 118
+ Rav-i-Toid
+ 3
+ TECHNO SYNTH
+ 048
+ JP-8000 Saws
+ 2
+ OTHER SYNTH
+ 118
+ Pearly Harp
+ 4
+ PLUCKED
+049
+ Pop Stak Brs
+ 8
+ AC.BRASS
+ 119
+ Rez Therapy
+ 4
+ TECHNO SYNTH
+ 049
+ X Super Saws
+ 3
+ OTHER SYNTH
+ 119
+ Nylon Harp
+ 3
+ PLUCKED
+050 X Brs Sect 2
+ 4
+ AC.BRASS
+ 120 Ivan’s
+ 4
+ TECHNO SYNTH
+ 050 Exhale
+ 2
+ OTHER SYNTH
+ 120 Skydiver
+ 2
+ PLUCKED
+051
+ Pop Brs wAtk
+ 4
+ AC.BRASS
+ 121
+ Morpher
+ 8
+ TECHNO SYNTH
+ 051
+ SBF Voices
+ 2
+ OTHER SYNTH
+ 121
+ Unpluck’d
+ 3
+ PLUCKED
+052
+ Hybrid Brass
+ 8
+ AC.BRASS
+ 122
+ StellarTreck
+ 4
+ PULSATING
+ 052
+ Stadium SBF
+ 1
+ OTHER SYNTH
+ 122
+ Ethno Plucks
+ 3
+ PLUCKED
+053
+ Nu Stab Brs
+ 5
+ AC.BRASS
+ 123
+ Tekno Tone
+ 1
+ PULSATING
+ 053
+ Master X
+ 4
+ OTHER SYNTH
+ 123
+ SaraswatiRvr
+ 3
+ PLUCKED
+054
+ Heavy Brs 1
+ 3
+ AC.BRASS
+ 124
+ Generator
+ 2
+ PULSATING
+ 054
+ X-panda
+ 2
+ OTHER SYNTH
+ 124
+ Drone X
+ 4
+ PLUCKED
+055
+ Heavy Brs 2
+ 4
+ AC.BRASS
+ 125
+ ARP x Race
+ 1
+ PULSATING
+ 055
+ TDreamTouch
+ 3
+ OTHER SYNTH
+ 125
+ Lounge Kit
+ 2
+ COMBINATION
+056
+ Wonder Brass
+ 6
+ AC.BRASS
+ 126
+ DSP Chaos
+ 1
+ PULSATING
+ 056
+ Smooth Synth
+ 3
+ OTHER SYNTH
+ 126
+ Gospel Trio
+ 3
+ COMBINATION
+057
+ Pop Brs Sfz
+ 4
+ AC.BRASS
+ 127
+ Phraserblade
+ 2
+ PULSATING
+ 057
+ Stereotype
+ 2
+ OTHER SYNTH
+ 127
+ xcultural
+ 3
+ COMBINATION
+058
+ Pop Brs Stac
+ 2
+ AC.BRASS
+ 128
+ Dancefloor
+ 4
+ PULSATING
+ 058
+ Saw Keystep
+ 2
+ OTHER SYNTH
+ 128
+ When I’m 64
+ 2
+ COMBINATION
+059
+ Brass Fall /
+ 2
+ AC.BRASS
+ 059
+ 4mant Cycle
+ 1
+ OTHER SYNTH
+060
+ X-Saw Brass1
+ 2
+ SYNTH BRASS
+ 060
+ Trance Sweep
+ 3
+ OTHER SYNTH
+061
+ JP8000 Brass
+ 7
+ SYNTH BRASS
+ 061
+ Modular
+ 2
+ OTHER SYNTH
+062
+ X-Saw Brass2
+ 4
+ SYNTH BRASS
+ 062
+ Triple X
+ 2
+ OTHER SYNTH
+063
+ Bend SynBrs
+ 4
+ SYNTH BRASS
+ 063
+ Angel Pipes
+ 2
+ OTHER SYNTH
+064
+ Sax Heavy
+ 6
+ SAX
+ 064
+ Vint Clavier
+ 3
+ OTHER SYNTH
+065
+ FXM Alto Sax
+ 1
+ SAX
+ 065
+ Wired Synth
+ 8
+ OTHER SYNTH
+066
+ Simply Nasty
+ 4
+ HARD LEAD
+ 066
+ Nu Romance
+ 4
+ OTHER SYNTH
+067
+ Deep Wine
+ 3
+ HARD LEAD
+ 067
+ Survivoz
+ 4
+ BRIGHT PAD
+068
+ Bon Voyage
+ 3
+ HARD LEAD
+ 068
+ Ring Worldz
+ 2
+ BRIGHT PAD
+069
+ Xpress Lead
+ 2
+ HARD LEAD
+ 069
+ Mashed!? :0)
+ 4
+ BRIGHT PAD
+070
+ BodyElectric
+ 3
+ HARD LEAD
+ 070
+ Saturn Siren
+ 5
+ BRIGHT PAD

@@ -1,0 +1,2 @@
+type : process/synth/fluidsynth
+name : test for loading fluidsynth default

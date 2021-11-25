@@ -1,0 +1,2 @@
+type : process/synth/zynaddsubfx
+name : zynaddsubfx test for loading default profile

@@ -2,11 +2,11 @@ import os
 import logging
 
 LOGGING_LEVEL=logging.DEBUG
-
+logging.basicConfig(level=LOGGING_LEVEL)
 ############################################
 #
 ############################################
-CONFIG_BASE = os.path.expanduser("~/.config/midisw")
+CONFIG_BASE = os.path.expanduser("~/.config/fugumaniacs.com/midisw")
 PROFILE_BASE = os.path.join(CONFIG_BASE, "profile")
 
 if __file__ == None:

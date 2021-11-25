@@ -1,6 +1,5 @@
 type: synth/hard
 name: AX-1
-recive:
 send:
   ch: "0,15"
   notes: "40,84"
@@ -27,11 +26,8 @@ send:
     0x12 : GENERAL_PURPOSE_CONTROLLER_3_MSB
     0x13 : GENERAL_PURPOSE_CONTROLLER_4_MSB
     0x20 : BANK_SELECT_LSB
-
     0x40 : SUSTAIN_ONOFF
     0x41 : PORTAMENT_ONOFF
-
-
     0x47 : SOUND_CONTROLLER_2
     0x48 : SOUND_CONTROLLER_3
     0x49 : SOUND_CONTROLLER_4
@@ -40,13 +36,9 @@ send:
     0x4c : SOUND_CONTROLLER_7
     0x4d : SOUND_CONTROLLER_8
     0x4e : SOUND_CONTROLLER_9
-
-
     0x5b : EFFECTS_1_DEPTH
     0x5c : EFFECTS_2_DEPTH
     0x5d : EFFECTS_3_DEPTH
-
     0x7e : MONO_MODE_ON
     0x7f : POLY_MODE_ON
-
-    
+recv:

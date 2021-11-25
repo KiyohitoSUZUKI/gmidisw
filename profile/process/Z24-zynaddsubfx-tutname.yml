@@ -1,0 +1,8 @@
+type : process/synth/zynaddsubfx
+name : testing zynaddsubfx name specification
+require :
+  - type : jack/audio
+    name : system:playback_1
+  - type : jack/audio
+    name : system:playback_2
+zynaddsubfx_name : tutname

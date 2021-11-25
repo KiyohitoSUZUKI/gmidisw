@@ -1,0 +1,1030 @@
+PR-C (Preset C Group)
+ PR-D (Preset D Group)
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+001
+ FS Flute
+ 2
+ FLUTE
+ 071
+ Mod Lead
+ 4
+ SOFT LEAD
+002
+ Atk Flute
+ 2
+ FLUTE
+ 072
+ Digital Ld 1
+ 3
+ SOFT LEAD
+003
+ Piccolo
+ 2
+ FLUTE
+ 073
+ Chubby Lead
+ 2
+ SOFT LEAD
+004
+ Andes Mood
+ 1
+ FLUTE
+ 074
+ Sneaky Leady
+ 2
+ SOFT LEAD
+005
+ Pan Pipes
+ 2
+ FLUTE
+ 075
+ SoloNzPeaker
+ 1
+ SOFT LEAD
+006
+ Solo Tp
+ 2
+ AC.BRASS
+ 076
+ Clone Zone
+ 2
+ SOFT LEAD
+007
+ Horn Chops
+ 2
+ AC.BRASS
+ 077
+ Legato Tkno
+ 1
+ SOFT LEAD
+008
+ Flugel Horn
+ 1
+ AC.BRASS
+ 078
+ DC Triangle
+ 2
+ HARD LEAD
+009
+ Spit Flugel
+ 3
+ AC.BRASS
+ 079
+ Sqr-Seqence
+ 1
+ HARD LEAD
+010
+ Mute Tp /Mod
+ 3
+ AC.BRASS
+ 080
+ Griggley
+ 2
+ HARD LEAD
+011
+ Harmon Mute
+ 1
+ AC.BRASS
+ 081
+ Pure Square
+ 2
+ HARD LEAD
+012
+ Soft Tb
+ 2
+ AC.BRASS
+ 082
+ Legato Saw
+ 2
+ HARD LEAD
+013
+ Solo Tb
+ 1
+ AC.BRASS
+ 083
+ Lone Prophat
+ 1
+ HARD LEAD
+014
+ Solo Bone
+ 2
+ AC.BRASS
+ 084
+ Porta SoloLd
+ 2
+ HARD LEAD
+015
+ Grande Tuba
+ 2
+ AC.BRASS
+ 085
+ FS Saw Ld 1
+ 2
+ HARD LEAD
+016
+ FS Tuba
+ 1
+ AC.BRASS
+ 086
+ FS Saw Ld 2
+ 2
+ HARD LEAD
+017
+ StackTp Sect
+ 4
+ AC.BRASS
+ 087
+ Wind Syn Ld
+ 2
+ HARD LEAD
+018
+ Tb Section
+ 5
+ AC.BRASS
+ 088
+ Dual Profs
+ 2
+ HARD LEAD
+019
+ TpTb Sect.
+ 2
+ AC.BRASS
+ 089
+ Gwyo Press
+ 2
+ HARD LEAD
+020
+ FS Brass
+ 7
+ AC.BRASS
+ 090
+ Q DualSaws
+ 2
+ HARD LEAD
+021
+ DynamicBrass
+ 8
+ AC.BRASS
+ 091
+ Mogulator Ld
+ 2
+ HARD LEAD
+022
+ Tpts & Tmbs
+ 2
+ AC.BRASS
+ 092
+ DirtyVoltage
+ 2
+ HARD LEAD
+023
+ Brass & Sax
+ 5
+ AC.BRASS
+ 093
+ Clean?
+ 2
+ HARD LEAD
+024
+ BrassPartOut
+ 6
+ AC.BRASS
+ 094
+ Distortion
+ 4
+ HARD LEAD
+025
+ Simple Tutti
+ 2
+ AC.BRASS
+ 095
+ FS Syn Ld
+ 2
+ HARD LEAD
+026
+ Full sForza
+ 4
+ AC.BRASS
+ 096
+ SynLead 0322
+ 2
+ HARD LEAD
+027
+ F.Horns Sect
+ 3
+ AC.BRASS
+ 097
+ Digital Ld 2
+ 3
+ HARD LEAD
+028
+ Stereo Brass
+ 4
+ AC.BRASS
+ 098
+ X-Sink Delay
+ 3
+ HARD LEAD
+029
+ Brass Fall
+ 2
+ AC.BRASS
+ 099
+ Noized Lead
+ 3
+ HARD LEAD
+030 FS Saw Brass
+ 4
+ SYNTH BRASS
+ 100 Space Lead
+ 3
+ HARD LEAD
+031
+ Wide SynBrss
+ 2
+ SYNTH BRASS
+ 101
+ Destroyed Ld
+ 2
+ HARD LEAD
+032
+ DetuneSawBrs
+ 2
+ SYNTH BRASS
+ 102
+ SyncModulate
+ 3
+ HARD LEAD
+033
+ J-Pop Brass
+ 6
+ SYNTH BRASS
+ 103
+ Sync Tank
+ 2
+ HARD LEAD
+034
+ Brash!
+ 4
+ SYNTH BRASS
+ 104
+ Squareheads
+ 2
+ HARD LEAD
+035
+ Jump For KY
+ 3
+ SYNTH BRASS
+ 105
+ Distorted MG
+ 1
+ HARD LEAD
+036
+ Neo SuperBrs
+ 4
+ SYNTH BRASS
+ 106
+ SonicVampire
+ 2
+ HARD LEAD
+037
+ SoftSynBrass
+ 2
+ SYNTH BRASS
+ 107
+ Blue Meanie
+ 2
+ HARD LEAD
+038
+ Silky JP
+ 2
+ SYNTH BRASS
+ 108
+ Defcon
+ 2
+ HARD LEAD
+039
+ Silk Brs Pad
+ 1
+ SYNTH BRASS
+ 109
+ Stimulation
+ 4
+ HARD LEAD
+040
+ FatSynBrass
+ 4
+ SYNTH BRASS
+ 110
+ Sub Hit
+ 3
+ HIT&STAB
+041
+ Soprano Sax
+ 1
+ SAX
+ 111
+ Blue Ice
+ 2
+ HIT&STAB
+042
+ Solo Sop Sax
+ 1
+ SAX
+ 112
+ .16 Orch
+ 2
+ HIT&STAB
+043
+ Alto mp
+ 1
+ SAX
+ 113
+ In da Cave
+ 2
+ HIT&STAB
+044
+ Alto Sax
+ 1
+ SAX
+ 114
+ BlastfrmPast
+ 2
+ HIT&STAB
+045
+ Solo AltoSax
+ 1
+ SAX
+ 115
+ Smear Hit 1
+ 2
+ HIT&STAB
+046
+ AltoLead Sax
+ 1
+ SAX
+ 116
+ Smear Hit 2
+ 2
+ HIT&STAB
+047
+ Tenor Sax
+ 2
+ SAX
+ 117
+ Good Old Hit
+ 4
+ HIT&STAB
+048
+ Fat TenorSax
+ 3
+ SAX
+ 118
+ Mix Hit 1
+ 4
+ HIT&STAB
+049
+ Baritone Sax
+ 1
+ SAX
+ 119
+ Philly Hit
+ 1
+ HIT&STAB
+050 Sax Sect. 1
+ 3
+ SAX
+ 120 Mojo Man
+ 2
+ HIT&STAB
+051
+ Sax Sect. 2
+ 4
+ SAX
+ 121
+ Cheezy Movie
+ 4
+ HIT&STAB
+052
+ Horny Sax
+ 2
+ SAX
+ 122
+ Mix Hit 2
+ 4
+ HIT&STAB
+053
+ R&B TriLead
+ 1
+ SOFT LEAD
+ 123
+ Lo-Fi Hit
+ 4
+ HIT&STAB
+054
+ PeakArpSine
+ 1
+ SOFT LEAD
+ 124
+ 2ble Action
+ 2
+ HIT&STAB
+055
+ Theramax
+ 1
+ SOFT LEAD
+ 125
+ Funk Chank
+ 2
+ HIT&STAB
+056
+ FS Sqr Lead
+ 2
+ SOFT LEAD
+ 126
+ Venus
+ 2
+ HIT&STAB
+057
+ Dawn Of Pan
+ 4
+ SOFT LEAD
+ 127
+ AluminmWires
+ 3
+ TECHNO058
+ 058
+ Sqr Diamond
+ 2
+ SOFT LEAD
+ 128
+ Raven Chord
+ 4
+ TECHNO059
+ 059
+ FS SoftLead
+ 2
+ SOFT LEAD
+060
+ Mid Saw Ld
+ 4
+ SOFT LEAD
+061
+ FS ResoLead
+ 3
+ SOFT LEAD
+062
+ Dig-n-Duke
+ 2
+ SOFT LEAD
+063
+ Modulated Ld
+ 1
+ SOFT LEAD
+064
+ Waspy Lead
+ 1
+ SOFT LEAD
+065
+ Mew Lead
+ 1
+ SOFT LEAD
+066
+ Violin Lead
+ 2
+ SOFT LEAD
+067
+ Oscillo Lead
+ 2
+ SOFT LEAD
+068
+ JP Saw Lead
+ 2
+ SOFT LEAD
+069
+ MG Sqr Lead
+ 2
+ SOFT LEAD
+070
+ Tristar
+ 2
+ SOFT LEAD
+ 001
+ HPF Sweep
+ 2
+ TECHNO SYNTH
+ 071
+ TB Booster
+ 2
+ OTHER SYNTH
+ 002
+ Moon Synth
+ 2
+ TECHNO SYNTH
+ 072
+ Syn-Orch/Mod
+ 6
+ OTHER SYNTH
+ 003
+ DelyResoSaws
+ 2
+ TECHNO SYNTH
+ 073
+ Pressyn
+ 2
+ OTHER SYNTH
+ 004
+ R-Trance
+ 7
+ TECHNO SYNTH
+ 074
+ High Five
+ 2
+ OTHER SYNTH
+ 005
+ Alfa Retro
+ 3
+ TECHNO SYNTH
+ 075
+ 4DaCommonMan
+ 4
+ OTHER SYNTH
+ 006
+ Nu Hoover
+ 4
+ TECHNO SYNTH
+ 076
+ Orgaenia
+ 5
+ OTHER SYNTH
+ 007
+ Hoovercraft
+ 4
+ TECHNO SYNTH
+ 077
+ Sleeper
+ 4
+ OTHER SYNTH
+ 008
+ Braatz...
+ 6
+ TECHNO SYNTH
+ 078
+ Sugar Synth
+ 5
+ OTHER SYNTH
+ 009
+ AllinOneRiff
+ 7
+ TECHNO SYNTH
+ 079
+ Ice Palace
+ 4
+ OTHER SYNTH
+ 010
+ YZ Again
+ 7
+ TECHNO SYNTH
+ 080
+ Story Harp
+ 7
+ OTHER SYNTH
+ 011
+ Flazzy Lead
+ 8
+ TECHNO SYNTH
+ 081
+ LostParadise
+ 5
+ OTHER SYNTH
+ 012
+ Coffee Bee
+ 2
+ TECHNO SYNTH
+ 082
+ Magnetic 5th
+ 2
+ OTHER SYNTH
+ 013
+ Sweet House
+ 4
+ TECHNO SYNTH
+ 083
+ Jazz Doos
+ 4
+ VOX
+ 014
+ Alien Bubble
+ 1
+ TECHNO SYNTH
+ 084
+ Beat Vox
+ 1
+ VOX
+ 015
+ LowFreqHit
+ 3
+ TECHNO SYNTH
+ 085
+ Scat Beats
+ 1
+ VOX
+ 016
+ Fred&Barney
+ 6
+ TECHNO SYNTH
+ 086
+ Choir Aahs 1
+ 4
+ VOX
+ 017
+ Periscope
+ 4
+ TECHNO SYNTH
+ 087
+ Choir Aahs 2
+ 4
+ VOX
+ 018
+ Electrostars
+ 4
+ TECHNO SYNTH
+ 088
+ ChoirOoh/Aft
+ 4
+ VOX
+ 019
+ Going Mad!
+ 4
+ TECHNO SYNTH
+ 089
+ Angels Choir
+ 4
+ VOX
+ 020
+ LoFiSequence
+ 2
+ TECHNO SYNTH
+ 090
+ Angelique
+ 4
+ VOX
+ 021
+ DreamInColor
+ 3
+ TECHNO SYNTH
+ 091
+ Gospel Oohs
+ 2
+ VOX
+ 022
+ MelodicDrums
+ 2
+ TECHNO SYNTH
+ 092
+ Uhmmm
+ 8
+ VOX
+ 023
+ Techno Snips
+ 2
+ TECHNO SYNTH
+ 093
+ Aah Vox
+ 2
+ VOX
+ 024
+ TB Wah
+ 1
+ TECHNO SYNTH
+ 094
+ Morning Star
+ 3
+ VOX
+ 025
+ Waving TB303
+ 3
+ TECHNO SYNTH
+ 095
+ Syn Opera
+ 4
+ VOX
+ 026
+ Digi Seq
+ 3
+ TECHNO SYNTH
+ 096
+ BeautifulOne
+ 4
+ VOX
+ 027
+ Seq Saw
+ 1
+ TECHNO SYNTH
+ 097
+ Ooze
+ 2
+ VOX
+ 028
+ Reso Seq Saw
+ 1
+ TECHNO SYNTH
+ 098
+ Aerial Choir
+ 4
+ VOX
+ 029
+ DetuneSeqSaw
+ 2
+ TECHNO SYNTH
+ 099
+ 3D Vox
+ 3
+ VOX
+ 030 Technotribe
+ 2
+ TECHNO SYNTH
+ 100 FS Sqr Pad
+ 4
+ SOFT PAD
+ 031
+ MetalVoxBox
+ 4
+ TECHNO SYNTH
+ 101
+ FS Hollow
+ 4
+ SOFT PAD
+ 032
+ Teethy Grit
+ 3
+ TECHNO SYNTH
+ 102
+ Silk Pad
+ 3
+ SOFT PAD
+ 033
+ Repertition
+ 4
+ TECHNO SYNTH
+ 103
+ WarmReso Pad
+ 2
+ SOFT PAD
+ 034
+ Jucy Saw
+ 3
+ OTHER SYNTH
+ 104
+ FS Soft Pad
+ 3
+ SOFT PAD
+ 035
+ Cue Tip
+ 1
+ OTHER SYNTH
+ 105
+ Soft Breeze
+ 2
+ SOFT PAD
+ 036
+ TB-Sequence
+ 1
+ OTHER SYNTH
+ 106
+ JP Strings 1
+ 3
+ SOFT PAD
+ 037
+ Europe Xpres
+ 2
+ OTHER SYNTH
+ 107
+ JP Strings 2
+ 5
+ SOFT PAD
+ 038
+ Squeepy
+ 1
+ OTHER SYNTH
+ 108
+ FS Syn Str
+ 5
+ SOFT PAD
+ 039
+ Atmorave
+ 4
+ OTHER SYNTH
+ 109
+ Syn Strings
+ 2
+ SOFT PAD
+ 040
+ DOC Stack
+ 2
+ OTHER SYNTH
+ 110
+ OB Slow Str
+ 2
+ SOFT PAD
+ 041
+ Sweep Lead
+ 2
+ OTHER SYNTH
+ 111
+ Super SynStr
+ 2
+ SOFT PAD
+ 042
+ Digitaless
+ 2
+ OTHER SYNTH
+ 112
+ Strings Pad
+ 2
+ SOFT PAD
+ 043
+ Flip Pad
+ 3
+ OTHER SYNTH
+ 113
+ R&B SoftPad
+ 2
+ SOFT PAD
+ 044
+ Short Detune
+ 2
+ OTHER SYNTH
+ 114
+ Reso Pad
+ 3
+ SOFT PAD
+ 045
+ forSequence
+ 2
+ OTHER SYNTH
+ 115
+ Phat Pad
+ 2
+ SOFT PAD
+ 046
+ Memory Pluck
+ 2
+ OTHER SYNTH
+ 116
+ FS PhaserPad
+ 2
+ SOFT PAD
+ 047
+ Metalic Bass
+ 2
+ OTHER SYNTH
+ 117
+ Mystic Str
+ 5
+ SOFT PAD
+ 048
+ Aqua
+ 2
+ OTHER SYNTH
+ 118
+ Glass Organ
+ 3
+ SOFT PAD
+ 049
+ Big Planet
+ 2
+ OTHER SYNTH
+ 119
+ Wind Pad
+ 4
+ SOFT PAD
+ 050 Wet Atax
+ 2
+ OTHER SYNTH
+ 120 Combination
+ 4
+ SOFT PAD
+ 051
+ Houze Clavi
+ 2
+ OTHER SYNTH
+ 121
+ HumanKindnes
+ 4
+ SOFT PAD
+ 052
+ SuperSawSlow
+ 2
+ OTHER SYNTH
+ 122
+ Atmospherics
+ 2
+ SOFT PAD
+ 053
+ TranceSaws
+ 4
+ OTHER SYNTH
+ 123
+ Terra Nostra
+ 8
+ SOFT PAD
+ 054
+ Trancy Synth
+ 2
+ OTHER SYNTH
+ 124
+ OB Aaahs
+ 4
+ SOFT PAD
+ 055
+ Saw Stack
+ 2
+ OTHER SYNTH
+ 125
+ Vulcano Pad
+ 8
+ SOFT PAD
+ 056
+ Frgile Saws
+ 2
+ OTHER SYNTH
+ 126
+ Cloud #9
+ 3
+ SOFT PAD
+ 057
+ Steamed Sawz
+ 2
+ OTHER SYNTH
+ 127
+ Lostscapes
+ 2
+ SOFT PAD
+ 058
+ RAVtune
+ 2
+ OTHER SYNTH
+ 128
+ Organic Pad
+ 3
+ SOFT PAD
+059
+ Bustranza
+ 2
+ OTHER SYNTH
+060
+ AftTch Ji-n
+ 2
+ OTHER SYNTH
+061
+ JP OctAttack
+ 2
+ OTHER SYNTH
+062
+ Oct Unison
+ 6
+ OTHER SYNTH
+063
+ Xtatic
+ 4
+ OTHER SYNTH
+064
+ Dirty Combo
+ 2
+ OTHER SYNTH
+065
+ FM’s Attack
+ 3
+ OTHER SYNTH
+066
+ Impression
+ 4
+ OTHER SYNTH
+067
+ Digi-vox Syn
+ 1
+ OTHER SYNTH
+068
+ Fairy Factor
+ 6
+ OTHER SYNTH
+069
+ Tempest
+ 2
+ OTHER SYNTH
+070
+ X-Racer
+ 2
+ OTHER SYNTH

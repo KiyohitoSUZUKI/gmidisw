@@ -1,0 +1,83 @@
+type: synth/hard
+name: fantomXR
+recv:
+  ch: "0,15"
+  notes: "0,127"
+  message:
+    0x80 : NOTE_OFF
+    0x90 : NOTE_ON
+    0xa0 : POLY_PRESSURE
+    0xb0 : CONTROL_CHANGE
+    0xc0 : PROGRAM_CHANGE
+    0xd0 : CHANNEL_PRESSURE
+    0xe0 : PITCHBEND
+    0xf8 : TIMING_CLOCK
+    0xfe : ACTIVE_SENSING
+    0xf0 : SYSEX
+    0xf7 : EOX
+  cc:
+    0x00 : BANK_SELECT_MSB
+    0x01 : MODULATION_WHEEL_MSB
+    0x02 : BREATH_CONTROLLER
+    0x04 : FOOT_CONTROLLER_MSB
+    0x05 : PORTAMENT_TIME_MSB    
+    0x06 : DATA_ENTRY_MSB
+    0x07 : CHANNEL_VOLUME_MSB
+    0x08 : BALANCE_MSB
+    0x0a : PAN_MSB
+    0x0b : EXPRESSION_CONTROLLER_MSB
+    0x10 : GENERAL_PURPOSE_CONTROLLER_1_MSB
+    0x11 : GENERAL_PURPOSE_CONTROLLER_2_MSB
+    0x12 : GENERAL_PURPOSE_CONTROLLER_3_MSB
+    0x13 : GENERAL_PURPOSE_CONTROLLER_4_MSB
+    0x20 : BANK_SELECT_LSB
+    0x26 : DATA_ENTRY_LSB
+    0x40 : SUSTAIN_ONOFF    
+    0x41 : PORTAMENT_ONOFF
+    0x42 : SOSTENUTO_ONOFF
+    0x43 : SOFT_PEDAL_ONOFF
+    0x44 : LEGATO_ONOFF
+    0x45 : HOLD_2_ONOFF
+    0x47 : RESONANCE
+    0x48 : RELEASE_TIME
+    0x49 : ATTACK_TIME
+    0x4a : CUTOFF
+    0x4b : DECAY_TIME
+    0x4c : VIBRATO_RATE
+    0x4d : VIBRATO_DEPTH
+    0x4e : VIBRATO_DELAY
+    0x50 : GENERAL_PURPOSE_CONTROLLER_5
+    0x51 : GENERAL_PURPOSE_CONTROLLER_6
+    0x52 : GENERAL_PURPOSE_CONTROLLER_7
+    0x53 : GENERAL_PURPOSE_CONTROLLER_8
+    0x54 : PORTAMENT_CONTROL
+    0x5b : REVERB_SEND_LEVEL
+    0x5d : CHORUS_SEND_LEVEL
+    0x62 : NRPN_LSB
+    0x63 : NRPN_MSB
+    0x64 : RPN_LSB
+    0x65 : RPN_MSB
+    0x78 : ALL_SOUND_OFF
+    0x79 : RESET_ALL_CONTROLLERS
+    0x7b : ALL_NOTES_OFF
+    0x7c : OMNI_MODE_OFF
+    0x7d : OMNI_MODE_ON
+    0x7e : MONO_MODE_ON
+    0x7f : POLY_MODE_ON
+tonenamecsv: fantomxr.csv
+# patch definition:
+# group          msb lsb
+# USER(1-128)     87  0
+# USER(129-256)   87  1
+# CARD(1-128)     87 32
+# CARD(129-256)   87 33
+# PR-A            87 64
+# PR-B            87 65
+# PR-C            87 66
+# PR-D            87 67
+# PR-E            87 68
+# PR-F            87 69
+# PR-G            87 70
+# PR-H            87 71
+# GM2(1-128)      121 0
+# GM2(129-256)    121 1

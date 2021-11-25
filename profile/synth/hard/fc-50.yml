@@ -1,6 +1,5 @@
 type: synth/hard
 name: FC-50
-recive:
 send:
   ch: "0,15"
   notes: ""
@@ -12,4 +11,4 @@ send:
     16  : "EXP2:CC#16:GeneralPurpose_1_MSB"
     64  : "CTL1:CC#64:Hold/Sustain"
     80  : "CTL2:CC#80:GeneralPurpose_5"
-    
+recv:    

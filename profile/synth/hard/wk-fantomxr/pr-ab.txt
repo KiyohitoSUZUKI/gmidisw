@@ -1,0 +1,1030 @@
+PR-A (Preset A Group)
+ PR-B (Preset B Group)
+No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+001
+ So true...
+ 2
+ AC.PIANO
+ 071
+ Synergy MLT
+ 2
+ MALLET
+ 001
+ GK Dubguitar
+ 4
+ EL.GUITAR
+ 071
+ FS Unison Bs
+ 2
+ SYNTH BASS
+002
+ ConcertPiano
+ 3
+ AC.PIANO
+ 072
+ Steel Drums
+ 2
+ MALLET
+ 002
+ & Scratchee
+ 4
+ EL.GUITAR
+ 072
+ TexturedBusy
+ 3
+ SYNTH BASS
+003
+ Warm Piano
+ 2
+ AC.PIANO
+ 073
+ Xylosizer
+ 2
+ MALLET
+ 003
+ Touch Drive
+ 1
+ DIST.GUITAR
+ 073
+ Detune Bass
+ 2
+ SYNTH BASS
+004
+ Warm Pad Pno
+ 4
+ AC.PIANO
+ 074
+ Toy Box
+ 3
+ MALLET
+ 004
+ FS Chunk
+ 4
+ DIST.GUITAR
+ 074
+ Lo Bass
+ 3
+ SYNTH BASS
+005
+ Warm Str Pno
+ 6
+ AC.PIANO
+ 075
+ FullDraw Org
+ 3
+ ORGAN
+ 005
+ Trem-o-Vibe
+ 2
+ DIST.GUITAR
+ 075
+ SQ Pan
+ 2
+ SYNTH BASS
+006
+ BealeSt Walk
+ 4
+ AC.PIANO
+ 076
+ StakDraw Org
+ 4
+ ORGAN
+ 006
+ Nice Dist Gt
+ 1
+ DIST.GUITAR
+ 076
+ FS GarageBs1
+ 3
+ SYNTH BASS
+007
+ Rapsody
+ 7
+ AC.PIANO
+ 077
+ FullStop Org
+ 3
+ ORGAN
+ 007
+ LP Dist
+ 2
+ DIST.GUITAR
+ 077
+ FS GarageBs2
+ 2
+ SYNTH BASS
+008
+ JD-800 Piano
+ 1
+ AC.PIANO
+ 078
+ FS Perc Org
+ 4
+ ORGAN
+ 008
+ Hurtling Gtr
+ 3
+ DIST.GUITAR
+ 078
+ Sub Sonic
+ 4
+ SYNTH BASS
+009
+ SA Dance Pno
+ 2
+ AC.PIANO
+ 079
+ Euro Organ
+ 2
+ ORGAN
+ 009
+ Searing COSM
+ 2
+ DIST.GUITAR
+ 079
+ FS Jungle Bs
+ 2
+ SYNTH BASS
+010
+ FS E-Grand
+ 4
+ AC.PIANO
+ 080
+ Perky Organ
+ 1
+ ORGAN
+ 010
+ FS Loud Gtr
+ 3
+ DIST.GUITAR
+ 080
+ R&B Bass 4
+ 1
+ SYNTH BASS
+011
+ FS Blend Pno
+ 5
+ AC.PIANO
+ 081
+ LoFi PercOrg
+ 1
+ ORGAN
+ 011
+ FS Plugged!!
+ 1
+ DIST.GUITAR
+ 081
+ Beepin Bass
+ 2
+ SYNTH BASS
+012
+ LA Piano
+ 3
+ AC.PIANO
+ 082
+ Rochno Org
+ 4
+ ORGAN
+ 012
+ Punker 1
+ 2
+ DIST.GUITAR
+ 082
+ MC-TB Bass
+ 2
+ SYNTH BASS
+013
+ FS Rhodes
+ 5
+ EL.PIANO
+ 083
+ R&B Organ 1
+ 2
+ ORGAN
+ 013
+ FS PowerChd
+ 2
+ DIST.GUITAR
+ 083
+ Acdg Bass
+ 2
+ SYNTH BASS
+014
+ StageRhdTrem
+ 2
+ EL.PIANO
+ 084
+ R&B Organ 2
+ 4
+ ORGAN
+ 014
+ Punker 2
+ 2
+ DIST.GUITAR
+ 084
+ Loco Voco
+ 2
+ SYNTH BASS
+015
+ Back2the60s
+ 2
+ EL.PIANO
+ 085
+ Zepix Organ
+ 4
+ ORGAN
+ 015
+ Ulti Ac Bass
+ 2
+ BASS
+ 085
+ TBasic
+ 1
+ SYNTH BASS
+016
+ Tine Rhodes
+ 1
+ EL.PIANO
+ 086
+ Peep Durple
+ 5
+ ORGAN
+ 016
+ Downright Bs
+ 3
+ BASS
+ 086
+ Unplug it!
+ 1
+ SYNTH BASS
+017
+ LEO Rhodes
+ 4
+ EL.PIANO
+ 087
+ FS Dist Bee
+ 1
+ ORGAN
+ 017
+ Ultimo Bass
+ 3
+ BASS
+ 087
+ V.Form Bass
+ 1
+ SYNTH BASS
+018
+ LonesomeRoad
+ 2
+ EL.PIANO
+ 088
+ 60’s Org 1
+ 2
+ ORGAN
+ 018
+ Roomy Bass
+ 2
+ BASS
+ 088
+ S&H Bass
+ 3
+ SYNTH BASS
+019
+ Age’n’Tines
+ 2
+ EL.PIANO
+ 089
+ 60’s Org 2
+ 2
+ ORGAN
+ 019
+ Comp’d JBass
+ 2
+ BASS
+ 089
+ Destroyed Bs
+ 2
+ SYNTH BASS
+020
+ Brill TremEP
+ 2
+ EL.PIANO
+ 090
+ FS SoapOpera
+ 1
+ ORGAN
+ 020
+ FingerMaster
+ 2
+ BASS
+ 090
+ FS Acid Bs
+ 2
+ SYNTH BASS
+021
+ Crystal Rhd
+ 2
+ EL.PIANO
+ 091
+ Chapel Organ
+ 2
+ ORGAN
+ 021
+ CompressBass
+ 2
+ BASS
+ 091
+ Lo-Fi TB
+ 1
+ SYNTH BASS
+022
+ Celestial EP
+ 4
+ EL.PIANO
+ 092
+ Grand Pipe
+ 3
+ ORGAN
+ 022
+ All Round Bs
+ 2
+ BASS
+ 092
+ Violin
+ 1
+ STRINGS
+023
+ Spirit Tines
+ 3
+ EL.PIANO
+ 093
+ Masked Opera
+ 6
+ ORGAN
+ 023
+ R&B Bs/Slide
+ 2
+ BASS
+ 093
+ Viola
+ 3
+ STRINGS
+024
+ Psycho EP
+ 4
+ EL.PIANO
+ 094
+ Pipe Org/Mod
+ 6
+ ORGAN
+ 024
+ Thumb Up!
+ 1
+ BASS
+ 094
+ Cello
+ 1
+ STRINGS
+025
+ Mk2 Stg phsr
+ 3
+ EL.PIANO
+ 095
+ Vodkakordion
+ 3
+ ACCORDION
+ 025
+ Tubby Mute
+ 2
+ BASS
+ 095
+ Contrabass
+ 4
+ STRINGS
+026
+ SA Stacks
+ 5
+ EL.PIANO
+ 096
+ Squeeze Me!
+ 2
+ ACCORDION
+ 026
+ Chicken Bass
+ 3
+ BASS
+ 096
+ Dolce Qrt
+ 2
+ STRINGS
+027
+ Backing PhEP
+ 2
+ EL.PIANO
+ 097
+ Guinguette
+ 3
+ ACCORDION
+ 027
+ Snug Bass
+ 2
+ BASS
+ 097
+ Chamber Str
+ 3
+ STRINGS
+028
+ Balladeer
+ 3
+ EL.PIANO
+ 098
+ HarWonderca
+ 2
+ HARMONICA
+ 028
+ Return2Base!
+ 1
+ BASS
+ 098
+ Small Str
+ 7
+ STRINGS
+029
+ Remember
+ 2
+ EL.PIANO
+ 099
+ BluesHrp V/S
+ 1
+ HARMONICA
+ 029
+ A Big Pick
+ 3
+ BASS
+ 099
+ Studio Sect.
+ 4
+ STRINGS
+030 FS Wurly
+ 2
+ EL.PIANO
+ 100 Green Bullet
+ 2
+ HARMONICA
+ 030 Basement
+ 1
+ BASS
+ 100 Stringz 101
+ 2
+ STRINGS
+031
+ Wurly Trem
+ 3
+ EL.PIANO
+ 101
+ SoftNyln Gtr
+ 2
+ AC.GUITAR
+ 031
+ FS Fretnot 1
+ 2
+ BASS
+ 101
+ Crossed Bows
+ 5
+ STRINGS
+032
+ Super Wurly
+ 3
+ EL.PIANO
+ 102
+ FS Nylon Gt
+ 2
+ AC.GUITAR
+ 032
+ FS Fretnot 2
+ 3
+ BASS
+ 102
+ FS Strings
+ 8
+ STRINGS
+033
+ Pulse EPno
+ 3
+ EL.PIANO
+ 103
+ Wet Nyln Gtr
+ 3
+ AC.GUITAR
+ 033
+ RichFretless
+ 2
+ BASS
+ 103
+ 2-way Sect.
+ 2
+ STRINGS
+034
+ Fonky Fonky
+ 2
+ EL.PIANO
+ 104
+ Pre Mass Hum
+ 4
+ AC.GUITAR
+ 034
+ Got Pop?
+ 1
+ BASS
+ 104
+ Warm Strings
+ 5
+ STRINGS
+035
+ FM Rhodes
+ 5
+ EL.PIANO
+ 105
+ Thick Steel
+ 2
+ AC.GUITAR
+ 035
+ JBass v/Thmb
+ 2
+ BASS
+ 105
+ Stacc mp Str
+ 4
+ STRINGS
+036
+ FM-777
+ 5
+ EL.PIANO
+ 106
+ Uncle Martin
+ 2
+ AC.GUITAR
+ 036
+ FS Slap Bass
+ 2
+ BASS
+ 106
+ Magnolia Str
+ 3
+ STRINGS
+037
+ FM EPad
+ 3
+ EL.PIANO
+ 107
+ Wide Ac Gtr
+ 4
+ AC.GUITAR
+ 037
+ LEO Bass
+ 1
+ BASS
+ 107
+ Movie Scene
+ 4
+ STRINGS
+038
+ D6 Clavi
+ 3
+ KEYBOARDS
+ 108
+ Comp Stl Gtr
+ 2
+ AC.GUITAR
+ 038
+ Smooth Bass
+ 2
+ SYNTH BASS
+ 108
+ Gang Strangs
+ 6
+ STRINGS
+039
+ Cutter Clavi
+ 2
+ KEYBOARDS
+ 109
+ Stl Gtr Duo
+ 2
+ AC.GUITAR
+ 039
+ MC-404 Bass
+ 2
+ SYNTH BASS
+ 109
+ Clustered!?!
+ 8
+ STRINGS
+040
+ FS Clavi
+ 2
+ KEYBOARDS
+ 110
+ FS 12str Gtr
+ 3
+ AC.GUITAR
+ 040
+ SH-101 Bs 1
+ 2
+ SYNTH BASS
+ 110
+ DramaSect/sw
+ 4
+ STRINGS
+041
+ Funky D
+ 2
+ KEYBOARDS
+ 111
+ So good !
+ 2
+ AC.GUITAR
+ 041
+ FS Syn Bass1
+ 3
+ SYNTH BASS
+ 111
+ DelicatePizz
+ 4
+ STRINGS
+042
+ Phase Clavi
+ 2
+ KEYBOARDS
+ 112
+ Muted Gtr Pk
+ 2
+ EL.GUITAR
+ 042
+ Electro Rubb
+ 2
+ SYNTH BASS
+ 112
+ Vls PizzHall
+ 4
+ STRINGS
+043
+ BPF Clavi Ph
+ 2
+ KEYBOARDS
+ 113
+ StratSeq’nce
+ 3
+ EL.GUITAR
+ 043
+ R&B Bass 1
+ 2
+ SYNTH BASS
+ 113
+ Orch Pizz
+ 4
+ STRINGS
+044
+ Pulse Clavi
+ 2
+ KEYBOARDS
+ 114
+ Fixx it
+ 1
+ EL.GUITAR
+ 044
+ Enorjizor
+ 2
+ SYNTH BASS
+ 114
+ Wind & Str 1
+ 7
+ ORCHESTRA
+045
+ Analog Clavi
+ 1
+ KEYBOARDS
+ 115
+ Jazz Guitar
+ 1
+ EL.GUITAR
+ 045
+ LowFat Bass
+ 3
+ SYNTH BASS
+ 115
+ Wind & Str 2
+ 5
+ ORCHESTRA
+046
+ Reso Clavi
+ 2
+ KEYBOARDS
+ 116
+ DynoJazz Gtr
+ 1
+ EL.GUITAR
+ 046
+ Doze Bass
+ 1
+ SYNTH BASS
+ 116
+ Farewell
+ 6
+ ORCHESTRA
+047
+ Harpsy Clavi
+ 2
+ KEYBOARDS
+ 117
+ Wet TC
+ 1
+ EL.GUITAR
+ 047
+ FS Flat Bs
+ 3
+ SYNTH BASS
+ 117
+ Orch & Horns
+ 5
+ ORCHESTRA
+048
+ FS Harpsi
+ 4
+ KEYBOARDS
+ 118
+ Clean Gtr
+ 1
+ EL.GUITAR
+ 048
+ Saw&MG Bass
+ 4
+ SYNTH BASS
+ 118
+ Soft Orch 1
+ 4
+ ORCHESTRA
+049
+ Amadeus
+ 8
+ KEYBOARDS
+ 119
+ Crimson Gtr
+ 2
+ EL.GUITAR
+ 049
+ R&B Bass 2
+ 1
+ SYNTH BASS
+ 119
+ Soft Orch 2
+ 7
+ ORCHESTRA
+050 FS Celesta
+ 1
+ KEYBOARDS
+ 120 Touchee Funk
+ 2
+ EL.GUITAR
+ 050 Foundation
+ 2
+ SYNTH BASS
+ 120 Henry IX
+ 4
+ ORCHESTRA
+051
+ FS Glocken
+ 1
+ BELL
+ 121
+ Plug n’ Gig
+ 1
+ EL.GUITAR
+ 051
+ R&B Bass 3
+ 2
+ SYNTH BASS
+ 121
+ Ending Scene
+ 4
+ ORCHESTRA
+052
+ Music Bells
+ 2
+ BELL
+ 122
+ Kinda Kurt
+ 2
+ EL.GUITAR
+ 052
+ HipHop Bs 1
+ 2
+ SYNTH BASS
+ 122
+ Good Old Day
+ 3
+ WIND
+053
+ FS Musicbox
+ 1
+ BELL
+ 123
+ Nice Oct Gtr
+ 2
+ EL.GUITAR
+ 053
+ HipHop Bs 2
+ 3
+ SYNTH BASS
+ 123
+ FS WindWood
+ 3
+ WIND
+054
+ MuBox Pad
+ 4
+ BELL
+ 124
+ Strat Gtr
+ 1
+ EL.GUITAR
+ 054
+ Solid Goa
+ 1
+ SYNTH BASS
+ 124
+ Clarence.net
+ 2
+ WIND
+055
+ Kalimbells
+ 2
+ BELL
+ 125
+ JC Strat Bdy
+ 2
+ EL.GUITAR
+ 055
+ ResoSyn Bs 1
+ 2
+ SYNTH BASS
+ 125
+ FS Oboe
+ 1
+ WIND
+056
+ Himalaya Ice
+ 2
+ BELL
+ 126
+ Twin StratsB
+ 2
+ EL.GUITAR
+ 056
+ SH-1 Bass
+ 2
+ SYNTH BASS
+ 126
+ Hall Oboe
+ 1
+ WIND
+057
+ Dreaming Box
+ 4
+ BELL
+ 127
+ BluNoteStrat
+ 1
+ EL.GUITAR
+ 057
+ SH-101 Bs 2
+ 2
+ SYNTH BASS
+ 127
+ English Horn
+ 1
+ WIND
+058
+ Step Ice
+ 4
+ BELL
+ 128
+ FS Funk Gtr
+ 2
+ EL.GUITAR
+ 058
+ FS Syn Bass2
+ 2
+ SYNTH BASS
+ 128
+ Bassoon
+ 1
+ WIND
+059
+ FS Bell 1
+ 4
+ BELL
+ 059
+ Poly Bass
+ 1
+ SYNTH BASS
+060
+ FS Bell 2
+ 2
+ BELL
+ 060
+ Punch MG 1
+ 2
+ SYNTH BASS
+061
+ Candy Bell
+ 2
+ BELL
+ 061
+ Gashed Bass
+ 2
+ SYNTH BASS
+062
+ FS Chime
+ 1
+ BELL
+ 062
+ Q Bass
+ 3
+ SYNTH BASS
+063
+ Bell Ring
+ 4
+ BELL
+ 063
+ FS Rubber Bs
+ 3
+ SYNTH BASS
+064
+ Tubular Bell
+ 1
+ BELL
+ 064
+ ResoSyn Bs 2
+ 2
+ SYNTH BASS
+065
+ 5th Key
+ 2
+ BELL
+ 065
+ Super-G DX
+ 3
+ SYNTH BASS
+066
+ Vibrations
+ 2
+ MALLET
+ 066
+ Punch MG 2
+ 2
+ SYNTH BASS
+067
+ FS Vibe
+ 1
+ MALLET
+ 067
+ Kickin’ Bass
+ 2
+ SYNTH BASS
+068
+ FS Marimba
+ 1
+ MALLET
+ 068
+ OilDrum Bass
+ 3
+ SYNTH BASS
+069
+ FS Xylo
+ 1
+ MALLET
+ 069
+ Glide-iator
+ 2
+ SYNTH BASS
+070
+ Ethno Keys
+ 2
+ MALLET
+ 070
+ MG+SubOsc Bs
+ 2
+ SYNTH BASS

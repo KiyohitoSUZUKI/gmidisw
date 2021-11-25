@@ -1,0 +1,9 @@
+type : process/synth/fluidsynth
+name : prepare GS/GM soundfont
+require :
+  - type : jack/audio
+    name : system:playback_1
+  - type : jack/audio
+    name : system:playback_2
+soundfont : ~/lib/audio/soundfont/GSGM/FluidR3_GM.sf2
+

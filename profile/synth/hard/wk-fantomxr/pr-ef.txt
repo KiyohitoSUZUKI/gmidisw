@@ -1,0 +1,1030 @@
+PR-E (Preset E Group)
+ PR-F (Preset F Group)
+No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+ No. Name
+ Voices
+ Category
+001
+ Digital Aahs
+ 3
+ SOFT PAD
+ 071
+ FS Sitar 2
+ 5
+ PLUCKED
+ 001
+ ConcertGrand
+ 2
+ AC.PIANO
+ 071
+ NylonGt /HO
+ 1
+ AC.GUITAR
+002
+ FreezinNight
+ 5
+ SOFT PAD
+ 072
+ Sitar on C
+ 6
+ PLUCKED
+ 002
+ Hall Concert
+ 2
+ AC.PIANO
+ 072
+ Nylon 4way
+ 1
+ AC.GUITAR
+003
+ FS MovinPad
+ 8
+ SOFT PAD
+ 073
+ Sitar Baby
+ 1
+ PLUCKED
+ 003
+ Bright Tune
+ 2
+ AC.PIANO
+ 073
+ Nyl-Intro
+ 2
+ AC.GUITAR
+004
+ Seq-Pad 1
+ 8
+ SOFT PAD
+ 074
+ EasternDlite
+ 2
+ PLUCKED
+ 004
+ Mellow Tune
+ 2
+ AC.PIANO
+ 074
+ Nylon Dreams
+ 4
+ AC.GUITAR
+005
+ Digi-Swell
+ 3
+ BRIGHT PAD
+ 075
+ Elec Sitar
+ 3
+ PLUCKED
+ 005
+ Back E-Grand
+ 2
+ EL.PIANO
+ 075
+ With Love
+ 4
+ AC.GUITAR
+006
+ Stringship
+ 4
+ BRIGHT PAD
+ 076
+ Neo Sitar
+ 2
+ PLUCKED
+ 006
+ Rhodes mkI
+ 3
+ EL.PIANO
+ 076
+ Amore Story
+ 4
+ AC.GUITAR
+007
+ SaturnHolida
+ 2
+ BRIGHT PAD
+ 077
+ Bosporus
+ 3
+ PLUCKED
+ 007
+ Stage Rhodes
+ 4
+ EL.PIANO
+ 077
+ Interlude
+ 5
+ AC.GUITAR
+008
+ India Garden
+ 6
+ BRIGHT PAD
+ 078
+ Santur Stack
+ 4
+ PLUCKED
+ 008
+ MKS20EnsemEP
+ 4
+ EL.PIANO
+ 078
+ Sweet Tears
+ 4
+ AC.GUITAR
+009
+ OB Rezo Pad
+ 3
+ BRIGHT PAD
+ 079
+ Aerial Harp
+ 2
+ PLUCKED
+ 009
+ UltimatGrand
+ 2
+ AC.PIANO
+ 079
+ WithALtlHelp
+ 5
+ AC.GUITAR
+010
+ Sonic Surfer
+ 2
+ BRIGHT PAD
+ 080
+ Harpiness
+ 2
+ PLUCKED
+ 010
+ X Pure Grand
+ 2
+ AC.PIANO
+ 080
+ Double Track
+ 2
+ EL.GUITAR
+011
+ 2 Point 2
+ 7
+ BRIGHT PAD
+ 081
+ TroubadorEns
+ 4
+ PLUCKED
+ 011
+ Studio Grand
+ 2
+ AC.PIANO
+ 081
+ Mystic Gtr
+ 2
+ EL.GUITAR
+012
+ 2.2 Pad
+ 7
+ BRIGHT PAD
+ 082
+ Jamisen
+ 2
+ PLUCKED
+ 012
+ 88ConcertPno
+ 2
+ AC.PIANO
+ 082
+ Cut Thru Wah
+ 2
+ EL.GUITAR
+013
+ New Year Day
+ 4
+ BRIGHT PAD
+ 083
+ Koto
+ 8
+ PLUCKED
+ 013
+ DryStudio88
+ 4
+ AC.PIANO
+ 083
+ GuitaratiuG
+ 3
+ EL.GUITAR
+014
+ Mod Dare
+ 4
+ BRIGHT PAD
+ 084
+ Monsoon
+ 4
+ PLUCKED
+ 014
+ First Choice
+ 2
+ AC.PIANO
+ 084
+ WahGt Riff
+ 1
+ EL.GUITAR
+015
+ Neuro-Drone
+ 7
+ BRIGHT PAD
+ 085
+ Bend Koto
+ 2
+ PLUCKED
+ 015
+ Rokkin’ pF
+ 2
+ AC.PIANO
+ 085
+ Larsen /Aft
+ 2
+ DIST.GUITAR
+016
+ In The Pass
+ 3
+ BRIGHT PAD
+ 086
+ LongDistance
+ 1
+ ETHNIC
+ 016
+ Dark Grand
+ 4
+ AC.PIANO
+ 086
+ Darmstrat X
+ 5
+ DIST.GUITAR
+017
+ Polar Night
+ 4
+ BRIGHT PAD
+ 087
+ Ambi Shaku
+ 3
+ ETHNIC
+ 017
+ Piano Oz
+ 4
+ AC.PIANO
+ 087
+ Rockin’ Dly
+ 3
+ DIST.GUITAR
+018
+ Electric Pad
+ 3
+ BRIGHT PAD
+ 088
+ FS PipeDream
+ 4
+ ETHNIC
+ 018
+ Grand Hall
+ 5
+ AC.PIANO
+ 088
+ DistGt Mt
+ 2
+ DIST.GUITAR
+019
+ MistOver5ths
+ 4
+ BRIGHT PAD
+ 089
+ FS Lochscape
+ 2
+ ETHNIC
+ 019
+ X Piano +Str
+ 4
+ AC.PIANO
+ 089
+ GTR Heroes
+ 5
+ DIST.GUITAR
+020
+ Voyager
+ 4
+ BRIGHT PAD
+ 090
+ FS Far East
+ 4
+ ETHNIC
+ 020
+ Arie Piano
+ 4
+ AC.PIANO
+ 090
+ X Mute Bass
+ 2
+ BASS
+021
+ Cosmic Rays
+ 4
+ BRIGHT PAD
+ 091
+ Banjo
+ 2
+ FRETTED
+ 021
+ Cicada Piano
+ 4
+ AC.PIANO
+ 091
+ Nu Finger Bs
+ 1
+ BASS
+022
+ Gritty Pad
+ 1
+ BRIGHT PAD
+ 092
+ Breath Slice
+ 5
+ SYNTH FX
+ 022
+ Clare Voyent
+ 5
+ AC.PIANO
+ 092
+ Soulfinger
+ 2
+ BASS
+023
+ Distant Sun
+ 4
+ BRIGHT PAD
+ 093
+ Lazer Points
+ 2
+ SYNTH FX
+ 023
+ X Piano +Pad
+ 4
+ AC.PIANO
+ 093
+ X Finger Bs1
+ 2
+ BASS
+024
+ Filmscape
+ 5
+ BRIGHT PAD
+ 094
+ Chaos 2003
+ 4
+ SYNTH FX
+ 024
+ X Piano +Vox
+ 4
+ AC.PIANO
+ 094
+ StickyOctave
+ 3
+ BASS
+025
+ BillionStars
+ 4
+ BRIGHT PAD
+ 095
+ SoundOnSound
+ 1
+ SYNTH FX
+ 025
+ FX Piano
+ 4
+ AC.PIANO
+ 095
+ Bass & Amp
+ 2
+ BASS
+026
+ Sand Pad
+ 2
+ BRIGHT PAD
+ 096
+ Low Beat-S
+ 5
+ SYNTH FX
+ 026
+ AmbientPiano
+ 4
+ AC.PIANO
+ 096
+ Chorus Bass
+ 2
+ BASS
+027
+ Fat Stacks
+ 4
+ BRIGHT PAD
+ 097
+ Control Room
+ 4
+ SYNTH FX
+ 027
+ Tre Rhodes
+ 5
+ EL.PIANO
+ 097
+ X 5String Bs
+ 2
+ BASS
+028
+ ReverseSweep
+ 2
+ BRIGHT PAD
+ 098
+ FS Try This!
+ 3
+ SYNTH FX
+ 028
+ Stage Phazer
+ 2
+ EL.PIANO
+ 098
+ 6-Pack Stick
+ 2
+ BASS
+029
+ HugeSoundMod
+ 4
+ BRIGHT PAD
+ 099
+ OutOf sortz
+ 5
+ SYNTH FX
+ 029
+ StageCabinet
+ 2
+ EL.PIANO
+ 099
+ Nu Pick Bass
+ 2
+ BASS
+030 Metal Swell
+ 5
+ BRIGHT PAD
+ 100 Seq
+ 4
+ SYNTH FX
+ 030 AMP Rhodes
+ 5
+ EL.PIANO
+ 100 Comp Picker
+ 2
+ BASS
+031
+ ShapeURMusic
+ 5
+ PULSATING
+ 101
+ Scatter
+ 7
+ SYNTH FX
+ 031
+ VelPanWurly
+ 2
+ EL.PIANO
+ 101
+ X Finger Bs2
+ 2
+ BASS
+032
+ Synth Force
+ 4
+ PULSATING
+ 102
+ WaitnOutside
+ 2
+ SYNTH FX
+ 032
+ Mr.AXXE
+ 3
+ EL.PIANO
+ 102
+ X Picked Bs
+ 2
+ BASS
+033
+ Trance Split
+ 2
+ PULSATING
+ 103
+ Ambience
+ 3
+ SYNTH FX
+ 033
+ 1983 EP
+ 4
+ EL.PIANO
+ 103
+ Mutation
+ 2
+ BASS
+034
+ Step Trance
+ 1
+ PULSATING
+ 104
+ Fantom Noise
+ 4
+ SYNTH FX
+ 034
+ EP Stack
+ 4
+ EL.PIANO
+ 104
+ X Slap Bass
+ 3
+ BASS
+035
+ Chop Synth
+ 2
+ PULSATING
+ 105
+ Breath Echo
+ 1
+ SYNTH FX
+ 035
+ EP Belle
+ 3
+ EL.PIANO
+ 105
+ Fuzz Mute
+ 2
+ BASS
+036
+ Euro Teuro
+ 6
+ PULSATING
+ 106
+ SoundStrange
+ 3
+ SYNTH FX
+ 036
+ Chocolate EP
+ 6
+ EL.PIANO
+ 106
+ Doubled Bass
+ 3
+ BASS
+037
+ Auto Trance
+ 2
+ PULSATING
+ 107
+ Cosmic Pulse
+ 5
+ SYNTH FX
+ 037
+ Abstract EP
+ 3
+ EL.PIANO
+ 107
+ NewAge Frtls
+ 3
+ BASS
+038
+ Eureggae
+ 1
+ PULSATING
+ 108
+ Faked Piano
+ 4
+ SYNTH FX
+ 038
+ Ringy EP
+ 2
+ EL.PIANO
+ 108
+ Powerline
+ 2
+ SYNTH BASS
+039
+ Sorry4theDLY
+ 1
+ PULSATING
+ 109
+ Tubulence
+ 3
+ SYNTH FX
+ 039
+ Hipchord
+ 4
+ EL.PIANO
+ 109
+ Reso SynBass
+ 3
+ SYNTH BASS
+040
+ Beat Pad
+ 3
+ PULSATING
+ 110
+ South Pole
+ 2
+ SYNTH FX
+ 040
+ Snappy Clav
+ 2
+ KEYBOARDS
+ 110
+ Synth Bassic
+ 2
+ SYNTH BASS
+041
+ FS ResoStep
+ 5
+ PULSATING
+ 111
+ FS Crystal
+ 2
+ SYNTH FX
+ 041
+ Over-D6
+ 3
+ KEYBOARDS
+ 111
+ Down 4 It
+ 1
+ SYNTH BASS
+042
+ TMT Seq Pad
+ 4
+ PULSATING
+ 112
+ ResoSweep Dn
+ 1
+ SYNTH FX
+ 042
+ CoupleHarpsi
+ 7
+ KEYBOARDS
+ 112
+ Glider Bass
+ 1
+ SYNTH BASS
+043
+ ZipDoggyDoDa
+ 7
+ PULSATING
+ 113
+ Zap B3 & C4
+ 1
+ SYNTH FX
+ 043
+ HimalayaThaw
+ 4
+ BELL
+ 113
+ Fundamental
+ 3
+ SYNTH BASS
+044
+ ForYourBreak
+ 4
+ PULSATING
+ 114
+ PolySweep Nz
+ 4
+ SYNTH FX
+ 044
+ Ballad Bells
+ 4
+ BELL
+ 114
+ Artus Bass
+ 3
+ SYNTH BASS
+045
+ HPF Slicer
+ 3
+ PULSATING
+ 115
+ New Planetz
+ 4
+ SYNTH FX
+ 045
+ Bell Monitor
+ 2
+ BELL
+ 115
+ Sweet & Low
+ 2
+ SYNTH BASS
+046
+ DarknessSide
+ 6
+ PULSATING
+ 116
+ Strange Land
+ 6
+ SYNTH FX
+ 046
+ SideBandBell
+ 4
+ BELL
+ 116
+ Change It
+ 3
+ SYNTH BASS
+047
+ Sliced Choir
+ 6
+ PULSATING
+ 117
+ Trancer
+ 4
+ SYNTH FX
+ 047
+ SBF Saw Bell
+ 4
+ BELL
+ 117
+ the ONE
+ 1
+ SYNTH BASS
+048
+ Digi-Doo
+ 2
+ PULSATING
+ 118
+ S&H Voc
+ 2
+ SYNTH FX
+ 048
+ TubyRuesday
+ 2
+ BELL
+ 118
+ ChoruSE ONE
+ 1
+ SYNTH BASS
+049
+ PanningFrmnt
+ 2
+ PULSATING
+ 119
+ 12th Planet
+ 2
+ SYNTH FX
+ 049
+ Music Box 2
+ 2
+ BELL
+ 119
+ Eyes Bass
+ 2
+ SYNTH BASS
+050 Dirty Beat
+ 7
+ PULSATING
+ 120 Ambidextrous
+ 2
+ SOUND FX
+ 050 AirPluck
+ 4
+ MALLET
+ 120 Secret Bass
+ 3
+ SYNTH BASS
+051
+ Hellrazor
+ 3
+ PULSATING
+ 121
+ En-co-re
+ 4
+ SOUND FX
+ 051
+ Airie Vibez
+ 4
+ MALLET
+ 121
+ Base BoX
+ 2
+ SYNTH BASS
+052
+ Electrons
+ 1
+ PULSATING
+ 122
+ Mobile Phone
+ 1
+ SOUND FX
+ 052
+ Ringy Vibes
+ 2
+ MALLET
+ 122
+ Nu RnB Bass
+ 1
+ SYNTH BASS
+053
+ Protons
+ 2
+ PULSATING
+ 123
+ Beat (C4)
+ 4
+ BEAT&GROOVE
+ 053
+ 50`SteelDrms
+ 4
+ MALLET
+ 123
+ D n’ Bass
+ 1
+ SYNTH BASS
+054
+ FS Alfa Rave
+ 5
+ PULSATING
+ 124
+ StepLFO Ens
+ 4
+ BEAT&GROOVE
+ 054
+ VKHold4Speed
+ 4
+ ORGAN
+ 124
+ DnB Bass 1
+ 2
+ SYNTH BASS
+055
+ Brisk Vortex
+ 3
+ PULSATING
+ 125
+ Timpani+Low
+ 4
+ PERCUSSION
+ 055
+ X Perc Organ
+ 3
+ ORGAN
+ 125
+ Fat Bottom
+ 4
+ SYNTH BASS
+056
+ FS Throbulax
+ 2
+ PULSATING
+ 126
+ Timpani Roll
+ 2
+ PERCUSSION
+ 056
+ Rocky Organ
+ 2
+ ORGAN
+ 126
+ Deep S-E
+ 1
+ SYNTH BASS
+057
+ FS Lonizer
+ 4
+ PULSATING
+ 127
+ Bass Drum
+ 4
+ PERCUSSION
+ 057
+ Purple Organ
+ 5
+ ORGAN
+ 127
+ Nu Bace
+ 2
+ SYNTH BASS
+058
+ FS Strobe
+ 4
+ PULSATING
+ 128
+ Techno Craft
+ 3
+ COMBINATION
+ 058
+ Phono Organ
+ 2
+ ORGAN
+ 128
+ Mini Like!
+ 2
+ SYNTH BASS
+059
+ VirtualHuman
+ 4
+ PULSATING
+ 059
+ Mid Pipe Org
+ 4
+ ORGAN
+060
+ FS Line
+ 1
+ PULSATING
+ 060
+ ParisRomance
+ 4
+ ACCORDION
+061
+ StepPitShift
+ 2
+ PULSATING
+ 061
+ La Seine
+ 4
+ ACCORDION
+062
+ Sever
+ 7
+ PULSATING
+ 062
+ VntgAccrdion
+ 3
+ ACCORDION
+063
+ Pad Pulses
+ 3
+ PULSATING
+ 063
+ Oktoberfest
+ 3
+ ACCORDION
+064
+ Dub Tales
+ 2
+ PULSATING
+ 064
+ NaturalNylon
+ 2
+ AC.GUITAR
+065
+ Seq-Pad 2
+ 8
+ PULSATING
+ 065
+ Nylon Gtr VS
+ 2
+ AC.GUITAR
+066
+ Nice Kalimba
+ 1
+ PLUCKED
+ 066
+ Double Nylon
+ 4
+ AC.GUITAR
+067
+ Quiet River
+ 4
+ PLUCKED
+ 067
+ Mellow Nylon
+ 2
+ AC.GUITAR
+068
+ Teky Drop
+ 4
+ PLUCKED
+ 068
+ FlamencoGt X
+ 3
+ AC.GUITAR
+069
+ Pat is away
+ 5
+ PLUCKED
+ 069
+ El Toro Gtr
+ 2
+ AC.GUITAR
+070
+ FS Sitar 1
+ 4
+ PLUCKED
+ 070
+ Dyna Nylon
+ 2
+ AC.GUITAR

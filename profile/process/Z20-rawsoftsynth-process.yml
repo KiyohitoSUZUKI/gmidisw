@@ -1,0 +1,15 @@
+name : test for process raw-softsynth
+require : 
+  - type : jack/audio
+    name : system:playback_1
+  - type : jack/audio
+    name : system:playback_2
+#command : fluidsynth --audio-driver=jack --midi-driver=jack -o audio.jack.id=FluidRawProcess -o midi.jack.id=FluidRawProcess --chorus=no --reverb=no ~/lib/audio/soundfont/GSGM/Jnsgm.sf2
+command : fluidsynth --audio-driver=jack --midi-driver=jack -o audio.jack.id=FluidRawProcess -o midi.jack.id=FluidRawProcess --chorus=no --reverb=no ~/lib/audio/soundfont/GSGM/FluidR3_GM.sf2
+provides : 
+  - type : jack/midi
+    name : FluidRawProcess:midi_00
+  - type : jack/audio
+    name : FluidRawProcess:left
+  - type : jack/audio
+    name : FluidRawProcess:right
